@@ -59,6 +59,7 @@ class BookProcessor:
         for chapter in self.chapters:
             self._process_chapter(chapter)
             self._set_featured_words(chapter, difficulty, words_per_chapter, already_featured)
+            already_featured.update(chapter.featured_words)
             # Generate this chapter's featured words
             # Include any previous featured words
             # Generate other hard reference words
@@ -114,8 +115,9 @@ class BookProcessor:
             if target_index == len(sorted_by_frequency):
                 break
             target_word_tuple = sorted_by_frequency[target_index][0]
-            if target_word_tuple in self.frequency_list and\
-                    self.frequency_list[target_word_tuple] < difficulty:
+            if (target_word_tuple in self.frequency_list and \
+                    self.frequency_list[target_word_tuple] < difficulty) or \
+                    target_word_tuple in used_words:
                 target_index += 1
                 continue
             chapter.featured_words.add(target_word_tuple)
