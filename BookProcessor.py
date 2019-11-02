@@ -69,6 +69,7 @@ class BookProcessor:
         tagged_tokens = nltk.pos_tag(tokens)
         tagged_tokens = self._remove_stopwords(tagged_tokens)
         tagged_tokens = self._remove_proper_nouns(tagged_tokens)
+        tagged_tokens = self._remove_two_letter_words(tagged_tokens)
         simplified_tags = self._get_simplified_tags(tagged_tokens)
         lemmas_list = self._toks_to_lemmas(simplified_tags)
         chapter.word_frequency_list.update(lemmas_list)
@@ -81,6 +82,9 @@ class BookProcessor:
 
     def _remove_proper_nouns(self, tagged_tokens):
         return [x for x in tagged_tokens if x[1] != 'NNP']
+
+    def _remove_two_letter_words(self, tagged_tokens):
+        return [x for x in tagged_tokens if len(x[0]) > 2]
 
     def _get_simplified_tags(self, tagged_tokens):
         simplified_tags = list()
