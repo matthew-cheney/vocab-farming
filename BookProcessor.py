@@ -18,25 +18,25 @@ from Chapter import Chapter
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import spacy
+from spacy.lang.en.stop_words import STOP_WORDS
 
 
 class BookProcessor:
 
     def __init__(self):
         self.chapters = list()
-        self.STOPS = stopwords.words('english')
+        self.STOPS = STOP_WORDS
+        # self.STOPS = stopwords.words('english')
         self.frequency_list = self._load_freq_list()
+        self.nlp = spacy.load('en')
 
     def _load_freq_list(self):
         frequency_list = dict()
         with open("5000_english_words.csv", 'r') as f:
             for line in f:
                 line_split = line.split(',')
-                pos = 'n'
-                if line_split[2] == 'v':
-                    pos = 'v'
-                elif line_split[2] == 'j':
-                    pos = 'a'
+                pos = line_split[2]
                 frequency_list[(line_split[1], pos)] = int(line_split[0])
         return frequency_list
 
@@ -49,7 +49,7 @@ class BookProcessor:
             chapter_number = soup.find('chapter_number').contents[0]
             chapter_number = int(chapter_number)
             chapter_title = soup.find('title').contents[0]
-            chapter_body = soup.find('body').contents[0]
+            chapter_body = str(soup.find('body').contents[0])
             self.chapters.append(Chapter(chapter_number, chapter_title,
                                          chapter_body))
         self.chapters.sort()
@@ -64,21 +64,26 @@ class BookProcessor:
             # Generate other hard reference words
 
     def _process_chapter(self, chapter):
-        tokens = nltk.word_tokenize(chapter.body)
-        tokens = self._filter_by_alpha(tokens)
-        tagged_tokens = nltk.pos_tag(tokens)
-        tagged_tokens = self._remove_stopwords(tagged_tokens)
-        tagged_tokens = self._remove_proper_nouns(tagged_tokens)
-        tagged_tokens = self._remove_two_letter_words(tagged_tokens)
-        simplified_tags = self._get_simplified_tags(tagged_tokens)
-        lemmas_list = self._toks_to_lemmas(simplified_tags)
-        chapter.word_frequency_list.update(lemmas_list)
+        doc = self.nlp(chapter.body)
+        tagged_list = list()
+        for token in doc:
+            tagged_list.append((token.lemma_, token.tag_))
+        tagged_list = self._filter_by_alpha(tagged_list)
+        tagged_list = self._remove_stopwords(tagged_list)
+        tagged_list = self._remove_numbers(tagged_list)
+        tagged_list = self._remove_proper_nouns(tagged_list)
+        tagged_list = self._remove_two_letter_words(tagged_list)
+        simplified_tags = self._get_simplified_tags(tagged_list)
+        chapter.word_frequency_list.update(simplified_tags)
 
     def _filter_by_alpha(self, tokens):
-        return [word for word in tokens if word.isalpha()]
+        return [word for word in tokens if word[0].isalpha()]
 
     def _remove_stopwords(self, tagged_tokens):
         return [x for x in tagged_tokens if x[0].lower() not in self.STOPS]
+
+    def _remove_numbers(self, tagged_tokens):
+        return [x for x in tagged_tokens if x[1] != "CD"]
 
     def _remove_proper_nouns(self, tagged_tokens):
         return [x for x in tagged_tokens if x[1] != 'NNP']
@@ -89,11 +94,7 @@ class BookProcessor:
     def _get_simplified_tags(self, tagged_tokens):
         simplified_tags = list()
         for tok, tag in tagged_tokens:
-            new_tag = 'n'
-            if tag.startswith('J'):
-                new_tag = 'a'
-            elif tag.startswith('V'):
-                new_tag = 'v'
+            new_tag = tag[0].lower()
             simplified_tags.append((tok, new_tag))
         return simplified_tags
 
