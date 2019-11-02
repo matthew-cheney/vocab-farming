@@ -11,7 +11,7 @@ For each chapter:
     Any words above certain difficulty level? (like in Russ 441)
 
 """
-
+import copy
 from glob import glob
 from bs4 import BeautifulSoup
 from Chapter import Chapter
@@ -55,11 +55,14 @@ class BookProcessor:
         self.chapters.sort()
 
     def process_book(self, difficulty=1000, words_per_chapter=15):
-        already_featured = set()
+        already_featured = dict()
         for chapter in self.chapters:
             self._process_chapter(chapter)
             self._set_featured_words(chapter, difficulty, words_per_chapter, already_featured)
-            already_featured.update(chapter.featured_words)
+            for each in chapter.featured_words:
+                if not each in already_featured:
+                    already_featured[each] = list()
+                already_featured[each].append(chapter.number)
             # Generate this chapter's featured words
             # Include any previous featured words
             # Generate other hard reference words
@@ -115,9 +118,14 @@ class BookProcessor:
             if target_index == len(sorted_by_frequency):
                 break
             target_word_tuple = sorted_by_frequency[target_index][0]
+
+            if target_word_tuple in used_words:
+                if not target_word_tuple in chapter.featured_in_previous_chapters:
+                    chapter.featured_in_previous_chapters[target_word_tuple] = list()
+                chapter.featured_in_previous_chapters[target_word_tuple].extend(copy.copy(used_words[target_word_tuple]))
+
             if (target_word_tuple in self.frequency_list and \
-                    self.frequency_list[target_word_tuple] < difficulty) or \
-                    target_word_tuple in used_words:
+                    self.frequency_list[target_word_tuple] < difficulty):
                 target_index += 1
                 continue
             chapter.featured_words.add(target_word_tuple)
