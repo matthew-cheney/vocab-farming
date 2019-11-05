@@ -1,0 +1,5 @@
+translation_api_python_client.egg-info/PKG-INFO
+translation_api_python_client.egg-info/SOURCES.txt
+translation_api_python_client.egg-info/dependency_links.txt
+translation_api_python_client.egg-info/requires.txt
+translation_api_python_client.egg-info/top_level.txt

@@ -20,6 +20,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
+from Word import Word
 
 
 class BookProcessor:
@@ -27,17 +28,29 @@ class BookProcessor:
     def __init__(self):
         self.chapters = list()
         self.STOPS = STOP_WORDS
+        self.level_dictionary = {
+            'A1': 1,
+            'A2': 2,
+            'B1': 3,
+            'B2': 4,
+            'C1': 5,
+            'C2': 6
+        }
         # self.STOPS = stopwords.words('english')
         self.frequency_list = self._load_freq_list()
         self.nlp = spacy.load('en')
 
+
     def _load_freq_list(self):
         frequency_list = dict()
-        with open("5000_english_words.csv", 'r') as f:
+        with open("Kelly_English.csv", 'r') as f:
             for line in f:
                 line_split = line.split(',')
+                rank = int(line_split[0])
+                word = line_split[1].lower()
                 pos = line_split[2]
-                frequency_list[(line_split[1], pos)] = int(line_split[0])
+                level = self.level_dictionary[line_split[3][:-1]]
+                frequency_list[(word, pos)] = Word(rank, word, pos, level)
         return frequency_list
 
 
@@ -54,31 +67,38 @@ class BookProcessor:
                                          chapter_body))
         self.chapters.sort()
 
-    def process_book(self, difficulty=1000, words_per_chapter=15):
+    def process_book(self, difficulty=0, level='A1', words_per_chapter=15):
         already_featured = dict()
+        level = self.level_dictionary[level]
         for chapter in self.chapters:
             self._process_chapter(chapter)
-            self._set_featured_words(chapter, difficulty, words_per_chapter, already_featured)
-            for each in chapter.featured_words:
-                if not each in already_featured:
-                    already_featured[each] = list()
-                already_featured[each].append(chapter.number)
-            # Generate this chapter's featured words
-            # Include any previous featured words
-            # Generate other hard reference words
+            self._set_featured_words(chapter, difficulty, level,
+                                     words_per_chapter, already_featured)
+            self._add_to_already_featured(chapter, already_featured)
+        return self.chapters
+
+    def _add_to_already_featured(self, chapter, already_featured):
+        for each in chapter.featured_words:
+            if not each in already_featured:
+                already_featured[each] = list()
+            already_featured[each].append(chapter.number)
 
     def _process_chapter(self, chapter):
         doc = self.nlp(chapter.body)
         tagged_list = list()
         for token in doc:
             tagged_list.append((token.lemma_, token.tag_))
+        simplified_tags = self._filter_word_list(tagged_list)
+        chapter.word_frequency_list.update(simplified_tags)
+
+    def _filter_word_list(self, tagged_list):
         tagged_list = self._filter_by_alpha(tagged_list)
         tagged_list = self._remove_stopwords(tagged_list)
         tagged_list = self._remove_numbers(tagged_list)
         tagged_list = self._remove_proper_nouns(tagged_list)
         tagged_list = self._remove_two_letter_words(tagged_list)
         simplified_tags = self._get_simplified_tags(tagged_list)
-        chapter.word_frequency_list.update(simplified_tags)
+        return simplified_tags
 
     def _filter_by_alpha(self, tokens):
         return [word for word in tokens if word[0].isalpha()]
@@ -110,25 +130,30 @@ class BookProcessor:
             lemmas_list.append((lemma, tag))
         return lemmas_list
 
-    def _set_featured_words(self, chapter, difficulty, words_per_chapter, used_words):
+    def _set_featured_words(self, chapter, difficulty, level, words_per_chapter, used_words):
         sorted_by_frequency = chapter.word_frequency_list.most_common()
         words_chosen = 0
         target_index = 0
-        while words_chosen < words_per_chapter:
+        for target_word_tuple, freq in sorted_by_frequency:
             if target_index == len(sorted_by_frequency):
                 break
-            target_word_tuple = sorted_by_frequency[target_index][0]
+            # target_word_tuple = sorted_by_frequency[target_index][0]
 
             if target_word_tuple in used_words:
                 if not target_word_tuple in chapter.featured_in_previous_chapters:
                     chapter.featured_in_previous_chapters[target_word_tuple] = list()
+
                 chapter.featured_in_previous_chapters[target_word_tuple].extend(copy.copy(used_words[target_word_tuple]))
 
             if (target_word_tuple in self.frequency_list and \
-                    self.frequency_list[target_word_tuple] < difficulty):
+                    (self.frequency_list[target_word_tuple].rank < difficulty or \
+                    self.frequency_list[target_word_tuple].level < level)):
                 target_index += 1
                 continue
-            chapter.featured_words.add(target_word_tuple)
+
+            if words_chosen < words_per_chapter:
+                chapter.featured_words.add(target_word_tuple)
+            else:
+                chapter.dictionary_words.add(target_word_tuple)
             words_chosen += 1
             target_index += 1
-        x = 0

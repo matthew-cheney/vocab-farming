@@ -8,6 +8,7 @@ class Chapter:
         self.title = title
         self.body = body
         self.featured_words = set()
+        self.dictionary_words = set()
         self.word_frequency_list = FreqDist()
         self.featured_in_previous_chapters = dict()
 
