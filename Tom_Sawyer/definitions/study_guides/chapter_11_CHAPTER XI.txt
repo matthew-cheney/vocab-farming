@@ -1,0 +1,158 @@
+{
+    "chapter_number": 11,
+    "chapter_title": "CHAPTER XI",
+    "featured_words": {
+        "bandage": [
+            "a piece of soft material that covers and protects an injured part of the body"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "inquest": [
+            "an inquiry into the cause of an unexpected death"
+        ],
+        "afterward": [
+            "happening at a time subsequent to a reference time"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "grave": [
+            "dignified and somber in manner or character and committed to keeping promises",
+            "causing fear or anxiety by threatening great harm",
+            "of great gravity or crucial import; requiring serious thought"
+        ],
+        "murderer": [
+            "a criminal who commits homicide (who performs the unlawful premeditated killing of another human being"
+        ],
+        "vanish": [
+            "get lost, as without warning or explanation",
+            "become invisible or unnoticeable",
+            "pass away rapidly",
+            "cease to exist",
+            "decrease rapidly and disappear"
+        ],
+        "sob": [
+            "weep convulsively"
+        ],
+        "shudder": [
+            "shake, as from cold",
+            "tremble convulsively, as from fear or excitement"
+        ],
+        "oath": [
+            "profane or obscene expression usually of surprise or anger",
+            "a commitment to tell the truth (especially in a court of law",
+            "a solemn promise, usually invoking a divine witness, regarding your future acts or behavior"
+        ],
+        "villager": [
+            "one who has lived in a village most of their life"
+        ],
+        "lightning": [
+            "abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light",
+            "the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash"
+        ]
+    },
+    "dictionary_words": {
+        "gory": [
+            "covered with blood",
+            "accompanied by bloodshed"
+        ],
+        "sneak": [
+            "to go stealthily or furtively",
+            "put, bring, or take in a secretive or furtive manner",
+            "make off with belongings of others",
+            "pass on stealthily"
+        ],
+        "ransack": [
+            "steal goods; take as spoils",
+            "search thoroughly"
+        ],
+        "telegraphic": [
+            "of or relating to or transmitted by telegraph",
+            "having the style of a telegram with many short words left out"
+        ],
+        "belate": "no translation found",
+        "suspicious": [
+            "openly distrustful and unwilling to confide",
+            "not as expected"
+        ],
+        "jail": [
+            "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence"
+        ],
+        "schoolmaster": [
+            "presiding officer of a school",
+            "any person (or institution",
+            "food fish of warm Caribbean and Atlantic waters"
+        ],
+        "verdict": [],
+        "strangely": [
+            "in a strange manner"
+        ],
+        "ghastly": [
+            "shockingly repellent; inspiring horror",
+            "gruesomely indicative of death or the dead"
+        ],
+        "electrify": [
+            "excite suddenly and intensely",
+            "charge (a conductor",
+            "equip for use with electricity"
+        ],
+        "graveyard": [
+            "a tract of land used for burials"
+        ],
+        "course": [
+            "as might be expected"
+        ],
+        "sift": [
+            "move as if through a sieve",
+            "separate by passing through a sieve or other straining device to separate out coarser elements",
+            "check and sort carefully",
+            "distinguish and separate out"
+        ]
+    },
+    "previously_featured": {
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "graveyard": [
+            "a tract of land used for burials"
+        ],
+        "anybody": "no translation found",
+        "everybody": "no translation found",
+        "thrust": [
+            "push forcefully",
+            "press or force",
+            "make a thrusting forward movement",
+            "impose urgently, importunately, or inexorably",
+            "penetrate or cut through with a sharp instrument",
+            "force (molten rock",
+            "push upward",
+            "place or put with great energy"
+        ],
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "schoolmate": [
+            "an acquaintance that you go to school with"
+        ]
+    }
+}

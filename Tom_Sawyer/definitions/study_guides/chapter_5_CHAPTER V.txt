@@ -1,0 +1,169 @@
+{
+    "chapter_number": 5,
+    "chapter_title": "CHAPTER V",
+    "featured_words": {
+        "nod": [
+            "express or signify by nodding",
+            "lower and raise the head, as to indicate assent or agreement or confirmation",
+            "let the head fall forward through drowsiness",
+            "sway gently back and forth, as in a nodding motion",
+            "be almost asleep"
+        ],
+        "hymn": [
+            "a song of praise (to God or to a saint or to a nation"
+        ],
+        "yelp": [
+            "a sharp high-pitched cry (especially by a dog"
+        ],
+        "thin": [
+            "lose thickness; become thin or thinner",
+            "make thin or thinner",
+            "lessen the strength or flavor of a solution or mixture",
+            "take off weight"
+        ],
+        "pew": [
+            "long bench with backs; used in church by the congregation"
+        ],
+        "lion": [
+            "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+            "a celebrity who is lionized (much sought after",
+            "(astrology",
+            "the fifth sign of the zodiac; the sun is in this sign from about July 23 to August 22"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "poodle": [
+            "an intelligent dog with a heavy curly solid-colored coat that is usually clipped; an old breed sometimes trained as sporting dogs or as performing dogs"
+        ],
+        "handkerchief": [
+            "a square piece of cloth used for wiping the eyes or nose or as a costume accessory"
+        ],
+        "beetle": [
+            "insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings",
+            "a tool resembling a hammer but with a large head (usually wooden"
+        ],
+        "mayor": [
+            "the head of a city government"
+        ],
+        "discourse": [
+            "extended verbal expression in speech or writing",
+            "an address of a religious nature (usually delivered during a church service",
+            "an extended communication (often interactive"
+        ],
+        "sermon": [
+            "an address of a religious nature (usually delivered during a church service",
+            "a moralistic rebuke"
+        ],
+        "amen": [
+            "a primeval Egyptian personification of air and breath; worshipped especially at Thebes"
+        ]
+    },
+    "dictionary_words": {
+        "sigh": [
+            "heave or utter a sigh; breathe deeply and heavily",
+            "utter with a sigh"
+        ],
+        "pinchbug": "no translation found",
+        "mansion": [
+            "(astrology",
+            "a large and imposing house"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "postmaster": [
+            "the person in charge of a post office"
+        ],
+        "resume": [
+            "take up or begin anew",
+            "return to a previous location or condition",
+            "assume anew",
+            "give a summary (of"
+        ],
+        "eye": [
+            "look at"
+        ],
+        "aged": [
+            "advanced in years; (`aged' is pronounced as two syllables",
+            "at an advanced stage of erosion (pronounced as one syllable",
+            "having attained a specific age; (`aged' is pronounced as one syllable",
+            "of wines, fruit, cheeses; having reached a desired or final condition; (`aged' pronounced as one syllable",
+            "(used of tobacco",
+            "`aged' is pronounced as one syllable"
+        ],
+        "seductive": [
+            "tending to entice into a desired action or state"
+        ],
+        "paw": [
+            "a clawed foot of an animal especially a quadruped",
+            "the (prehensile"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "unnecessarie": "no translation found",
+        "needy": [
+            "poor enough to need help from others",
+            "demanding or needing attention, affection, or reassurance to an excessive degree"
+        ],
+        "hearted": "no translation found",
+        "weary": [
+            "physically and mentally fatigued"
+        ]
+    },
+    "previously_featured": {
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "aged": [
+            "advanced in years; (`aged' is pronounced as two syllables",
+            "at an advanced stage of erosion (pronounced as one syllable",
+            "having attained a specific age; (`aged' is pronounced as one syllable",
+            "of wines, fruit, cheeses; having reached a desired or final condition; (`aged' pronounced as one syllable",
+            "(used of tobacco",
+            "`aged' is pronounced as one syllable"
+        ],
+        "whispering": [
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind",
+            "speaking softly without vibration of the vocal cords"
+        ],
+        "shall": "no translation found",
+        "instant": [
+            "a very short time (as the time it takes the eye to blink or the heart to beat",
+            "a particular point in time"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "snatch": [
+            "to grasp hastily or eagerly",
+            "to make grasping motions",
+            "take away to an undisclosed location against their will and usually in order to extract a ransom"
+        ],
+        "chin": [
+            "the protruding part of the lower jaw",
+            "Kamarupan languages spoken in western Burma and Bangladesh and easternmost India"
+        ]
+    }
+}

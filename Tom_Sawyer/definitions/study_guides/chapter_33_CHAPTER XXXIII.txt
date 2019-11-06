@@ -1,0 +1,385 @@
+{
+    "chapter_number": 33,
+    "chapter_title": "CHAPTER XXXIII",
+    "featured_words": {
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "whiskey": [
+            "a liquor made from fermented mash of grain"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "orgy": [
+            "any act of immoderate indulgence",
+            "secret rite in the cults of ancient Greek or Roman deities involving singing and dancing and drinking and sexual activity",
+            "a wild gathering involving excessive drinking and promiscuity"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "twilight": [
+            "the time of day immediately following sunset",
+            "the diffused light from the sky when the sun is below the horizon but its rays are refracted by the atmosphere of the earth",
+            "a condition of decline following successes"
+        ],
+        "labor": [
+            "a social class comprising those who do manual labor or work for wages",
+            "productive work (especially physical work done for wages",
+            "concluding state of pregnancy; from the onset of contractions to the birth of a child",
+            "an organized attempt by workers to improve their status by united action (particularly via labor unions",
+            "a political party formed in Great Britain in 1900; characterized by the promotion of labor's interests and formerly the socialization of key industries",
+            "the federal department responsible for promoting the working conditions of wage earners in the United States; created in 1913",
+            "any piece of work that is undertaken or attempted"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
+        "cavern": [
+            "any large dark enclosed space",
+            "a large cave or a large chamber in a cave"
+        ],
+        "anybody": "no translation found",
+        "funeral": [
+            "a ceremony at which a dead person is buried or cremated"
+        ],
+        "wagon": [
+            "any of various kinds of wheeled vehicles drawn by an animal or a tractor",
+            "van used by police to transport prisoners",
+            "a group of seven bright stars in the constellation Ursa Major",
+            "a child's four-wheeled toy cart sometimes used for coasting",
+            "a car that has a long body and rear door with space behind rear seat"
+        ],
+        "everybody": "no translation found",
+        "petition": [
+            "a formal message requesting something that is submitted to an authority",
+            "reverent petition to a deity"
+        ]
+    },
+    "dictionary_words": {
+        "hack": [
+            "cut with a hacking tool",
+            "be able to manage or manage successfully",
+            "cut away",
+            "kick on the arms",
+            "kick on the shins",
+            "fix a computer program piecemeal until it works",
+            "significantly cut up a manuscript",
+            "cough spasmodically"
+        ],
+        "kite": [
+            "a bank check that has been fraudulently altered to increase its face value",
+            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+        ],
+        "reveal": [
+            "make visible",
+            "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+            "disclose directly or through prophets"
+        ],
+        "clump": [
+            "a grouping of a number of similar things",
+            "a compact mass",
+            "a heavy dull sound (as made by impact of heavy objects"
+        ],
+        "sumach": [
+            "a shrub or tree of the genus Rhus (usually limited to the non-poisonous members of the genus"
+        ],
+        "rob": [
+            "take something away by force or without the consent of the owner",
+            "rip off; ask an unreasonable price"
+        ],
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
+        ],
+        "blaze": [
+            "shine brightly and intensively",
+            "shoot rapidly and repeatedly",
+            "burn brightly and intensely",
+            "move rapidly and as if blazing",
+            "indicate by marking trees with blazes"
+        ],
+        "yonder": [
+            "distant but within sight (`yon' is dialectal"
+        ],
+        "pardon": [
+            "the act of excusing a mistake or offense",
+            "a warrant granting release from punishment for an offense",
+            "the formal act of liberating someone"
+        ],
+        "scoop": [
+            "take out or up with or as if with a scoop",
+            "get the better of"
+        ],
+        "earnest": [
+            "characterized by a firm and humorless belief in the validity of your opinions",
+            "sincerely earnest",
+            "not distracted by anything unrelated to the goal"
+        ],
+        "cave": [
+            "hollow out as if making a cave or opening",
+            "explore natural caves"
+        ],
+        "drip": [
+            "flowing in drops; the formation and falling of drops of liquid",
+            "the sound of a liquid falling drop by drop",
+            "(architecture",
+            "as over a window or doorway"
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ]
+    },
+    "previously_featured": {
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
+        "anybody": "no translation found",
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "twilight": [
+            "the time of day immediately following sunset",
+            "the diffused light from the sky when the sun is below the horizon but its rays are refracted by the atmosphere of the earth",
+            "a condition of decline following successes"
+        ],
+        "cavern": [
+            "any large dark enclosed space",
+            "a large cave or a large chamber in a cave"
+        ],
+        "funeral": [
+            "a ceremony at which a dead person is buried or cremated"
+        ],
+        "everybody": "no translation found",
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
+        ],
+        "kite": [
+            "a bank check that has been fraudulently altered to increase its face value",
+            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+        ],
+        "sumach": [
+            "a shrub or tree of the genus Rhus (usually limited to the non-poisonous members of the genus"
+        ],
+        "robber": [
+            "a thief who steals from someone by threatening violence"
+        ],
+        "fool": [
+            "make a fool or dupe of",
+            "spend frivolously and unwisely",
+            "fool or hoax",
+            "indulge in horseplay"
+        ],
+        "ferryboat": [
+            "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ],
+        "dim": [
+            "lacking in light; not bright or harsh",
+            "lacking clarity or distinctness",
+            "made dim or less bright",
+            "offering little or no hope",
+            "slow to learn or understand; lacking intellectual acuity"
+        ],
+        "longing": [
+            "prolonged unfulfilled desire or need"
+        ],
+        "outside": [
+            "outside a building",
+            "on the outside"
+        ],
+        "ordinarily": [
+            "under normal conditions"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "bat": [
+            "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
+            "(baseball",
+            "a small racket with a long handle used for playing squash",
+            "the club used in playing cricket",
+            "a club used for hitting a ball in various games"
+        ],
+        "stalactite": [
+            "a cylinder of calcium carbonate hanging from the roof of a limestone cave"
+        ],
+        "stump": [
+            "the base part of a tree that remains standing after the tree has been felled",
+            "the part of a limb or tooth that remains after the rest is removed",
+            "(cricket",
+            "a platform raised above the surrounding level to give prominence to the person on it"
+        ],
+        "hollow": [
+            "not solid; having a space or gap or cavity",
+            "as if echoing in a hollow space",
+            "devoid of significance or force",
+            "lacking in substance or character"
+        ],
+        "dreary": [
+            "lacking in liveliness or charm or surprise",
+            "causing dejection"
+        ],
+        "tick": [
+            "a metallic tapping sound",
+            "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+            "a mark indicating that something has been noted or completed etc.",
+            "a light mattress"
+        ],
+        "shall": "no translation found",
+        "marvel": [
+            "something that causes feelings of wonder"
+        ],
+        "mourning": [
+            "state of sorrow over the death or departure of a loved one",
+            "the passionate and demonstrative activity of expressing grief"
+        ],
+        "goner": [
+            "a person in desperate straits; someone doomed"
+        ],
+        "comrade": [
+            "a friend who is frequently in the company of another",
+            "a fellow member of the Communist Party",
+            "used as a term of address for those male persons engaged in the same movement"
+        ],
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
+        ],
+        "absent": [
+            "not being in a specified place",
+            "nonexistent",
+            "lost in thought; showing preoccupation"
+        ],
+        "ashore": [
+            "towards the shore from the water"
+        ],
+        "pirate": [
+            "someone who uses another person's words or ideas as if they were his own",
+            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+            "a ship that is manned by pirates"
+        ],
+        "circus": [
+            "a travelling company of entertainers; including trained animals",
+            "a performance given by a traveling company of acrobats, clowns, and trained animals",
+            "a frenetic disorganized (and often comic",
+            "(antiquity",
+            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+            "a genus of haws comprising the harriers"
+        ],
+        "shudder": [
+            "an almost pleasurable sensation of fright",
+            "an involuntary vibration (as if from illness or fear"
+        ],
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "stillness": [
+            "(poetic",
+            "calmness without winds",
+            "a state of no motion or movement"
+        ],
+        "gloom": [
+            "a state of partial or total darkness",
+            "a feeling of melancholy apprehension",
+            "an atmosphere of depression and melancholy"
+        ],
+        "poke": [
+            "poke or thrust abruptly",
+            "search or inquire in a meddlesome way",
+            "stir by poking",
+            "hit hard with the hand, fist, or some heavy instrument",
+            "make a hole by poking"
+        ],
+        "awhile": [
+            "for a short time"
+        ],
+        "avenue": [
+            "a line of approach",
+            "a wide street or thoroughfare"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "got": [
+            "come into the possession of something concrete or abstract",
+            "enter or assume a certain state or condition",
+            "cause to move; cause to be in a certain position or condition",
+            "receive a specified treatment (abstract",
+            "reach a destination; arrive by movement or progress",
+            "go or come after and bring or take back",
+            "go through (mental or physical states or experiences",
+            "take vengeance on or get even",
+            "achieve a point or goal",
+            "cause to do; cause to act in a specified manner",
+            "succeed in catching or seizing, especially after a chase",
+            "come to have or undergo a change of (physical features and attributes",
+            "be stricken by an illness, fall victim to an illness",
+            "communicate with a place or person; establish communication with, as if by telephone",
+            "give certain properties to something",
+            "move into a desired direction of discourse",
+            "grasp with the mind or develop an understanding of",
+            "attract and fix",
+            "reach with a blow or hit in a particular spot",
+            "reach by calculation",
+            "acquire as a result of some effort or action",
+            "purchase",
+            "perceive by hearing",
+            "suffer from the receipt of",
+            "receive as a retribution or punishment",
+            "leave immediately; used usually in the imperative form",
+            "reach and board",
+            "irritate",
+            "evoke an emotional response",
+            "apprehend and reproduce accurately",
+            "earn or achieve a base by being walked by the pitcher",
+            "overcome or destroy",
+            "be a mystery or bewildering to",
+            "take the first step or steps in carrying out an action",
+            "undergo (as of injuries and illnesses",
+            "make (offspring"
+        ],
+        "dono": "no translation found",
+        "warily": [
+            "in a wary manner"
+        ],
+        "Harpers": [
+            "someone who plays the harp"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ]
+    }
+}

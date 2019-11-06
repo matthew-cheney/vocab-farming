@@ -1,0 +1,186 @@
+{
+    "chapter_number": 6,
+    "chapter_title": "7. The Journey to the Great Oz",
+    "featured_words": {
+        "deer": [
+            "distinguished from Bovidae by the male's having solid deciduous antlers"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "covering": [
+            "a natural object that covers or envelops",
+            "an artifact that covers something else (usually to protect or shelter or conceal it",
+            "the act of concealing the existence of something by obstructing the view of it",
+            "the act of protecting something by covering it",
+            "the work of applying something"
+        ],
+        "thoughtful": [
+            "having intellectual depth",
+            "exhibiting or characterized by careful thought",
+            "acting with or showing thought and good sense",
+            "taking heed; giving close and thoughtful attention",
+            "considerate of the feelings or well-being of others"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "near": [
+            "near in time or place or relationship",
+            "(of actions or states"
+        ],
+        "shall": "no translation found",
+        "tiger": [
+            "a fierce or audacious person",
+            "large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+        ],
+        "raft": [
+            "a flat float (usually made of logs or planks",
+            "a foundation (usually on soft ground"
+        ],
+        "mane": [
+            "long coarse hair growing from the crest of the animal's neck",
+            "growth of hair covering the scalp of a human being"
+        ],
+        "ditch": [
+            "a long narrow excavation in the earth",
+            "any small natural waterway"
+        ],
+        "dew": [
+            "water that has condensed on a cool surface overnight from water vapor in the air"
+        ]
+    },
+    "dictionary_words": {
+        "lonely": [
+            "lacking companions or companionship",
+            "marked by dejection from being alone",
+            "characterized by or preferring solitude",
+            "devoid of creatures"
+        ],
+        "heartily": [
+            "with gusto and without reservation",
+            "in a hearty manner"
+        ],
+        "ripple": [
+            "stir up (water",
+            "flow in an irregular current with a bubbling noise"
+        ],
+        "weep": [
+            "shed tears because of sadness, rage, or pain"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "roast": [
+            "cook with dry heat, usually in an oven",
+            "subject to laughter or ridicule"
+        ],
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "soundly": [
+            "deeply or completely",
+            "completely and absolutely (`good' is sometimes used informally for `thoroughly'"
+        ],
+        "jaws": [
+            "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+            "the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth",
+            "holding device consisting of one or both of the opposing parts of a tool that close to hold an object"
+        ],
+        "clumsy": [
+            "lacking grace in movement or posture",
+            "not elegant or graceful in expression",
+            "difficult to handle or manage especially because of shape",
+            "showing lack of skill or aptitude"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "padded": [
+            "softened by the addition of cushions or padding"
+        ],
+        "spark": [
+            "a momentary flash of light",
+            "merriment expressed by a brightness or gleam or animation of countenance",
+            "electrical conduction through a gas in an applied electric field",
+            "a small but noticeable trace of some quality that might become stronger",
+            "Scottish writer of satirical novels (born in 1918",
+            "a small fragment of a burning substance thrown out by burning material or by friction"
+        ],
+        "daylight": [
+            "the time after sunrise and before sunset while it is light outside",
+            "light during the daytime"
+        ],
+        "bathe": [
+            "cleanse the entire body",
+            "suffuse or envelope with something",
+            "swim for pleasure or recreation"
+        ]
+    },
+    "previously_featured": {
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "shall": "no translation found",
+        "jaws": [
+            "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+            "the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth",
+            "holding device consisting of one or both of the opposing parts of a tool that close to hold an object"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "brook": [
+            "a natural stream of water smaller than a river (and often a tributary of a river"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "growl": [
+            "the sound of growling (as made by animals"
+        ],
+        "claws": [
+            "sharp curved horny process on the toe of a bird or some mammals or reptiles",
+            "a mechanical device that is curved or bent to suspend or hold or pull something",
+            "a grasping structure on the limb of a crustacean or other arthropods",
+            "a bird's foot"
+        ],
+        "hearty": [
+            "showing warm and heartfelt friendliness",
+            "providing abundant nourishment",
+            "endowed with or exhibiting great bodily or mental health",
+            "consuming abundantly and with gusto",
+            "or healthy",
+            "without reservation"
+        ]
+    }
+}

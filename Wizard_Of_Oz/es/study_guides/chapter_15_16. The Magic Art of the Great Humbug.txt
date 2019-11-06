@@ -1,0 +1,46 @@
+{
+    "chapter_number": 15,
+    "chapter_title": "16. The Magic Art of the Great Humbug",
+    "featured_words": {
+        "unfasten": "desabrochar",
+        "kind": "tipo",
+        "shall": "deber\u00e1",
+        "scarecrow": "espantap\u00e1jaros",
+        "bye": "adi\u00f3s",
+        "fasten": "abrochar",
+        "uneasily": "inquieto",
+        "fulfillment": "cumplimiento",
+        "bran": "salvado",
+        "congratulate": "felicitar",
+        "rap": "rapear",
+        "cheerful": "alegre",
+        "excuse": "excusarse",
+        "warmly": "calurosamente"
+    },
+    "dictionary_words": {
+        "shear": "cortar",
+        "bulge": "a abultarse",
+        "silk": "seda",
+        "sawdust": "serr\u00edn",
+        "swallow": "tragar",
+        "joyfully": "alegremente",
+        "earnestly": "formalmente",
+        "humbug": "patra\u00f1a",
+        "solder": "para soldar",
+        "kindness": "amabilidad",
+        "curiously": "curiosamente",
+        "exclaim": "exclamar",
+        "sniff": "oler",
+        "kind": "tipo",
+        "neatly": "pulcramente"
+    },
+    "previously_featured": {
+        "shall": "deber\u00e1",
+        "scarecrow": "espantap\u00e1jaros",
+        "bye": "adi\u00f3s",
+        "fasten": "abrochar",
+        "silk": "seda",
+        "exclaim": "exclamar",
+        "humbug": "patra\u00f1a"
+    }
+}

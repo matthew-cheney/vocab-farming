@@ -1,0 +1,187 @@
+{
+    "chapter_number": 2,
+    "chapter_title": "3. How Dorothy Saved the Scarecrow",
+    "featured_words": {
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "frock": [
+            "a long, loose outer garment",
+            "a habit worn by clerics",
+            "a one-piece garment for a woman; has skirt and bodice"
+        ],
+        "wink": [
+            "signal by winking",
+            "gleam or glow intermittently",
+            "briefly shut the eyes",
+            "keep back by blinking"
+        ],
+        "shall": "no translation found",
+        "sorceress": [
+            "a woman sorcerer"
+        ],
+        "perch": [
+            "sit, as on a branch",
+            "to come to rest, settle",
+            "cause to perch or sit"
+        ],
+        "hearty": [
+            "showing warm and heartfelt friendliness",
+            "providing abundant nourishment",
+            "endowed with or exhibiting great bodily or mental health",
+            "consuming abundantly and with gusto",
+            "or healthy",
+            "without reservation"
+        ],
+        "bondage": [
+            "the state of being under the control of a force or influence or abstract power",
+            "the state of being under the control of another person",
+            "sexual practice that involves physically restraining (by cords or handcuffs"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "Munchkins": "no translation found",
+        "mean": [
+            "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "stuffed": [
+            "filled with something",
+            "crammed with food"
+        ]
+    },
+    "dictionary_words": {
+        "sparkle": [
+            "reflect brightly",
+            "be lively or brilliant or exhibit virtuosity",
+            "emit or produce sparks",
+            "become bubbly or frothy or foaming"
+        ],
+        "nearby": [
+            "not far away in relative terms"
+        ],
+        "soberly": [
+            "in a grave and sober manner"
+        ],
+        "trotting": [
+            "run at a moderately swift pace",
+            "ride at a trot",
+            "cause to trot"
+        ],
+        "sunbonnet": [
+            "a large bonnet that shades the face; worn by girls and women"
+        ],
+        "wag": [
+            "move from side to side"
+        ],
+        "pave": [
+            "cover with a material such as stone or concrete to make suitable for vehicle traffic"
+        ],
+        "peg": [
+            "a wooden pin pushed or driven into a surface",
+            "small markers inserted into a surface to mark scores or define locations etc.",
+            "informal terms for the leg",
+            "a prosthesis that replaces a missing leg",
+            "regulator that can be turned to regulate the pitch of the strings of a stringed instrument",
+            "a holder attached to the gunwale of a boat that holds the oar in place and acts as a fulcrum for rowing"
+        ],
+        "merrily": [
+            "in a joyous manner"
+        ],
+        "pail": [
+            "a roughly cylindrical vessel that is open at the top",
+            "the quantity contained in a pail"
+        ],
+        "gingham": [
+            "a clothing fabric in a plaid weave"
+        ],
+        "brook": [
+            "a natural stream of water smaller than a river (and often a tributary of a river"
+        ],
+        "sweetly": [
+            "in an affectionate or loving manner (`sweet' is sometimes a poetic or informal variant of `sweetly'"
+        ],
+        "briskly": [
+            "in a brisk manner"
+        ],
+        "tinkle": [
+            "make or emit a high sound"
+        ]
+    },
+    "previously_featured": {
+        "Munchkins": "no translation found",
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "bondage": [
+            "the state of being under the control of a force or influence or abstract power",
+            "the state of being under the control of another person",
+            "sexual practice that involves physically restraining (by cords or handcuffs"
+        ],
+        "sorceress": [
+            "a woman sorcerer"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "shall": "no translation found",
+        "midst": [
+            "the location of something surrounded by other things"
+        ],
+        "loudly": [
+            "with relatively high volume",
+            "in manner that attracts attention",
+            "used as a direction in music; to be played relatively loudly"
+        ],
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ]
+    }
+}

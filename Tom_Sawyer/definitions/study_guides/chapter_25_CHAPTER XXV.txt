@@ -1,0 +1,289 @@
+{
+    "chapter_number": 25,
+    "chapter_title": "CHAPTER XXV",
+    "featured_words": {
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "pick": [
+            "the person or thing chosen or selected",
+            "the quantity of a crop that is harvested",
+            "the best people or things in a group",
+            "the yarn woven across the warp yarn in weaving",
+            "a small thin device (of metal or plastic or ivory",
+            "a thin sharp implement used for removing unwanted material",
+            "a heavy iron tool with a wooden handle and a curved head that is pointed on both ends",
+            "a basketball maneuver; obstructing an opponent with one's body",
+            "the act of choosing or selecting"
+        ],
+        "shovel": [
+            "a hand tool for lifting loose material; consists of a curved container or scoop and a handle",
+            "the quantity a shovel can hold",
+            "a fire iron consisting of a small shovel used to scoop coals or ashes in a fireplace",
+            "a machine for excavating"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "shuck": [
+            "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
+        ],
+        "fool": [
+            "make a fool or dupe of",
+            "spend frivolously and unwisely",
+            "fool or hoax",
+            "indulge in horseplay"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "deepen": [
+            "make more intense, stronger, or more marked",
+            "become more intense",
+            "make deeper",
+            "become deeper in tone"
+        ],
+        "hop": [
+            "jump lightly",
+            "move quickly from one place to another",
+            "travel by means of an aircraft, bus, etc.",
+            "traverse as if by a short airplane trip",
+            "jump across",
+            "make a jump forward or upward"
+        ],
+        "awhile": [
+            "for a short time"
+        ],
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
+        "limb": [
+            "one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper",
+            "any of the main branches arising from the trunk or a bough of a tree",
+            "(astronomy",
+            "either of the two halves of a bow from handle to tip",
+            "the graduated arc that is attached to an instrument for measuring angles",
+            "any projection that is thought to resemble a human arm"
+        ],
+        "robber": [
+            "a thief who steals from someone by threatening violence"
+        ],
+        "daytime": [
+            "the time after sunrise and before sunset while it is light outside"
+        ],
+        "mighty": [
+            "(Southern regional intensive"
+        ]
+    },
+    "dictionary_words": {
+        "rusty": [
+            "covered with or consisting of rust",
+            "of the brown color of rust",
+            "impaired in skill by neglect",
+            "ancient"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "superabundance": [
+            "a quantity that is more than what is appropriate"
+        ],
+        "twa": "no translation found",
+        "confidentially": [
+            "in a confidential manner"
+        ],
+        "troublesome": [
+            "causing difficulty or annoyance"
+        ],
+        "glow": [
+            "emit a steady even light without flames",
+            "have a complexion with a strong bright color, such as red or pink",
+            "shine intensely, as if with heat",
+            "be exuberant or high-spirited",
+            "experience a feeling of well-being or happiness, as from good health or an intense emotion"
+        ],
+        "rage": [
+            "behave violently, as if in state of a great anger",
+            "be violent; as of fires and storms",
+            "feel intense anger"
+        ],
+        "rotten": [
+            "very bad",
+            "damaged by decay; hence unsound and useless",
+            "having decayed or disintegrated; usually implies foulness"
+        ],
+        "load": [
+            "weight to be borne or conveyed",
+            "a quantity that can be processed or transported at one time",
+            "goods carried by a large vehicle",
+            "an amount of alcohol sufficient to intoxicate",
+            "the power output of a generator or power plant",
+            "an onerous or difficult concern",
+            "a deposit of valuable ore occurring within definite boundaries separating it from surrounding rocks",
+            "the front part of a guided missile or rocket or torpedo that carries the nuclear or explosive charge or the chemical or biological agents",
+            "electrical device to which electrical power is delivered"
+        ],
+        "stumble": [
+            "walk unsteadily",
+            "miss a step and fall or nearly fall",
+            "encounter by chance",
+            "make an error"
+        ],
+        "cipher": [
+            "convert ordinary language into code",
+            "make a mathematical calculation or computation"
+        ],
+        "sally": [
+            "witty remark",
+            "a military action in which besieged troops burst forth from their position",
+            "a venture off the beaten path"
+        ],
+        "bully": [
+            "a cruel and brutal fellow",
+            "a hired thug"
+        ],
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ]
+    },
+    "previously_featured": {
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
+        "mighty": [
+            "(Southern regional intensive"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "witch": [
+            "cast a spell over someone or something; put a hex on someone or something"
+        ],
+        "fool": [
+            "make a fool or dupe of",
+            "spend frivolously and unwisely",
+            "fool or hoax",
+            "indulge in horseplay"
+        ],
+        "awhile": [
+            "for a short time"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ],
+        "glow": [
+            "emit a steady even light without flames",
+            "have a complexion with a strong bright color, such as red or pink",
+            "shine intensely, as if with heat",
+            "be exuberant or high-spirited",
+            "experience a feeling of well-being or happiness, as from good health or an intense emotion"
+        ],
+        "raft": [
+            "a flat float (usually made of logs or planks",
+            "a foundation (usually on soft ground"
+        ],
+        "nigger": "no translation found",
+        "elm": [
+            "any of various trees of the genus Ulmus: important timber or shade trees",
+            "hard tough wood of an elm tree; used for e.g. implements and furniture"
+        ],
+        "circus": [
+            "a travelling company of entertainers; including trained animals",
+            "a performance given by a traveling company of acrobats, clowns, and trained animals",
+            "a frenetic disorganized (and often comic",
+            "(antiquity",
+            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+            "a genus of haws comprising the harriers"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "solemn": [
+            "dignified and somber in manner or character and committed to keeping promises",
+            "characterized by a firm and humorless belief in the validity of your opinions"
+        ],
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "disappointment": [
+            "a feeling of dissatisfaction that results when your expectations are not realized",
+            "an act (or failure to act"
+        ],
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "anybody": "no translation found",
+        "sash": [
+            "a framework that holds the panes of a window in the window frame",
+            "a band of material around the waist that strengthens a skirt or trousers"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ]
+    }
+}

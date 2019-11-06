@@ -17,3 +17,12 @@ class Chapter:
 
     def __repr__(self):
         return f'number={self.number}; title={self.title}'
+
+    def to_dict(self):
+        to_dict = dict()
+        to_dict['chapter_number'] = self.number
+        to_dict['chapter_title'] = self.title
+        to_dict['featured_words'] = list(self.featured_words)
+        to_dict['dictionary_words'] = list(self.dictionary_words)
+        to_dict['featured_in_previous_chapters'] = self.featured_in_previous_chapters
+        return to_dict

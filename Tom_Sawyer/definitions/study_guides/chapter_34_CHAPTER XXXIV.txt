@@ -1,0 +1,187 @@
+{
+    "chapter_number": 34,
+    "chapter_title": "CHAPTER XXXIV",
+    "featured_words": {
+        "grease": [
+            "a thick fatty oil (especially one used to lubricate machinery",
+            "the state of being covered with unclean things"
+        ],
+        "intolerable": [
+            "incapable of being tolerated or endured"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "shuck": [
+            "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
+        ],
+        "jist": "no translation found",
+        "scrape": [
+            "a harsh noise made by scraping",
+            "an abraded area where the skin is torn or worn off",
+            "a deep bow with the foot drawn backwards (indicating excessive humility",
+            "an indication of damage"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "slope": [
+            "be at an angle"
+        ],
+        "overhear": [
+            "hear, usually without the knowledge of the speakers"
+        ],
+        "anybody": "no translation found",
+        "robber": [
+            "a thief who steals from someone by threatening violence"
+        ],
+        "fret": [
+            "worry unnecessarily or excessively",
+            "be agitated or irritated",
+            "provide (a musical instrument",
+            "become or make sore by or as if by rubbing",
+            "cause annoyance in",
+            "gnaw into; make resentful or angry",
+            "carve a pattern into",
+            "decorate with an interlaced design",
+            "be too tight; rub or press",
+            "cause friction",
+            "remove soil or rock",
+            "wear away or erode"
+        ],
+        "discomfort": [
+            "the state of being tense and feeling pain",
+            "an uncomfortable feeling of mental painfulness or distress"
+        ],
+        "everybody": "no translation found",
+        "blowout": [
+            "an easy victory",
+            "a sudden malfunction of a part or apparatus",
+            "a gay festivity"
+        ]
+    },
+    "dictionary_words": {
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ],
+        "sneak": [
+            "to go stealthily or furtively",
+            "put, bring, or take in a secretive or furtive manner",
+            "make off with belongings of others",
+            "pass on stealthily"
+        ],
+        "auntie": [
+            "the sister of your father or mother; the wife of your uncle"
+        ],
+        "contented": [
+            "satisfied or showing satisfaction with things as they are"
+        ],
+        "cuff": [
+            "hit with the hand",
+            "confine or restrain with or as if with manacles or handcuffs"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "occasion": [
+            "give occasion to"
+        ],
+        "prop": [
+            "support by placing against something solid or rigid"
+        ],
+        "honor": [
+            "a tangible symbol signifying approval or distinction",
+            "the state of being honored",
+            "the quality of being honorable and having a good name",
+            "a woman's virtue or chastity"
+        ],
+        "effusive": [
+            "uttered with unrestrained enthusiasm",
+            "extravagantly demonstrative"
+        ],
+        "clamorous": [
+            "conspicuously and offensively loud; given to vehement outcry"
+        ],
+        "counterfeit": [
+            "not genuine; imitating something superior"
+        ],
+        "thank": [
+            "express gratitude or show appreciation to"
+        ],
+        "chuckle": [
+            "laugh quietly or with restraint"
+        ]
+    },
+    "previously_featured": {
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "everybody": "no translation found",
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "robber": [
+            "a thief who steals from someone by threatening violence"
+        ],
+        "anybody": "no translation found",
+        "intolerable": [
+            "incapable of being tolerated or endured"
+        ],
+        "shuck": [
+            "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "auntie": [
+            "the sister of your father or mother; the wife of your uncle"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
+        "gratitude": [
+            "a feeling of thankfulness and appreciation"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "scarcely": [
+            "only a very short time before",
+            "almost not"
+        ],
+        "charm": [
+            "attractiveness that interests or pleases or stimulates",
+            "a verbal formula believed to have magical force",
+            "something believed to bring good luck",
+            "(physics"
+        ]
+    }
+}

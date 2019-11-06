@@ -1,0 +1,214 @@
+{
+    "chapter_number": 17,
+    "chapter_title": "CHAPTER XVII",
+    "featured_words": {
+        "sigh": [
+            "heave or utter a sigh; breathe deeply and heavily",
+            "utter with a sigh"
+        ],
+        "mourning": [
+            "state of sorrow over the death or departure of a loved one",
+            "the passionate and demonstrative activity of expressing grief"
+        ],
+        "Harpers": [
+            "someone who plays the harp"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "tranquil": [
+            "(of a body of water",
+            "not agitated; without losing self-possession"
+        ],
+        "loiter": [
+            "be about"
+        ],
+        "mourner": [
+            "a person who is feeling grief (as grieving over someone who has died"
+        ],
+        "mope": [
+            "move around slowly and aimlessly",
+            "be apathetic, gloomy, or dazed"
+        ],
+        "persistently": [
+            "in a persistent manner",
+            "with persistence"
+        ],
+        "hilarity": [
+            "great merriment"
+        ],
+        "envy": [
+            "feel envious towards; admire enviously",
+            "be envious of; set one's heart on"
+        ],
+        "kiss": [
+            "the act of caressing with the lips (or an instance thereof",
+            "a cookie made of egg whites and sugar",
+            "any of several bite-sized candies",
+            "a light glancing touch"
+        ],
+        "absent": [
+            "not being in a specified place",
+            "nonexistent",
+            "lost in thought; showing preoccupation"
+        ],
+        "ordinarily": [
+            "under normal conditions"
+        ],
+        "villager": [
+            "one who has lived in a village most of their life"
+        ]
+    },
+    "dictionary_words": {
+        "deserted": [
+            "forsaken by owner or inhabitants"
+        ],
+        "choke": [
+            "breathe with great difficulty, as when experiencing a strong emotion",
+            "be too tight; rub or press",
+            "wring the neck of",
+            "constrict (someone's",
+            "struggle for breath; have insufficient oxygen intake",
+            "fail to perform adequately due to tension or agitation",
+            "check or slow down the action or effect of",
+            "become or cause to become obstructed",
+            "impair the respiration of or obstruct the air passage of",
+            "become stultified, suppressed, or stifled",
+            "suppress the development, creativity, or imagination of",
+            "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+            "reduce the air supply",
+            "cause to retch or choke"
+        ],
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
+        ],
+        "like": [
+            "a similar kind",
+            "a kind of person"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "schoolhouse": [
+            "a building where young people receive education"
+        ],
+        "playmate": [
+            "a companion at play"
+        ],
+        "reverent": [
+            "feeling or showing profound respect or veneration",
+            "showing great reverence for god"
+        ],
+        "comfort": [
+            "give moral or emotional strength to",
+            "lessen pain or discomfort; alleviate"
+        ],
+        "sob": [
+            "a dyspneic condition",
+            "insulting terms of address for people who are stupid or irritating or ridiculous",
+            "convulsive gasp made while weeping"
+        ],
+        "pale": [
+            "turn pale, as if in fear"
+        ],
+        "melancholy": [
+            "characterized by or causing or expressing sadness",
+            "grave or even gloomy in character"
+        ],
+        "andiron": [
+            "metal supports for logs in a fireplace"
+        ],
+        "prophecy": [
+            "knowledge of the future (usually said to be obtained from a divine source",
+            "a prediction uttered under divine inspiration"
+        ],
+        "soliloquize": [
+            "talk to oneself"
+        ]
+    },
+    "previously_featured": {
+        "villager": [
+            "one who has lived in a village most of their life"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "schoolhouse": [
+            "a building where young people receive education"
+        ],
+        "comfort": [
+            "give moral or emotional strength to",
+            "lessen pain or discomfort; alleviate"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
+        ],
+        "dismal": [
+            "causing dejection"
+        ],
+        "grandeur": [
+            "the quality of being magnificent or splendid or grand",
+            "the quality of elevation of mind and exaltation of character or ideals or conduct"
+        ],
+        "whisper": [
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
+        ],
+        "whispering": [
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind",
+            "speaking softly without vibration of the vocal cords"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
+        ],
+        "pew": [
+            "long bench with backs; used in church by the congregation"
+        ],
+        "muffle": [
+            "suppress in order to conceal or hide",
+            "deaden (a sound or noise"
+        ],
+        "hymn": [
+            "a song of praise (to God or to a saint or to a nation"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ],
+        "handkerchief": [
+            "a square piece of cloth used for wiping the eyes or nose or as a costume accessory"
+        ],
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "sermon": [
+            "an address of a religious nature (usually delivered during a church service",
+            "a moralistic rebuke"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "shall": "no translation found"
+    }
+}

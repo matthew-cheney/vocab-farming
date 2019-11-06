@@ -1,0 +1,51 @@
+{
+    "chapter_number": 2,
+    "chapter_title": "3. How Dorothy Saved the Scarecrow",
+    "featured_words": {
+        "mean": "\u0437\u043d\u0430\u0447\u0438\u0442",
+        "Munchkins": "Munchkins",
+        "perch": "\u0441\u0430\u0434\u0438\u0442\u044c\u0441\u044f",
+        "hearty": "\u0441\u0435\u0440\u0434\u0435\u0447\u043d\u044b\u0439",
+        "wink": "\u043f\u043e\u0434\u043c\u0438\u0433\u0438\u0432\u0430\u0442\u044c",
+        "color": "\u0446\u0432\u0435\u0442",
+        "bondage": "\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c",
+        "far": "\u0434\u0430\u043b\u0435\u043a\u043e",
+        "scarecrow": "\u0447\u0443\u0447\u0435\u043b\u043e",
+        "witch": "\u0432\u0435\u0434\u044c\u043c\u0430",
+        "stuffed": "\u0444\u0430\u0440\u0448\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "frock": "\u043f\u043b\u0430\u0442\u044c\u0435",
+        "bow": "\u043a\u043b\u0430\u043d\u044f\u0442\u044c\u0441\u044f",
+        "shall": "\u0434\u043e\u043b\u0436\u0435\u043d",
+        "sorceress": "\u043a\u043e\u043b\u0434\u0443\u043d\u044c\u044f"
+    },
+    "dictionary_words": {
+        "briskly": "\u043e\u0436\u0438\u0432\u043b\u0435\u043d\u043d\u043e",
+        "pave": "\u043f\u0440\u043e\u043b\u043e\u0436\u0438\u0442\u044c",
+        "trotting": "\u0440\u044b\u0441\u044c\u044e",
+        "tinkle": "\u0432 \u044d\u0442\u043e\u0439 \u0441\u0435\u0442\u0438",
+        "soberly": "\u0442\u0440\u0435\u0437\u0432\u043e",
+        "gingham": "\u0437\u043e\u043d\u0442\u0438\u043a",
+        "sunbonnet": "Sunbonnet",
+        "merrily": "\u0432\u0435\u0441\u0435\u043b\u043e",
+        "sweetly": "\u0441\u043b\u0430\u0434\u043a\u043e",
+        "sparkle": "\u044d\u0442\u043e \u0431\u043b\u0435\u0441\u043a",
+        "brook": "\u0440\u0443\u0447\u0435\u0439",
+        "nearby": "\u0440\u044f\u0434\u043e\u043c, \u043f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438",
+        "pail": "\u0432\u0435\u0434\u0435\u0440\u043a\u043e",
+        "peg": "\u043a\u043e\u043b\u044b\u0448\u0435\u043a",
+        "wag": "\u0432\u0438\u043b\u044f\u0442\u044c"
+    },
+    "previously_featured": {
+        "Munchkins": "Munchkins",
+        "witch": "\u0432\u0435\u0434\u044c\u043c\u0430",
+        "bow": "\u043a\u043b\u0430\u043d\u044f\u0442\u044c\u0441\u044f",
+        "bondage": "\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c",
+        "sorceress": "\u043a\u043e\u043b\u0434\u0443\u043d\u044c\u044f",
+        "far": "\u0434\u0430\u043b\u0435\u043a\u043e",
+        "shall": "\u0434\u043e\u043b\u0436\u0435\u043d",
+        "midst": "\u0441\u0440\u0435\u0434\u0438",
+        "loudly": "\u0433\u0440\u043e\u043c\u043a\u043e",
+        "cyclone": "\u0446\u0438\u043a\u043b\u043e\u043d",
+        "inquire": "\u0447\u0442\u043e\u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c"
+    }
+}

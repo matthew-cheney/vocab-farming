@@ -1,0 +1,192 @@
+{
+    "chapter_number": 7,
+    "chapter_title": "CHAPTER VII",
+    "featured_words": {
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "tick": [
+            "a metallic tapping sound",
+            "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+            "a mark indicating that something has been noted or completed etc.",
+            "a light mattress"
+        ],
+        "shall": "no translation found",
+        "soothe": [
+            "give moral or emotional strength to",
+            "cause to feel better"
+        ],
+        "slate": [
+            "(formerly",
+            "thin layers of rock used for roofing",
+            "a fine-grained metamorphic rock that can be split into thin layers",
+            "a list of candidates nominated by a political party to run for election to public offices"
+        ],
+        "gratitude": [
+            "a feeling of thankfulness and appreciation"
+        ],
+        "murmur": [
+            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
+            "a schwa that is incidental to the pronunciation of a consonant",
+            "an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves",
+            "a complaint uttered in a low and indistinct tone"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "bosom": [
+            "the chest considered as the place where secret thoughts are kept",
+            "a person's breast or chest",
+            "cloth that covers the chest or breasts",
+            "a close affectionate and protective acceptance",
+            "the locus of feelings and intuitions",
+            "either of two soft fleshy milk-secreting glandular organs on the chest of a woman"
+        ],
+        "glow": [
+            "emit a steady even light without flames",
+            "have a complexion with a strong bright color, such as red or pink",
+            "shine intensely, as if with heat",
+            "be exuberant or high-spirited",
+            "experience a feeling of well-being or happiness, as from good health or an intense emotion"
+        ],
+        "awhile": [
+            "for a short time"
+        ],
+        "circus": [
+            "a travelling company of entertainers; including trained animals",
+            "a performance given by a traveling company of acrobats, clowns, and trained animals",
+            "a frenetic disorganized (and often comic",
+            "(antiquity",
+            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+            "a genus of haws comprising the harriers"
+        ],
+        "dreary": [
+            "lacking in liveliness or charm or surprise",
+            "causing dejection"
+        ],
+        "anybody": "no translation found",
+        "everybody": "no translation found"
+    },
+    "dictionary_words": {
+        "tint": [
+            "color lightly"
+        ],
+        "flame": [
+            "shine with a sudden light",
+            "be in flames or aflame",
+            "criticize harshly, usually via an electronic medium"
+        ],
+        "sigh": [
+            "an utterance made by exhaling audibly",
+            "a sound like a person sighing"
+        ],
+        "sleepy": [
+            "ready to fall asleep"
+        ],
+        "bee": [
+            "any of numerous hairy-bodied insects including social and solitary species",
+            "a social gathering to carry out some communal task or to hold competitions"
+        ],
+        "drowse": [
+            "sleep lightly or for a short period of time",
+            "be on the verge of sleeping"
+        ],
+        "purple": [
+            "a purple color or pigment",
+            "(in ancient Rome",
+            "(Roman Catholic Church"
+        ],
+        "sleepiest": [
+            "ready to fall asleep"
+        ],
+        "stirring": [
+            "agitating a liquid with an implement",
+            "arousing to a particular emotion or action"
+        ],
+        "veil": [
+            "a garment that covers the head and face",
+            "a membranous covering attached to the immature fruiting body of certain mushrooms",
+            "the inner membrane of embryos in higher vertebrates (especially when covering the head at birth",
+            "a vestment worn by a priest at High Mass in the Roman Catholic Church; a silk shawl"
+        ],
+        "yawn": [
+            "an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom"
+        ],
+        "shimmering": [
+            "shine with a weak or fitful light",
+            "give off a shimmering reflection, as of silk"
+        ],
+        "glow": [
+            "an alert and refreshed state",
+            "light from nonthermal sources",
+            "the phenomenon of light emission by a body as its temperature is raised",
+            "a feeling of considerable warmth",
+            "a steady even light without flames",
+            "the amount of electromagnetic radiation leaving or arriving at a point on a surface",
+            "an appearance of reflected light"
+        ],
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
+        ],
+        "recess": [
+            "a state of abeyance or suspended business",
+            "a small concavity",
+            "an arm off of a larger body of water (often between rocky headlands",
+            "an enclosure that is set back or indented",
+            "a pause from doing something (as work"
+        ]
+    },
+    "previously_featured": {
+        "anybody": "no translation found",
+        "tick": [
+            "a metallic tapping sound",
+            "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+            "a mark indicating that something has been noted or completed etc.",
+            "a light mattress"
+        ],
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "slate": [
+            "(formerly",
+            "thin layers of rock used for roofing",
+            "a fine-grained metamorphic rock that can be split into thin layers",
+            "a list of candidates nominated by a political party to run for election to public offices"
+        ],
+        "murmur": [
+            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
+            "a schwa that is incidental to the pronunciation of a consonant",
+            "an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves",
+            "a complaint uttered in a low and indistinct tone"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "shall": "no translation found",
+        "sigh": [
+            "an utterance made by exhaling audibly",
+            "a sound like a person sighing"
+        ],
+        "instant": [
+            "a very short time (as the time it takes the eye to blink or the heart to beat",
+            "a particular point in time"
+        ],
+        "curl": [
+            "a round shape formed by a series of concentric circles (as formed by leaves or flower petals",
+            "American chemist who with Richard Smalley and Harold Kroto discovered fullerenes and opened a new branch of chemistry (born in 1933",
+            "a strand or cluster of hair"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ]
+    }
+}

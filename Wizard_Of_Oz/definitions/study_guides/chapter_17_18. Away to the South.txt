@@ -1,0 +1,223 @@
+{
+    "chapter_number": 17,
+    "chapter_title": "18. Away to the South",
+    "featured_words": {
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "weep": [
+            "shed tears because of sadness, rage, or pain"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "shall": "no translation found",
+        "ruler": [
+            "a person who rules or commands",
+            "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
+        ],
+        "bitterly": [
+            "with bitterness; in a resentful manner",
+            "indicating something hard to accept",
+            "extremely and sharply"
+        ],
+        "Quadlings": "no translation found",
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ],
+        "mourn": [
+            "feel sadness",
+            "observe the customs of mourning after the death of a loved one"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "cornfield": [
+            "a field planted with corn"
+        ],
+        "ungrateful": [
+            "not feeling or showing gratitude",
+            "disagreeable"
+        ],
+        "passing": [
+            "(American football",
+            "euphemistic expressions for death",
+            "the motion of one object relative to another",
+            "the end of something",
+            "a bodily reaction of changing from one place or stage to another",
+            "going by something that is moving in order to get in front of it",
+            "success in satisfying a test or requirement"
+        ]
+    },
+    "dictionary_words": {
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "respectfully": [
+            "in a respectful manner"
+        ],
+        "unlucky": [
+            "having or bringing misfortune",
+            "marked by or promising bad fortune"
+        ],
+        "second": [
+            "coming next after the first in position in space or time or degree or magnitude",
+            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+        ],
+        "wing": [
+            "travel through the air; be airborne"
+        ],
+        "braver": [
+            "possessing or displaying courage; able to face and deal with danger or fear without flinching",
+            "invulnerable to fear or intimidation",
+            "brightly colored and showy"
+        ],
+        "modestly": [
+            "with modesty; in a modest manner"
+        ],
+        "joyfully": [
+            "in a joyous and gleeful manner"
+        ],
+        "content": [
+            "satisfy in a limited way",
+            "make content"
+        ],
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
+        ],
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "jeweled": [
+            "covered with beads or jewels or sequins"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "stuffed": [
+            "filled with something",
+            "crammed with food"
+        ]
+    },
+    "previously_featured": {
+        "shall": "no translation found",
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "cornfield": [
+            "a field planted with corn"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ],
+        "stuffed": [
+            "filled with something",
+            "crammed with food"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
+        ],
+        "content": [
+            "satisfy in a limited way",
+            "make content"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "charm": [
+            "attractiveness that interests or pleases or stimulates",
+            "a verbal formula believed to have magical force",
+            "something believed to bring good luck",
+            "(physics"
+        ],
+        "whisker": [
+            "a very small distance or space",
+            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ]
+    }
+}

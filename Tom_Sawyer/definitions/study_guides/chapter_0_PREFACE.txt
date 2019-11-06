@@ -1,0 +1,32 @@
+{
+    "chapter_number": 0,
+    "chapter_title": "PREFACE",
+    "featured_words": {
+        "schoolmate": [
+            "an acquaintance that you go to school with"
+        ],
+        "hartford": [
+            "the state capital of Connecticut; located in central Connecticut on the Connecticut river; a center of the insurance business"
+        ],
+        "composite": [
+            "consisting of separate interconnected parts",
+            "of or relating to or belonging to the plant family Compositae"
+        ],
+        "superstition": [
+            "an irrational belief arising from ignorance or fear"
+        ],
+        "shun": [
+            "avoid and stay away from deliberately; stay clear of",
+            "expel from a community or group"
+        ],
+        "pleasantly": [
+            "in a cheerful manner",
+            "in an enjoyable manner"
+        ],
+        "prevalent": [
+            "most frequent or common"
+        ]
+    },
+    "dictionary_words": {},
+    "previously_featured": {}
+}

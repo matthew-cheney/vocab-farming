@@ -1,0 +1,211 @@
+{
+    "chapter_number": 23,
+    "chapter_title": "CHAPTER XXIII",
+    "featured_words": {
+        "kite": [
+            "a bank check that has been fraudulently altered to increase its face value",
+            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "cross": [
+            "extending or lying across; in a crosswise direction; at right angles to the long axis",
+            "annoyed and irritable"
+        ],
+        "fascination": [
+            "the state of being intensely interested (as by awe or terror",
+            "a feeling of great liking for something wonderful and unusual",
+            "the capacity to attract intense interest"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
+        ],
+        "prosecution": [
+            "the institution and conduct of legal proceedings against a defendant for criminal behavior",
+            "the lawyers acting for the state to put the case against the defendant",
+            "the continuance of something begun with a view to its completion"
+        ],
+        "counsel": [
+            "a lawyer who pleads cases in court",
+            "something that provides direction or advice as to a decision or course of action"
+        ],
+        "courtroom": [
+            "a room in which a lawcourt sits"
+        ],
+        "jury": [
+            "a body of citizens sworn to give a true verdict according to the evidence presented in a court of law",
+            "a committee appointed to judge a competition"
+        ],
+        "testify": [
+            "give testimony in a court of law",
+            "provide evidence for"
+        ],
+        "graveyard": [
+            "a tract of land used for burials"
+        ],
+        "befriend": [
+            "become friends with"
+        ],
+        "anybody": "no translation found",
+        "oath": [
+            "profane or obscene expression usually of surprise or anger",
+            "a commitment to tell the truth (especially in a court of law",
+            "a solemn promise, usually invoking a divine witness, regarding your future acts or behavior"
+        ],
+        "kind": [
+            "a category of things distinguished by some common characteristic or quality"
+        ]
+    },
+    "dictionary_words": {
+        "vigorously": [
+            "with vigor; in a vigorous manner"
+        ],
+        "discreet": [
+            "marked by prudence or modesty and wise self-restraint",
+            "unobtrusively perceptive and sympathetic",
+            "heedful of potential consequences"
+        ],
+        "distress": [
+            "psychological suffering",
+            "a state of adversity (danger or affliction or need",
+            "extreme physical pain",
+            "the seizure and holding of property as security for payment of a debt or satisfaction of a claim"
+        ],
+        "shiver": [
+            "a reflex motion caused by cold or fear or excitement",
+            "an almost pleasurable sensation of fright"
+        ],
+        "unseal": [
+            "break the seal of"
+        ],
+        "lonely": [
+            "lacking companions or companionship",
+            "marked by dejection from being alone",
+            "characterized by or preferring solitude",
+            "devoid of creatures"
+        ],
+        "sleepy": [
+            "ready to fall asleep"
+        ],
+        "troubled": [
+            "characterized by or indicative of distress or affliction or danger or need",
+            "characterized by unrest or disorder or insubordination"
+        ],
+        "gossip": [
+            "light informal conversation for social occasions",
+            "a report (often malicious",
+            "a person given to gossiping and divulging personal information about others"
+        ],
+        "shudder": [
+            "an almost pleasurable sensation of fright",
+            "an involuntary vibration (as if from illness or fear"
+        ],
+        "midst": [
+            "the location of something surrounded by other things"
+        ],
+        "louder": [
+            "with relatively high volume"
+        ],
+        "sufferer": [
+            "a person suffering from an illness",
+            "one who suffers for the sake of principle"
+        ],
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
+        ],
+        "feeler": [
+            "one of a pair of mobile appendages on the head of e.g. insects and crustaceans; typically sensitive to touch and taste",
+            "a tentative suggestion designed to elicit the reactions of others",
+            "sensitivity similar to that of a receptor organ",
+            "slender tactile process on the jaws of a fish"
+        ]
+    },
+    "previously_featured": {
+        "anybody": "no translation found",
+        "graveyard": [
+            "a tract of land used for burials"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
+        ],
+        "oath": [
+            "profane or obscene expression usually of surprise or anger",
+            "a commitment to tell the truth (especially in a court of law",
+            "a solemn promise, usually invoking a divine witness, regarding your future acts or behavior"
+        ],
+        "shudder": [
+            "an almost pleasurable sensation of fright",
+            "an involuntary vibration (as if from illness or fear"
+        ],
+        "goner": [
+            "a person in desperate straits; someone doomed"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "gratitude": [
+            "a feeling of thankfulness and appreciation"
+        ],
+        "mighty": [
+            "(Southern regional intensive"
+        ],
+        "dismal": [
+            "causing dejection"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "second": [
+            "coming next after the first in position in space or time or degree or magnitude",
+            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+        ],
+        "afterward": [
+            "happening at a time subsequent to a reference time"
+        ],
+        "whispering": [
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind",
+            "speaking softly without vibration of the vocal cords"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
+        "murmur": [
+            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
+            "a schwa that is incidental to the pronunciation of a consonant",
+            "an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves",
+            "a complaint uttered in a low and indistinct tone"
+        ],
+        "groan": [
+            "an utterance expressing pain or disapproval"
+        ],
+        "shall": "no translation found",
+        "glance": [
+            "throw a glance at; take a brief look at",
+            "hit at an angle"
+        ],
+        "elm": [
+            "any of various trees of the genus Ulmus: important timber or shade trees",
+            "hard tough wood of an elm tree; used for e.g. implements and furniture"
+        ]
+    }
+}

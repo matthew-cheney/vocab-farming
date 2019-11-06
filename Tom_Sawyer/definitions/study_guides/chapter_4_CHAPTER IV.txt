@@ -1,0 +1,187 @@
+{
+    "chapter_number": 4,
+    "chapter_title": "CHAPTER IV",
+    "featured_words": {
+        "shall": "no translation found",
+        "recreation": [
+            "an activity that diverts or amuses or stimulates",
+            "activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation"
+        ],
+        "mourn": [
+            "feel sadness",
+            "observe the customs of mourning after the death of a loved one"
+        ],
+        "cent": [
+            "a fractional monetary unit of several countries",
+            "a coin worth one-hundredth of the value of the basic unit"
+        ],
+        "chin": [
+            "the protruding part of the lower jaw",
+            "Kamarupan languages spoken in western Burma and Bangladesh and easternmost India"
+        ],
+        "curl": [
+            "a round shape formed by a series of concentric circles (as formed by leaves or flower petals",
+            "American chemist who with Richard Smalley and Harold Kroto discovered fullerenes and opened a new branch of chemistry (born in 1933",
+            "a strand or cluster of hair"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "scriptural": [
+            "of or pertaining to or contained in or in accordance with the Bible",
+            "written or relating to writing"
+        ],
+        "aged": [
+            "advanced in years; (`aged' is pronounced as two syllables",
+            "at an advanced stage of erosion (pronounced as one syllable",
+            "having attained a specific age; (`aged' is pronounced as one syllable",
+            "of wines, fruit, cheeses; having reached a desired or final condition; (`aged' pronounced as one syllable",
+            "(used of tobacco",
+            "`aged' is pronounced as one syllable"
+        ],
+        "grandeur": [
+            "the quality of being magnificent or splendid or grand",
+            "the quality of elevation of mind and exaltation of character or ideals or conduct"
+        ],
+        "basin": [
+            "a bowl-shaped vessel; usually used for holding food or liquids",
+            "the quantity that a basin will hold",
+            "a natural depression in the surface of the land often with a lake at the bottom of it",
+            "the entire geographical area drained by a river and its tributaries; an area characterized by all runoff being conveyed to the same outlet",
+            "a bathroom sink that is permanently installed and connected to a water supply and drainpipe; where you can wash your hands and face"
+        ],
+        "superintendent": [
+            "a person who directs and manages an organization",
+            "a caretaker for an apartment house; represents the owner as janitor and rent collector"
+        ],
+        "beam": [
+            "smile radiantly; express joy through one's facial expression",
+            "emit light; be bright, as of the sun or a light",
+            "express with a beaming face or smile",
+            "broadcast over the airwaves, as in radio or television",
+            "have a complexion with a strong bright color, such as red or pink",
+            "experience a feeling of well-being or happiness, as from good health or an intense emotion"
+        ],
+        "recite": [
+            "recite in elocution",
+            "repeat aloud from memory",
+            "render verbally",
+            "narrate or give a detailed account of",
+            "specify individually"
+        ],
+        "whispering": [
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind",
+            "speaking softly without vibration of the vocal cords"
+        ]
+    },
+    "dictionary_words": {
+        "hymn": [
+            "a song of praise (to God or to a saint or to a nation"
+        ],
+        "sandy": [
+            "of hair color; pale yellowish to yellowish brown",
+            "resembling or containing or abounding in sand; or growing in sandy areas"
+        ],
+        "originality": [
+            "the ability to think and act independently",
+            "the quality of being new and original (not derived from something else"
+        ],
+        "tranquil": [
+            "(of a body of water",
+            "not agitated; without losing self-possession"
+        ],
+        "restless": [
+            "worried and uneasy",
+            "ceaselessly in motion",
+            "lacking or not affording physical or mental rest"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
+        "half": [
+            "partially or to the extent of a half"
+        ],
+        "benediction": [
+            "the act of praying for divine protection",
+            "a ceremonial prayer invoking divine protection"
+        ],
+        "quotation": [
+            "a short note recognizing a source of information or of a quoted passage",
+            "a passage or expression that is quoted or cited",
+            "a statement of the current market price of a security or commodity",
+            "the practice of quoting from books or plays etc."
+        ],
+        "weld": [
+            "join together by heating",
+            "unite closely or intimately"
+        ],
+        "equal": [
+            "be identical or equivalent to",
+            "be equal to in quality or ability",
+            "make equal, uniform, corresponding, or matching"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "mortar": [
+            "a muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range",
+            "used as a bond in masonry or for covering a wall",
+            "a bowl-shaped vessel in which substances can be ground and mixed with a pestle"
+        ],
+        "grim": [
+            "not to be placated or appeased or moved by entreaty",
+            "shockingly repellent; inspiring horror",
+            "harshly ironic or sinister",
+            "harshly uninviting or formidable in manner or appearance",
+            "filled with melancholy and despondency",
+            "causing dejection"
+        ],
+        "pulpit": [
+            "a platform raised above the surrounding level to give prominence to the person on it"
+        ]
+    },
+    "previously_featured": {
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
+        "worldly": [
+            "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+            "very sophisticated especially because of surfeit; versed in the ways of the world"
+        ],
+        "murmur": [
+            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
+            "a schwa that is incidental to the pronunciation of a consonant",
+            "an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves",
+            "a complaint uttered in a low and indistinct tone"
+        ],
+        "ecstasy": [
+            "a state of being carried away by overwhelming emotion",
+            "a state of elated bliss",
+            "street names for methylenedioxymethamphetamine"
+        ],
+        "marvel": [
+            "something that causes feelings of wonder"
+        ]
+    }
+}

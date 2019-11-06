@@ -1,0 +1,52 @@
+{
+    "chapter_number": 9,
+    "chapter_title": "10. The Guardian of the Gate",
+    "featured_words": {
+        "glow": "brillar",
+        "shall": "deber\u00e1",
+        "porridge": "gachas de avena",
+        "foolish": "tonto",
+        "emerald": "Esmeralda",
+        "far": "lejos",
+        "spectacle": "al espect\u00e1culo",
+        "Gates": "Puertas",
+        "Munchkins": "Munchkins",
+        "oat": "avena",
+        "errand": "recado",
+        "comrade": "camarada",
+        "color": "color",
+        "idle": "ocioso"
+    },
+    "dictionary_words": {
+        "gloomy": "melanc\u00f3lico",
+        "paved": "pavimentado",
+        "generously": "generosamente",
+        "awaken": "para despertar",
+        "deadly": "mortal",
+        "evidently": "evidentemente",
+        "dwelt": "habit\u00f3",
+        "journey": "para viajar",
+        "blind": "cegar",
+        "fragrance": "fragancia",
+        "rejoice": "regocijarse",
+        "traveler": "viajero",
+        "yawn": "bostezar",
+        "poppy": "amapola",
+        "near": "cerca"
+    },
+    "previously_featured": {
+        "shall": "deber\u00e1",
+        "color": "color",
+        "Munchkins": "Munchkins",
+        "far": "lejos",
+        "awaken": "para despertar",
+        "poppy": "amapola",
+        "deadly": "mortal",
+        "near": "cerca",
+        "traveler": "viajero",
+        "coward": "cobarde",
+        "lion": "le\u00f3n",
+        "scarecrow": "espantap\u00e1jaros",
+        "fasten": "abrochar"
+    }
+}

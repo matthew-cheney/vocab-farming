@@ -1,0 +1,179 @@
+{
+    "chapter_number": 3,
+    "chapter_title": "CHAPTER III",
+    "featured_words": {
+        "instant": [
+            "a very short time (as the time it takes the eye to blink or the heart to beat",
+            "a particular point in time"
+        ],
+        "ecstasy": [
+            "a state of being carried away by overwhelming emotion",
+            "a state of elated bliss",
+            "street names for methylenedioxymethamphetamine"
+        ],
+        "mischief": [
+            "reckless or malicious behavior that causes discomfort or annoyance in others",
+            "the quality or nature of being harmful or evil"
+        ],
+        "murmur": [
+            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
+            "a schwa that is incidental to the pronunciation of a consonant",
+            "an abnormal sound of the heart; sometimes a sign of abnormal function of the heart valves",
+            "a complaint uttered in a low and indistinct tone"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "pause": [
+            "interrupt temporarily an activity before continuing",
+            "cease an action temporarily"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "sigh": [
+            "an utterance made by exhaling audibly",
+            "a sound like a person sighing"
+        ],
+        "comfort": [
+            "give moral or emotional strength to",
+            "lessen pain or discomfort; alleviate"
+        ],
+        "pansy": [
+            "large-flowered garden plant derived chiefly from the wild pansy of Europe and having velvety petals of various colors",
+            "a timid man or boy considered childish or unassertive",
+            "offensive term for a homosexual man"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "second": [
+            "coming next after the first in position in space or time or degree or magnitude",
+            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+        ],
+        "clod": [
+            "a compact mass",
+            "an awkward stupid person"
+        ],
+        "nearer": [
+            "near in time or place or relationship",
+            "(of actions or states",
+            "(comparative of `near' or `close'"
+        ],
+        "heave": [
+            "utter a sound, as with obvious effort",
+            "throw with great effort",
+            "rise and move, as in waves or billows",
+            "lift or elevate",
+            "move or cause to move in a specified way, direction, or position",
+            "breathe noisily, as when one is exhausted",
+            "bend out of shape, as under pressure or from heat",
+            "make an unsuccessful effort to vomit; strain to vomit"
+        ]
+    },
+    "dictionary_words": {
+        "nod": [
+            "express or signify by nodding",
+            "lower and raise the head, as to indicate assent or agreement or confirmation",
+            "let the head fall forward through drowsiness",
+            "sway gently back and forth, as in a nodding motion",
+            "be almost asleep"
+        ],
+        "drench": [
+            "drench or submerge or be drenched or submerged",
+            "force to drink",
+            "permeate or impregnate",
+            "cover with liquid; pour liquid onto"
+        ],
+        "intrepid": [
+            "invulnerable to fear or intimidation"
+        ],
+        "restful": [
+            "affording physical or mental rest"
+        ],
+        "knitting": [
+            "needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine",
+            "creating knitted wear"
+        ],
+        "balmy": [
+            "informal or slang terms for mentally irregular",
+            "mild and pleasant"
+        ],
+        "agony": [
+            "intense feelings of suffering; acute mental or physical pain",
+            "a state of acute pain"
+        ],
+        "bee": [
+            "any of numerous hairy-bodied insects including social and solitary species",
+            "a social gathering to carry out some communal task or to hold competitions"
+        ],
+        "desert": [
+            "leave someone who needs or counts on you; leave in the lurch",
+            "desert (a cause, a country or an army",
+            "leave behind"
+        ],
+        "prop": [
+            "support by placing against something solid or rigid"
+        ],
+        "rearward": [
+            "direction toward the rear"
+        ],
+        "drowse": [
+            "sleep lightly or for a short period of time",
+            "be on the verge of sleeping"
+        ],
+        "odor": [
+            "any property detected by the olfactory system",
+            "the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form"
+        ],
+        "wilt": [
+            "lose strength",
+            "become limp"
+        ],
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ]
+    },
+    "previously_featured": {
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "instant": [
+            "a very short time (as the time it takes the eye to blink or the heart to beat",
+            "a particular point in time"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "whitewash": [
+            "cover up a misdemeanor, fault, or error",
+            "cover with whitewash",
+            "exonerate by means of a perfunctory investigation or through biased presentation of data"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
+        "hollow": [
+            "not solid; having a space or gap or cavity",
+            "as if echoing in a hollow space",
+            "devoid of significance or force",
+            "lacking in substance or character"
+        ]
+    }
+}

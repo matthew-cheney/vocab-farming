@@ -1,0 +1,279 @@
+{
+    "chapter_number": 18,
+    "chapter_title": "CHAPTER XVIII",
+    "featured_words": {
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "capture": [
+            "the act of forcibly dispossessing an owner of property",
+            "a process whereby a star or planet holds an object in its gravitational field",
+            "any process in which an atomic or nuclear system acquires an additional particle",
+            "the act of taking of a person by force",
+            "the removal of an opponent's piece from the chess board"
+        ],
+        "glance": [
+            "throw a glance at; take a brief look at",
+            "hit at an angle"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "schoolhouse": [
+            "a building where young people receive education"
+        ],
+        "thankful": [
+            "feeling or showing gratitude"
+        ],
+        "pirate": [
+            "copy illegally; of published material",
+            "take arbitrarily or by force"
+        ],
+        "whip": [
+            "beat severely with a whip or rod",
+            "defeat thoroughly",
+            "thrash about flexibly in the manner of a whiplash",
+            "strike as if by whipping",
+            "whip with or as if with a wire whisk",
+            "subject to harsh criticism"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "wistfully": [
+            "in a wistful manner"
+        ],
+        "furtively": [
+            "in a furtive manner"
+        ],
+        "funeral": [
+            "a ceremony at which a dead person is buried or cremated"
+        ],
+        "paddle": [
+            "propel with a paddle",
+            "play in or as if in water, as of small children",
+            "swim like a dog in shallow water",
+            "walk unsteadily",
+            "give a spanking to; subject to a spanking",
+            "stir with a paddle"
+        ],
+        "imaginary": [
+            "not based on fact; existing only in the imagination"
+        ]
+    },
+    "dictionary_words": {
+        "invalid": [
+            "force to retire, remove from active duty, as of firemen",
+            "injure permanently"
+        ],
+        "dusk": [
+            "the time of day immediately following sunset"
+        ],
+        "grieve": [
+            "feel grief",
+            "cause to feel sorrow"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
+        "want": [
+            "a state of extreme poverty",
+            "the state of needing something that is absent or unavailable",
+            "anything that is necessary but lacking",
+            "a specific feeling of desire"
+        ],
+        "everybody": "no translation found",
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "attentive": [
+            "taking heed; giving close and thoughtful attention"
+        ],
+        "plead": [
+            "appeal or request earnestly",
+            "offer as an excuse or plea",
+            "enter a plea, as in courts of law",
+            "make an allegation in an action or other legal proceeding, especially answer the previous pleading of the other party by denying facts therein stated or by alleging new facts"
+        ],
+        "discomforte": "no translation found",
+        "repentant": [
+            "feeling or expressing remorse for misdeeds"
+        ],
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
+        "hearted": "no translation found",
+        "woodbox": "no translation found",
+        "daylight": [
+            "the time after sunrise and before sunset while it is light outside",
+            "light during the daytime"
+        ]
+    },
+    "previously_featured": {
+        "schoolhouse": [
+            "a building where young people receive education"
+        ],
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "pirate": [
+            "someone who uses another person's words or ideas as if they were his own",
+            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+            "a ship that is manned by pirates"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
+        "everybody": "no translation found",
+        "hearted": "no translation found",
+        "grieve": [
+            "feel grief",
+            "cause to feel sorrow"
+        ],
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
+        "dim": [
+            "lacking in light; not bright or harsh",
+            "lacking clarity or distinctness",
+            "made dim or less bright",
+            "offering little or no hope",
+            "slow to learn or understand; lacking intellectual acuity"
+        ],
+        "shall": "no translation found",
+        "superstition": [
+            "an irrational belief arising from ignorance or fear"
+        ],
+        "bark": [
+            "tough protective covering of the woody stems and roots of trees and other woody plants",
+            "a noise resembling the bark of a dog",
+            "a sailing ship with 3 (or more",
+            "the sound made by a dog"
+        ],
+        "circus": [
+            "a travelling company of entertainers; including trained animals",
+            "a performance given by a traveling company of acrobats, clowns, and trained animals",
+            "a frenetic disorganized (and often comic",
+            "(antiquity",
+            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+            "a genus of haws comprising the harriers"
+        ],
+        "schoolmate": [
+            "an acquaintance that you go to school with"
+        ],
+        "gratify": [
+            "make happy or satisfied",
+            "yield (to"
+        ],
+        "sigh": [
+            "heave or utter a sigh; breathe deeply and heavily",
+            "utter with a sigh"
+        ],
+        "class": [
+            "a collection of things sharing a common attribute",
+            "a body of students who are taught together",
+            "people having the same social, economic, or educational status",
+            "education imparted in a series of lessons or meetings",
+            "a league ranked by quality",
+            "a body of students who graduate together",
+            "(biology",
+            "elegance in dress or behavior"
+        ],
+        "anybody": "no translation found",
+        "lightning": [
+            "abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light",
+            "the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash"
+        ],
+        "pause": [
+            "interrupt temporarily an activity before continuing",
+            "cease an action temporarily"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "prick": [
+            "make a small hole into, as with a needle or a thorn",
+            "cause a stinging pain",
+            "stab or urge on as if with a pointed stick",
+            "cause a prickling sensation",
+            "to cause a sharp emotional pain",
+            "deliver a sting to"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "comfort": [
+            "give moral or emotional strength to",
+            "lessen pain or discomfort; alleviate"
+        ]
+    }
+}

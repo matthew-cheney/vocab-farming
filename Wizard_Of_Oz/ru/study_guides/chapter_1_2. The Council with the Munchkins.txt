@@ -1,0 +1,46 @@
+{
+    "chapter_number": 1,
+    "chapter_title": "2. The Council with the Munchkins",
+    "featured_words": {
+        "Munchkins": "Munchkins",
+        "inquire": "\u0447\u0442\u043e\u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c",
+        "wicked": "\u0437\u043b\u043e\u0439",
+        "dear": "\u0434\u043e\u0440\u043e\u0433\u0430\u044f",
+        "slate": "\u0448\u0438\u0444\u0435\u0440",
+        "bondage": "\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044c",
+        "civilized": "\u0446\u0438\u0432\u0438\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "far": "\u0434\u0430\u043b\u0435\u043a\u043e",
+        "witch": "\u0432\u0435\u0434\u044c\u043c\u0430",
+        "heel": "\u043e\u0447\u0435\u043d\u044c",
+        "wizard": "\u0432\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a",
+        "cyclone": "\u0446\u0438\u043a\u043b\u043e\u043d",
+        "bow": "\u043a\u043b\u0430\u043d\u044f\u0442\u044c\u0441\u044f",
+        "shall": "\u0434\u043e\u043b\u0436\u0435\u043d",
+        "sorceress": "\u043a\u043e\u043b\u0434\u0443\u043d\u044c\u044f"
+    },
+    "dictionary_words": {
+        "plumage": "\u043e\u043f\u0435\u0440\u0435\u043d\u0438\u0435",
+        "greensward": "\u0434\u0435\u0440\u043d",
+        "luscious": "\u043f\u0440\u0438\u0442\u043e\u0440\u043d\u044b\u0439",
+        "dismally": "\u0443\u043d\u044b\u043b\u043e",
+        "midst": "\u0441\u0440\u0435\u0434\u0438",
+        "awaken": "\u043f\u0440\u043e\u0431\u0443\u0434\u0438\u0442\u044c\u0441\u044f",
+        "stately": "\u0432\u0435\u043b\u0438\u0447\u0430\u0432\u044b\u0439",
+        "amazement": "\u0438\u0437\u0443\u043c\u043b\u0435\u043d\u0438\u0435",
+        "whine": "\u043d\u044b\u0442\u044c",
+        "murmur": "\u0440\u043e\u043f\u0442\u0430\u0442\u044c",
+        "gray": "\u0441\u0435\u0440\u044b\u0439",
+        "marvelous": "\u0434\u0438\u0432\u043d\u044b\u0439",
+        "sparkle": "\u044d\u0442\u043e \u0431\u043b\u0435\u0441\u043a",
+        "brook": "\u0440\u0443\u0447\u0435\u0439",
+        "flutter": "\u0442\u0440\u0435\u043f\u0435\u0442\u0430\u0442\u044c"
+    },
+    "previously_featured": {
+        "cyclone": "\u0446\u0438\u043a\u043b\u043e\u043d",
+        "midst": "\u0441\u0440\u0435\u0434\u0438",
+        "gray": "\u0441\u0435\u0440\u044b\u0439",
+        "prairie": "\u043f\u0440\u0435\u0440\u0438\u044f",
+        "doorway": "\u0434\u0432\u0435\u0440\u043d\u043e\u0439 \u043f\u0440\u043e\u0435\u043c",
+        "loudly": "\u0433\u0440\u043e\u043c\u043a\u043e"
+    }
+}

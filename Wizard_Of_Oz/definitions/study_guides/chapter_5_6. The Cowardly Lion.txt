@@ -1,0 +1,167 @@
+{
+    "chapter_number": 5,
+    "chapter_title": "6. The Cowardly Lion",
+    "featured_words": {
+        "sorrow": [
+            "an emotion of great sadness associated with loss or bereavement",
+            "sadness associated with some wrong done or some disappointment",
+            "something that causes great unhappiness",
+            "the state of being sad"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "growl": [
+            "the sound of growling (as made by animals"
+        ],
+        "plenty": [
+            "a full supply"
+        ],
+        "pave": [
+            "cover with a material such as stone or concrete to make suitable for vehicle traffic"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "ought": "no translation found",
+        "claws": [
+            "sharp curved horny process on the toe of a bird or some mammals or reptiles",
+            "a mechanical device that is curved or bent to suspend or hold or pull something",
+            "a grasping structure on the limb of a crustacean or other arthropods",
+            "a bird's foot"
+        ],
+        "beetle": [
+            "insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings",
+            "a tool resembling a hammer but with a large head (usually wooden"
+        ],
+        "jaws": [
+            "the part of the skull of a vertebrate that frames the mouth and holds the teeth",
+            "the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth",
+            "holding device consisting of one or both of the opposing parts of a tool that close to hold an object"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "coward": [
+            "a person who shows fear or timidity",
+            "English dramatist and actor and composer noted for his witty and sophisticated comedies (1899-1973"
+        ],
+        "roar": [
+            "make a loud noise, as of wind, water, or vehicles",
+            "utter words loudly and forcefully",
+            "emit long loud cries",
+            "act or proceed in a riotous, turbulent, or disorderly way",
+            "make a loud noise, as of animal",
+            "laugh unrestrainedly and heartily"
+        ],
+        "Beasts": [
+            "a living organism characterized by voluntary movement",
+            "a cruelly rapacious person"
+        ]
+    },
+    "dictionary_words": {
+        "pat": [
+            "pat or squeeze fondly or playfully, especially under the chin",
+            "hit lightly"
+        ],
+        "kiss": [
+            "the act of caressing with the lips (or an instance thereof",
+            "a cookie made of egg whites and sugar",
+            "any of several bite-sized candies",
+            "a light glancing touch"
+        ],
+        "paw": [
+            "a clawed foot of an animal especially a quadruped",
+            "the (prehensile"
+        ],
+        "forehead": [
+            "the part of the face above the eyes",
+            "the large cranial bone forming the front part of the cranium: includes the upper part of the orbits"
+        ],
+        "stuffed": [
+            "filled with something",
+            "crammed with food"
+        ],
+        "roar": [
+            "a deep prolonged loud noise",
+            "a very loud utterance (like the sound of an animal",
+            "the sound made by a lion"
+        ],
+        "course": [
+            "as might be expected"
+        ],
+        "anxiously": [
+            "with anxiety or apprehension"
+        ],
+        "heedless": [
+            "marked by or paying little heed or attention",
+            "characterized by careless unconcern"
+        ],
+        "retort": [
+            "answer back"
+        ],
+        "ashamed": [
+            "feeling shame or guilt or embarrassment or remorse"
+        ],
+        "rub": [
+            "move over something with pressure",
+            "cause friction",
+            "scrape or rub as if to relieve itching"
+        ],
+        "dwell": [
+            "think moodily or anxiously about something",
+            "originate (in",
+            "be an inhabitant of or reside in",
+            "exist or be situated within",
+            "come back to"
+        ],
+        "bound": [
+            "stick to firmly",
+            "create social or emotional ties",
+            "make fast; tie or secure, with or as if with a rope",
+            "wrap around with something so as to cover or enclose",
+            "secure with or as if with ropes",
+            "bind by an obligation; cause to be indebted",
+            "provide with a binding",
+            "fasten or secure with a rope, string, or cord",
+            "form a chemical bond with",
+            "cause to be constipated",
+            "move forward by leaps and bounds",
+            "form the boundary of; be contiguous to",
+            "place limits on (extent or amount or access",
+            "spring back; spring away from an impact"
+        ]
+    },
+    "previously_featured": {
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "stuffed": [
+            "filled with something",
+            "crammed with food"
+        ],
+        "loudly": [
+            "with relatively high volume",
+            "in manner that attracts attention",
+            "used as a direction in music; to be played relatively loudly"
+        ],
+        "shall": "no translation found",
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ]
+    }
+}

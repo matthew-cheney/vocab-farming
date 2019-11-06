@@ -1,0 +1,53 @@
+{
+    "chapter_number": 12,
+    "chapter_title": "13. The Rescue",
+    "featured_words": {
+        "tinsmith": "hojalatero",
+        "handle": "encargarse de",
+        "straighten": "enderezar",
+        "Winkies": "Winkies",
+        "shall": "deber\u00e1",
+        "rust": "a la roya",
+        "clothe": "vestir",
+        "unlock": "para desbloquear",
+        "rejoicing": "alegr\u00eda",
+        "feasting": "festejar",
+        "cruelty": "crueldad",
+        "blade": "espada",
+        "bondage": "esclavitud",
+        "axe": "eje",
+        "anxiously": "ansiosamente"
+    },
+    "dictionary_words": {
+        "plain": "llanura",
+        "plight": "situaci\u00f3n",
+        "rocky": "rocoso",
+        "tenderly": "tiernamente",
+        "inquire": "para inquirir",
+        "hammer": "martillar",
+        "twisting": "retortij\u00f3n",
+        "polishing": "pulido",
+        "pound": "golpear",
+        "solder": "para soldar",
+        "dent": "abolladura",
+        "batter": "batir",
+        "sober": "sobrio",
+        "soldering": "soldadura",
+        "bent": "son"
+    },
+    "previously_featured": {
+        "tinsmith": "hojalatero",
+        "shall": "deber\u00e1",
+        "clothe": "vestir",
+        "axe": "eje",
+        "rust": "a la roya",
+        "bondage": "esclavitud",
+        "inquire": "para inquirir",
+        "Monkeys": "Monos",
+        "bye": "adi\u00f3s",
+        "scarecrow": "espantap\u00e1jaros",
+        "stumble": "tropezar",
+        "traveler": "viajero",
+        "charm": "encanto"
+    }
+}

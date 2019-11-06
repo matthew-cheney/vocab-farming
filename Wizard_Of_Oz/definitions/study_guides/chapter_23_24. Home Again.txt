@@ -1,0 +1,24 @@
+{
+    "chapter_number": 23,
+    "chapter_title": "24. Home Again",
+    "featured_words": {
+        "water": [
+            "supply with water, as with channels or ditches or streams",
+            "provide with water",
+            "secrete or form water, as tears or saliva",
+            "fill with tears"
+        ],
+        "kiss": [
+            "the act of caressing with the lips (or an instance thereof",
+            "a cookie made of egg whites and sugar",
+            "any of several bite-sized candies",
+            "a light glancing touch"
+        ],
+        "gravely": [
+            "in a grave and sober manner",
+            "to a severe or serious degree"
+        ]
+    },
+    "dictionary_words": {},
+    "previously_featured": {}
+}

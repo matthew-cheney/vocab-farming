@@ -1,0 +1,248 @@
+{
+    "chapter_number": 20,
+    "chapter_title": "21. The Lion Becomes the King of Beasts",
+    "featured_words": {
+        "wilder": [
+            "United States writer and dramatist (1897-1975",
+            "United States filmmaker (born in Austria",
+            "1906-2002"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "rank": [
+            "very fertile; producing profuse growth",
+            "very offensive in smell or taste",
+            "conspicuously and outrageously bad or reprehensible",
+            "complete and without restriction or qualification; sometimes used informally as intensifiers",
+            "growing profusely"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "marsh": [
+            "low-lying wet land with grassy vegetation; usually is a transition zone between land and water",
+            "United States painter (1898-1954",
+            "New Zealand writer of detective stories (1899-1982"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "proudly": [
+            "with pride; in a proud manner"
+        ],
+        "elephant": [
+            "five-toed pachyderm",
+            "the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+        ],
+        "disagreeable": [
+            "not to your liking",
+            "unpleasant to interact with",
+            "not agreeing with your tastes or expectations"
+        ],
+        "muddy": [
+            "(of soil",
+            "dirty and messy; covered with mud or muck",
+            "(of color",
+            "or dingy",
+            "(of liquids"
+        ],
+        "tiresome": [
+            "so lacking in interest as to cause mental weariness"
+        ],
+        "tiger": [
+            "a fierce or audacious person",
+            "large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+        ],
+        "gloomy": [
+            "depressingly dark",
+            "filled with melancholy and despondency",
+            "causing dejection"
+        ],
+        "bog": [
+            "wet spongy ground of decomposing vegetation; has poorer drainage than a swamp; soil is unfit for cultivation but can be cut and dried and used for fuel"
+        ],
+        "underbrush": [
+            "the brush (small trees and bushes and ferns etc."
+        ]
+    },
+    "dictionary_words": {
+        "rumble": [
+            "a loud low dull continuous noise",
+            "a servant's seat (or luggage compartment",
+            "a fight between rival gangs of adolescents"
+        ],
+        "growl": [
+            "to utter or emit low dull rumbling sounds"
+        ],
+        "snarling": [
+            "utter in an angry, sharp, or abrupt tone",
+            "make a snarling noise or move with a snarling noise",
+            "twist together or entwine into a confusing mass",
+            "make more complicated or confused through entanglements"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "pleasanter": [
+            "affording pleasure; being in harmony with your taste or likings",
+            "(of persons"
+        ],
+        "assemblage": [
+            "a group of persons together in one place",
+            "a system of components assembled together for a particular purpose",
+            "the social act of assembling",
+            "several things grouped together or considered as a whole"
+        ],
+        "moss": [
+            "tiny leafy-stemmed flowerless plants"
+        ],
+        "growling": [
+            "a gruff or angry utterance (suggestive of the growling of an animal",
+            "the sound of growling (as made by animals"
+        ],
+        "cling": [
+            "fruit (especially peach"
+        ],
+        "whimper": [
+            "cry weakly or softly"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "trodden": [
+            "put down or press the foot, place the foot",
+            "tread or stomp heavily or roughly",
+            "crush as if by treading on",
+            "brace (an archer's bow",
+            "apply (the tread",
+            "mate with"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "wolf": [
+            "any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs",
+            "Austrian composer (1860-1903",
+            "German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824",
+            "a man who is aggressive in making amorous advances to women",
+            "a cruelly rapacious person"
+        ],
+        "fox": [
+            "alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs",
+            "a shifty deceptive person",
+            "the grey or reddish-brown fur of a fox",
+            "English statesman who supported American independence and the French Revolution (1749-1806",
+            "English religious leader who founded the Society of Friends (1624-1691",
+            "a member of an Algonquian people formerly living west of Lake Michigan along the Fox River",
+            "the Algonquian language of the Fox"
+        ]
+    },
+    "previously_featured": {
+        "tiger": [
+            "a fierce or audacious person",
+            "large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "wolf": [
+            "any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs",
+            "Austrian composer (1860-1903",
+            "German classical scholar who claimed that the Iliad and Odyssey were composed by several authors (1759-1824",
+            "a man who is aggressive in making amorous advances to women",
+            "a cruelly rapacious person"
+        ],
+        "Beasts": [
+            "a living organism characterized by voluntary movement",
+            "a cruelly rapacious person"
+        ],
+        "lion": [
+            "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+            "a celebrity who is lionized (much sought after",
+            "(astrology",
+            "the fifth sign of the zodiac; the sun is in this sign from about July 23 to August 22"
+        ],
+        "obey": [
+            "be obedient to"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "gladly": [
+            "in a willing manner"
+        ],
+        "roar": [
+            "make a loud noise, as of wind, water, or vehicles",
+            "utter words loudly and forcefully",
+            "emit long loud cries",
+            "act or proceed in a riotous, turbulent, or disorderly way",
+            "make a loud noise, as of animal",
+            "laugh unrestrainedly and heartily"
+        ],
+        "comrade": [
+            "a friend who is frequently in the company of another",
+            "a fellow member of the Communist Party",
+            "used as a term of address for those male persons engaged in the same movement"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ]
+    }
+}

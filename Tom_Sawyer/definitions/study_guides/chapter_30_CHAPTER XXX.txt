@@ -1,0 +1,237 @@
+{
+    "chapter_number": 30,
+    "chapter_title": "CHAPTER XXX",
+    "featured_words": {
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "lad": [
+            "a boy or man",
+            "a male child (a familiar term of address to a boy"
+        ],
+        "hush": [
+            "(poetic"
+        ],
+        "dumb": [
+            "slow to learn or understand; lacking intellectual acuity",
+            "temporarily incapable of speaking",
+            "lacking the power of human speech",
+            "unable to speak because of hereditary deafness"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "stile": [
+            "an upright that is a member in a door or window frame"
+        ],
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "villain": [
+            "a wicked or evil person; someone who does evil deliberately",
+            "the principal bad character in a film or work of fiction"
+        ],
+        "pistol": [
+            "a firearm that is held and fired with one hand"
+        ],
+        "bundle": [
+            "a collection of things wrapped or boxed together",
+            "a package of several things tied together for carrying or storing",
+            "a large sum of money (especially as pay or profit"
+        ],
+        "feebly": [
+            "in a faint and feeble manner",
+            "in a halting and feeble manner"
+        ],
+        "daylight": [
+            "the time after sunrise and before sunset while it is light outside",
+            "light during the daytime"
+        ]
+    },
+    "dictionary_words": {
+        "grease": [
+            "a thick fatty oil (especially one used to lubricate machinery",
+            "the state of being covered with unclean things"
+        ],
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
+        ],
+        "cigar": [
+            "a roll of tobacco for smoking"
+        ],
+        "widder": "no translation found",
+        "suspicious": [
+            "openly distrustful and unwilling to confide",
+            "not as expected"
+        ],
+        "blunder": [
+            "an embarrassing mistake"
+        ],
+        "rag": [
+            "treat cruelly",
+            "cause annoyance in; disturb, especially by minor irritations",
+            "play in ragtime",
+            "harass with persistent criticism or carping",
+            "censure severely or angrily",
+            "break into lumps before sorting"
+        ],
+        "sheriff": [
+            "the principal law-enforcement officer in a county"
+        ],
+        "betray": [
+            "reveal unintentionally",
+            "deliver to an enemy by treachery",
+            "disappoint, prove undependable to; abandon, forsake",
+            "be sexually unfaithful to one's partner in marriage",
+            "give away information about somebody",
+            "cause someone to believe an untruth"
+        ],
+        "tedious": [
+            "so lacking in interest as to cause mental weariness",
+            "using or containing too many words",
+            "or windy"
+        ],
+        "agin": "no translation found",
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "jaded": [
+            "exhausted",
+            "dulled by surfeit"
+        ],
+        "ferryboat": [
+            "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ],
+        "everybody": "no translation found"
+    },
+    "previously_featured": {
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "everybody": "no translation found",
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
+        ],
+        "ferryboat": [
+            "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "sumach": [
+            "a shrub or tree of the genus Rhus (usually limited to the non-poisonous members of the genus"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "whisper": [
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
+        ],
+        "revenge": [
+            "action taken in return for an injury or offense"
+        ],
+        "lantern": [
+            "light in a transparent protective case"
+        ],
+        "curiously": [
+            "in a manner differing from the usual or expected",
+            "with curiosity"
+        ],
+        "gratitude": [
+            "a feeling of thankfulness and appreciation"
+        ],
+        "vacation": [
+            "leisure time away from work devoted to rest or pleasure",
+            "the act of making something legally void"
+        ],
+        "sermon": [
+            "an address of a religious nature (usually delivered during a church service",
+            "a moralistic rebuke"
+        ],
+        "pew": [
+            "long bench with backs; used in church by the congregation"
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
+        "comfort": [
+            "give moral or emotional strength to",
+            "lessen pain or discomfort; alleviate"
+        ],
+        "straggle": [
+            "wander from a direct or straight course",
+            "go, come, or spread in a rambling or irregular way"
+        ],
+        "hollow": [
+            "not solid; having a space or gap or cavity",
+            "as if echoing in a hollow space",
+            "devoid of significance or force",
+            "lacking in substance or character"
+        ],
+        "disappointment": [
+            "a feeling of dissatisfaction that results when your expectations are not realized",
+            "an act (or failure to act"
+        ],
+        "scarcely": [
+            "only a very short time before",
+            "almost not"
+        ],
+        "dim": [
+            "lacking in light; not bright or harsh",
+            "lacking clarity or distinctness",
+            "made dim or less bright",
+            "offering little or no hope",
+            "slow to learn or understand; lacking intellectual acuity"
+        ],
+        "somebody": [
+            "a human being"
+        ]
+    }
+}

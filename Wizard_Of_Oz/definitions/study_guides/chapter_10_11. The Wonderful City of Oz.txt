@@ -1,0 +1,291 @@
+{
+    "chapter_number": 10,
+    "chapter_title": "11. The Wonderful City of Oz",
+    "featured_words": {
+        "marble": [
+            "a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material",
+            "a small ball of glass that is used in various games",
+            "a sculpture carved from marble"
+        ],
+        "gaze": [
+            "look at with fixed eyes"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "Gates": [
+            "a movable barrier in a fence or wall",
+            "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+            "total admission receipts at a sports event",
+            "passageway (as in an air terminal",
+            "United States computer entrepreneur whose software company made him the youngest multi-billionaire in the history of the United States (born in 1955"
+        ],
+        "emerald": [
+            "a green transparent form of beryl; highly valued as a gemstone",
+            "a transparent piece of emerald that has been cut and polished and is valued as a precious gem",
+            "the green color of an emerald"
+        ],
+        "whisker": [
+            "a very small distance or space",
+            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "sparkle": [
+            "reflect brightly",
+            "be lively or brilliant or exhibit virtuosity",
+            "emit or produce sparks",
+            "become bubbly or frothy or foaming"
+        ],
+        "shall": "no translation found",
+        "sorrowfully": [
+            "in a sorrowful manner",
+            "with sadness; in a sorrowful manner"
+        ],
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "silk": [
+            "a fabric made from the fine threads produced by certain insect larvae",
+            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ]
+    },
+    "dictionary_words": {
+        "sharply": [
+            "in an aggressive manner",
+            "in a well delineated manner",
+            "changing suddenly in direction and degree",
+            "very suddenly and to a great degree"
+        ],
+        "bade": [
+            "propose a payment",
+            "invoke upon",
+            "ask for or request earnestly",
+            "make a demand, as for a card or a suit or a show of hands",
+            "make a serious effort to attain something",
+            "ask someone in a friendly way to do something"
+        ],
+        "forehead": [
+            "the part of the face above the eyes",
+            "the large cranial bone forming the front part of the cranium: includes the upper part of the orbits"
+        ],
+        "wink": [
+            "signal by winking",
+            "gleam or glow intermittently",
+            "briefly shut the eyes",
+            "keep back by blinking"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "gown": [
+            "a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions",
+            "the members of a university as distinguished from the other residents of the town in which the university is located",
+            "lingerie consisting of a loose dress designed to be worn in bed by women",
+            "protective garment worn by surgeons during operations",
+            "outerwear consisting of a long flowing garment used for official or ceremonial occasions"
+        ],
+        "wicked": [
+            "morally bad in principle or practice",
+            "having committed unrighteous acts",
+            "intensely or extremely bad or unpleasant in degree or quality",
+            "naughtily or annoyingly playful",
+            "highly offensive; arousing aversion or disgust"
+        ],
+        "course": [
+            "as might be expected"
+        ],
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "center": [
+            "an area that is approximately central within some larger region",
+            "the piece of ground in the outfield directly ahead of the catcher",
+            "a building dedicated to a particular activity",
+            "a point equidistant from the ends of a line or the extremities of a figure",
+            "the choicest or most essential or most vital part of some idea or experience",
+            "the object upon which interest and attention focuses",
+            "a cluster of nerve cells governing a specific bodily process",
+            "the middle of a military or naval formation",
+            "(basketball",
+            "(football",
+            "a place where some particular activity is concentrated",
+            "politically moderate persons; centrists",
+            "(ice hockey",
+            "the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering",
+            "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace",
+            "the position on a hockey team of the player who participates in the face off at the beginning of the game",
+            "(American football",
+            "a position on a basketball team of the player who participates in the jump that starts the game"
+        ],
+        "brilliancy": [
+            "a quality that outshines the usual"
+        ],
+        "dazzle": [
+            "to cause someone to lose clear vision, especially from intense light",
+            "amaze or bewilder, as with brilliant wit or intellect or skill"
+        ],
+        "coward": [
+            "a person who shows fear or timidity",
+            "English dramatist and actor and composer noted for his witty and sophisticated comedies (1899-1973"
+        ],
+        "satin": [
+            "a smooth fabric of silk or rayon; has a glossy face and a dull back"
+        ],
+        "velvet": [
+            "a silky densely piled fabric with a plain back"
+        ]
+    },
+    "previously_featured": {
+        "shall": "no translation found",
+        "emerald": [
+            "a green transparent form of beryl; highly valued as a gemstone",
+            "a transparent piece of emerald that has been cut and polished and is valued as a precious gem",
+            "the green color of an emerald"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "Gates": [
+            "a movable barrier in a fence or wall",
+            "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+            "total admission receipts at a sports event",
+            "passageway (as in an air terminal",
+            "United States computer entrepreneur whose software company made him the youngest multi-billionaire in the history of the United States (born in 1955"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "wink": [
+            "signal by winking",
+            "gleam or glow intermittently",
+            "briefly shut the eyes",
+            "keep back by blinking"
+        ],
+        "wicked": [
+            "morally bad in principle or practice",
+            "having committed unrighteous acts",
+            "intensely or extremely bad or unpleasant in degree or quality",
+            "naughtily or annoyingly playful",
+            "highly offensive; arousing aversion or disgust"
+        ],
+        "coward": [
+            "a person who shows fear or timidity",
+            "English dramatist and actor and composer noted for his witty and sophisticated comedies (1899-1973"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "doorway": [
+            "the entrance (the space in a wall"
+        ],
+        "leave": [
+            "the period of time during which you are absent from work or duty",
+            "permission to do something",
+            "the act of departing politely"
+        ],
+        "ought": "no translation found",
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "growl": [
+            "the sound of growling (as made by animals"
+        ],
+        "roar": [
+            "make a loud noise, as of wind, water, or vehicles",
+            "utter words loudly and forcefully",
+            "emit long loud cries",
+            "act or proceed in a riotous, turbulent, or disorderly way",
+            "make a loud noise, as of animal",
+            "laugh unrestrainedly and heartily"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "glow": [
+            "emit a steady even light without flames",
+            "have a complexion with a strong bright color, such as red or pink",
+            "shine intensely, as if with heat",
+            "be exuberant or high-spirited",
+            "experience a feeling of well-being or happiness, as from good health or an intense emotion"
+        ],
+        "Beasts": [
+            "a living organism characterized by voluntary movement",
+            "a cruelly rapacious person"
+        ],
+        "wizard": [
+            "someone who is dazzlingly skilled in any field",
+            "one who practices magic or sorcery"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ],
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
+        ],
+        "awaken": [
+            "cause to become awake or conscious",
+            "stop sleeping",
+            "make aware"
+        ]
+    }
+}

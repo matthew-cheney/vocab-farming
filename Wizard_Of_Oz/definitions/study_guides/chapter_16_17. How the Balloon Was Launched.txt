@@ -1,0 +1,228 @@
+{
+    "chapter_number": 16,
+    "chapter_title": "17. How the Balloon Was Launched",
+    "featured_words": {
+        "tender": [
+            "given to sympathy or gentleness or sentimentality",
+            "hurting",
+            "young and immature",
+            "having or displaying warmth or affection",
+            "easy to cut or chew",
+            "physically untoughened",
+            "(used of boats",
+            "(of plants"
+        ],
+        "glue": [
+            "cement consisting of a sticky substance that is used as an adhesive"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "rattle": [
+            "make short successive sounds",
+            "shake and cause to make a rattling noise"
+        ],
+        "dear": [
+            "a beloved person; used as terms of endearment",
+            "a sweet innocent mild-mannered person (especially a child"
+        ],
+        "fourth": [
+            "coming next after the third and just before the fifth in position or time or degree or magnitude"
+        ],
+        "content": [
+            "satisfy in a limited way",
+            "make content"
+        ],
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "long": [
+            "desire strongly or persistently"
+        ],
+        "gladly": [
+            "in a willing manner"
+        ],
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "silk": [
+            "a fabric made from the fine threads produced by certain insect larvae",
+            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+        ]
+    },
+    "dictionary_words": {
+        "coat": [
+            "put a coat on; cover the surface of; furnish with a surface",
+            "cover or provide with a coat",
+            "form a coat over"
+        ],
+        "pleasantly": [
+            "in a cheerful manner",
+            "in an enjoyable manner"
+        ],
+        "plenty": [
+            "a full supply"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "fancy": [
+            "something many people believe that is false",
+            "imagination or fantasy; held by Coleridge to be more casual and superficial than true imagination",
+            "a predisposition to like something"
+        ],
+        "shall": "no translation found",
+        "circus": [
+            "a travelling company of entertainers; including trained animals",
+            "a performance given by a traveling company of acrobats, clowns, and trained animals",
+            "a frenetic disorganized (and often comic",
+            "(antiquity",
+            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+            "a genus of haws comprising the harriers"
+        ],
+        "tiresome": [
+            "so lacking in interest as to cause mental weariness"
+        ],
+        "humbug": [
+            "pretentious or silly talk or writing",
+            "communication (written or spoken",
+            "something intended to deceive; deliberate trickery intended to gain an advantage"
+        ],
+        "neatly": [
+            "with neatness"
+        ],
+        "faint": [
+            "deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc",
+            "lacking clarity or distinctness",
+            "lacking strength or vigor",
+            "weak and likely to lose consciousness",
+            "indistinctly understood or felt or perceived",
+            "lacking conviction or boldness or courage"
+        ],
+        "deceive": [
+            "be false to; be dishonest with",
+            "cause someone to believe an untruth"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "eagerly": [
+            "with eagerness; in an eager manner"
+        ],
+        "vex": [
+            "cause annoyance in; disturb, especially by minor irritations",
+            "disturb the peace of mind of; afflict with mental agitation or distress",
+            "change the arrangement or position of",
+            "subject to prolonged examination, discussion, or deliberation",
+            "be a mystery or bewildering to"
+        ]
+    },
+    "previously_featured": {
+        "silk": [
+            "a fabric made from the fine threads produced by certain insect larvae",
+            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+        ],
+        "dear": [
+            "a beloved person; used as terms of endearment",
+            "a sweet innocent mild-mannered person (especially a child"
+        ],
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "plenty": [
+            "a full supply"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "humbug": [
+            "pretentious or silly talk or writing",
+            "communication (written or spoken",
+            "something intended to deceive; deliberate trickery intended to gain an advantage"
+        ],
+        "shall": "no translation found",
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "whisker": [
+            "a very small distance or space",
+            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
+        ],
+        "gaze": [
+            "look at with fixed eyes"
+        ],
+        "obey": [
+            "be obedient to"
+        ]
+    }
+}

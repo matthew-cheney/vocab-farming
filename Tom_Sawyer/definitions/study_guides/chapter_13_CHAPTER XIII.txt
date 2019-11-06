@@ -1,0 +1,176 @@
+{
+    "chapter_number": 13,
+    "chapter_title": "CHAPTER XIII",
+    "featured_words": {
+        "hermit": [
+            "one retired from society for religious reasons",
+            "one who lives in solitude"
+        ],
+        "bluff": [
+            "a high steep bank (usually formed by river erosion",
+            "pretense that your position is stronger than it really is",
+            "the act of bluffing in poker; deception by a false show of confidence in the strength of your cards"
+        ],
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
+        ],
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "dismal": [
+            "causing dejection"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "vague": [
+            "not clearly expressed or understood",
+            "not precisely limited, determined, or distinguished",
+            "lacking clarity or distinctness"
+        ],
+        "whisper": [
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
+        ],
+        "raft": [
+            "a flat float (usually made of logs or planks",
+            "a foundation (usually on soft ground"
+        ],
+        "pirate": [
+            "someone who uses another person's words or ideas as if they were his own",
+            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+            "a ship that is manned by pirates"
+        ],
+        "friendless": [
+            "excluded from a society"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "aye": "no translation found",
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "Seas": [
+            "a division of an ocean or a large body of salt water partially enclosed by land",
+            "anything apparently limitless in quantity or volume",
+            "turbulent water with swells of considerable size"
+        ]
+    },
+    "dictionary_words": {
+        "dense": [
+            "permitting little if any light to pass through because of denseness of matter",
+            "hard to pass through because of dense growth",
+            "having high relative density or specific gravity",
+            "slow to learn or understand; lacking intellectual acuity"
+        ],
+        "ashe": [
+            "United States tennis player who was the first Black to win United States and English singles championships (1943-1993"
+        ],
+        "hilt": [
+            "the handle of a sword or dagger"
+        ],
+        "sackcloth": [
+            "a garment made of coarse sacking; formerly worn as an indication of remorse",
+            "a coarse cloth resembling sacking"
+        ],
+        "outlaw": [
+            "someone who has committed a crime or has been legally convicted of a crime"
+        ],
+        "inwardly": [
+            "with respect to private feelings"
+        ],
+        "sweetmeat": [
+            "a sweetened delicacy (as a preserve or pastry"
+        ],
+        "tobacco": [
+            "leaves of the tobacco plant dried and prepared for smoking or ingestion",
+            "aromatic annual or perennial herbs and shrubs"
+        ],
+        "favorite": [
+            "appealing to the general public",
+            "preferred above all others and treated with partiality"
+        ],
+        "piracy": [
+            "hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it",
+            "the act of plagiarizing; taking someone's words or ideas as if they were your own"
+        ],
+        "sail": [
+            "a large piece of fabric (usually canvas fabric",
+            "an ocean trip taken for pleasure",
+            "any structure that resembles a sail"
+        ],
+        "peacefully": [
+            "in a peaceful manner"
+        ],
+        "dono": "no translation found",
+        "contentment": [
+            "happiness with one's situation in life"
+        ],
+        "stealing": [
+            "the act of taking something from someone unlawfully",
+            "avoiding detection by moving carefully"
+        ]
+    },
+    "previously_featured": {
+        "conscience": [
+            "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+            "conformity to one's own sense of right conduct",
+            "a feeling of shame when you do something immoral"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "piracy": [
+            "hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it",
+            "the act of plagiarizing; taking someone's words or ideas as if they were your own"
+        ],
+        "outlaw": [
+            "someone who has committed a crime or has been legally convicted of a crime"
+        ],
+        "dono": "no translation found",
+        "sob": [
+            "weep convulsively"
+        ],
+        "whistle": [
+            "make whistling sounds",
+            "move with, or as with, a whistling sound",
+            "utter or express by whistling",
+            "move, send, or bring as if by whistling",
+            "make a whining, ringing, or whistling sound",
+            "give a signal by whistling"
+        ],
+        "stealthily": [
+            "in a stealthy manner"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "everybody": "no translation found"
+    }
+}

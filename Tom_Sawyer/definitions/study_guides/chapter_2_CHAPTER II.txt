@@ -1,0 +1,138 @@
+{
+    "chapter_number": 2,
+    "chapter_title": "CHAPTER II",
+    "featured_words": {
+        "pail": [
+            "a roughly cylindrical vessel that is open at the top",
+            "the quantity contained in a pail"
+        ],
+        "tole": [
+            "enameled or lacquered metalware (usually gilded and elaborately painted"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
+        "worldly": [
+            "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+            "very sophisticated especially because of surfeit; versed in the ways of the world"
+        ],
+        "marvel": [
+            "something that causes feelings of wonder"
+        ],
+        "stabboard": "no translation found",
+        "chow": [
+            "the imperial dynasty of China from 1122 to 221 BC; notable for the rise of Confucianism and Taoism",
+            "informal terms for a meal",
+            "breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China"
+        ],
+        "whitewash": [
+            "cover up a misdemeanor, fault, or error",
+            "cover with whitewash",
+            "exonerate by means of a perfunctory investigation or through biased presentation of data"
+        ],
+        "ling": [
+            "water chestnut whose spiny fruit has two rather than 4 prongs",
+            "common Old World heath represented by many varieties; low evergreen grown widely in the northern hemisphere",
+            "elongated marine food fish of Greenland and northern Europe; often salted and dried",
+            "American hakes",
+            "elongate freshwater cod of northern Europe and Asia and North America having barbels around its mouth"
+        ],
+        "sidewalk": [
+            "walk consisting of a paved area for pedestrians; usually beside a street or roadway"
+        ],
+        "hollow": [
+            "not solid; having a space or gap or cavity",
+            "as if echoing in a hollow space",
+            "devoid of significance or force",
+            "lacking in substance or character"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "missis": [
+            "informal term of address for someone's wife"
+        ],
+        "anybody": "no translation found"
+    },
+    "dictionary_words": {
+        "cheer": [
+            "a cry or shout of approval",
+            "the quality of being cheerful and dispelling gloom"
+        ],
+        "dong": [
+            "the basic unit of money in Vietnam"
+        ],
+        "blossom": [
+            "reproductive organ of angiosperm plants especially one having showy or colorful parts",
+            "the period of greatest prosperity or productivity"
+        ],
+        "labboard": "no translation found",
+        "steamboat": [
+            "a boat propelled by a steam engine"
+        ],
+        "marble": [
+            "a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material",
+            "a small ball of glass that is used in various games",
+            "a sculpture carved from marble"
+        ],
+        "brim": [
+            "be completely full",
+            "fill as much as possible"
+        ],
+        "locust": [
+            "migratory grasshoppers of warm regions having short antennae",
+            "hardwood from any of various locust trees",
+            "any of various hardwood trees of the family Leguminosae"
+        ],
+        "fragrance": [
+            "a distinctive odor that is pleasant",
+            "a pleasingly sweet olfactory property"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
+        "vegetation": [
+            "all the plant life in a particular region or period",
+            "the process of growth in plants",
+            "an abnormal growth or excrescence (especially a warty excrescence on the valves of the heart",
+            "inactivity that is passive and monotonous, comparable to the inactivity of plant life"
+        ],
+        "personate": [
+            "pretend to be someone you are not; sometimes with fraudulent intentions",
+            "attribute human qualities to something"
+        ],
+        "stump": [
+            "the base part of a tree that remains standing after the tree has been felled",
+            "the part of a limb or tooth that remains after the rest is removed",
+            "(cricket",
+            "a platform raised above the surrounding level to give prominence to the person on it"
+        ],
+        "whitewashing": [
+            "cover up a misdemeanor, fault, or error",
+            "cover with whitewash",
+            "exonerate by means of a perfunctory investigation or through biased presentation of data"
+        ]
+    },
+    "previously_featured": {
+        "anybody": "no translation found",
+        "marvel": [
+            "something that causes feelings of wonder"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ]
+    }
+}

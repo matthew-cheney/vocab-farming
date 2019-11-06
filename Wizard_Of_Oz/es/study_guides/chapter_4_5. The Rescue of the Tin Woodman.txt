@@ -1,0 +1,44 @@
+{
+    "chapter_number": 4,
+    "chapter_title": "5. The Rescue of the Tin Woodman",
+    "featured_words": {
+        "tinsmith": "hojalatero",
+        "inquire": "para inquirir",
+        "harder": "M\u00e1s fuerte",
+        "rust": "a la roya",
+        "scarecrow": "espantap\u00e1jaros",
+        "enchant": "encantar",
+        "oil": "al aceite",
+        "shall": "deber\u00e1",
+        "squirrel": "ardilla",
+        "tin": "creer",
+        "awake": "para despertarse",
+        "patiently": "pacientemente",
+        "groan": "gemir",
+        "axe": "eje"
+    },
+    "dictionary_words": {
+        "inconvenient": "inconveniente",
+        "sharply": "bruscamente",
+        "timidly": "encogidamente",
+        "startled": "sorprendido",
+        "thoughtfully": "pensativamente",
+        "scarcely": "apenas",
+        "uplifted": "elevado",
+        "bother": "molestia",
+        "motionless": "inm\u00f3vil",
+        "amazement": "asombro",
+        "bathe": "ba\u00f1arse",
+        "ray": "rayo",
+        "thankful": "agradecido",
+        "near": "cerca",
+        "joint": "para articular"
+    },
+    "previously_featured": {
+        "shall": "deber\u00e1",
+        "scarecrow": "espantap\u00e1jaros",
+        "inquire": "para inquirir",
+        "stumble": "tropezar",
+        "mean": "media"
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "chapter_number": 9,
+    "chapter_title": "CHAPTER IX",
+    "featured_words": {
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "coffin": [
+            "box in which a corpse is buried or cremated"
+        ],
+        "gloom": [
+            "a state of partial or total darkness",
+            "a feeling of melancholy apprehension",
+            "an atmosphere of depression and melancholy"
+        ],
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "shudder": [
+            "an almost pleasurable sensation of fright",
+            "an involuntary vibration (as if from illness or fear"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "graveyard": [
+            "a tract of land used for burials"
+        ],
+        "stillness": [
+            "(poetic",
+            "calmness without winds",
+            "a state of no motion or movement"
+        ],
+        "scarcely": [
+            "only a very short time before",
+            "almost not"
+        ],
+        "muffle": [
+            "suppress in order to conceal or hide",
+            "deaden (a sound or noise"
+        ],
+        "elm": [
+            "any of various trees of the genus Ulmus: important timber or shade trees",
+            "hard tough wood of an elm tree; used for e.g. implements and furniture"
+        ],
+        "fashioned": [
+            "planned and made or fashioned artistically"
+        ],
+        "howl": [
+            "a long loud emotional utterance",
+            "the long plaintive cry of a hound or a wolf",
+            "a loud sustained noise resembling the cry of a hound"
+        ]
+    },
+    "dictionary_words": {
+        "snatch": [
+            "to grasp hastily or eagerly",
+            "to make grasping motions",
+            "take away to an undisclosed location against their will and usually in order to extract a ransom"
+        ],
+        "headboard": [
+            "a vertical board or panel forming the head of a bedstead"
+        ],
+        "spade": [
+            "a playing card in the major suit that has one or more black figures on it",
+            "a sturdy hand shovel that can be pushed into the earth with the foot"
+        ],
+        "afeard": [
+            "a pronunciation of afraid"
+        ],
+        "shovel": [
+            "a hand tool for lifting loose material; consists of a curved container or scoop and a handle",
+            "the quantity a shovel can hold",
+            "a fire iron consisting of a small shovel used to scoop coals or ashes in a fireplace",
+            "a machine for excavating"
+        ],
+        "like": [
+            "a similar kind",
+            "a kind of person"
+        ],
+        "reel": [
+            "walk as if unable to control one's movements",
+            "revolve quickly and repeatedly around one's own axis",
+            "wind onto or off a reel"
+        ],
+        "whisper": [
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
+        ],
+        "corpse": [
+            "the dead body of a human being"
+        ],
+        "weepon": "no translation found",
+        "lantern": [
+            "light in a transparent protective case"
+        ],
+        "restless": [
+            "worried and uneasy",
+            "ceaselessly in motion",
+            "lacking or not affording physical or mental rest"
+        ],
+        "impatience": [
+            "a lack of patience; irritation with anything that causes delay",
+            "a restless desire for change and excitement",
+            "a dislike of anything that causes delay"
+        ],
+        "wisht": "no translation found"
+    },
+    "previously_featured": {
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
+        ],
+        "snatch": [
+            "to grasp hastily or eagerly",
+            "to make grasping motions",
+            "take away to an undisclosed location against their will and usually in order to extract a ransom"
+        ],
+        "toss": [
+            "throw or toss with a light motion",
+            "lightly throw to see which side comes up",
+            "throw carelessly",
+            "move or stir about violently",
+            "throw or cast away",
+            "agitate"
+        ],
+        "dressed": [
+            "dressed or clothed especially in fine attire; often used in combination",
+            "treated with medications and protective covering",
+            "(of lumber or stone",
+            "dressed in fancy or formal clothing"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "everybody": "no translation found",
+        "instant": [
+            "a very short time (as the time it takes the eye to blink or the heart to beat",
+            "a particular point in time"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ]
+    }
+}

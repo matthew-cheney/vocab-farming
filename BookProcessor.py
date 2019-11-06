@@ -54,26 +54,18 @@ class BookProcessor:
         return frequency_list
 
 
-    def load_book(self, directory):
-        chapter_filenames = glob(f'{directory}/*.txt')
-        for filename in chapter_filenames:
-            with open(filename, 'r') as f:
-                soup = BeautifulSoup(f, 'html.parser')
-            chapter_number = soup.find('chapter_number').contents[0]
-            chapter_number = int(chapter_number)
-            chapter_title = soup.find('title').contents[0]
-            chapter_body = str(soup.find('body').contents[0])
-            self.chapters.append(Chapter(chapter_number, chapter_title,
-                                         chapter_body))
+    def load_book(self, chapters):
+        self.chapters = chapters
         self.chapters.sort()
 
-    def process_book(self, difficulty=0, level='A1', words_per_chapter=15):
+    def process_book(self, difficulty=0, level='A1', words_per_chapter=15, dictionary_words_per_chapter=15):
         already_featured = dict()
         level = self.level_dictionary[level]
         for chapter in self.chapters:
             self._process_chapter(chapter)
             self._set_featured_words(chapter, difficulty, level,
-                                     words_per_chapter, already_featured)
+                                     words_per_chapter, dictionary_words_per_chapter,
+                                     already_featured)
             self._add_to_already_featured(chapter, already_featured)
         return self.chapters
 
@@ -130,7 +122,7 @@ class BookProcessor:
             lemmas_list.append((lemma, tag))
         return lemmas_list
 
-    def _set_featured_words(self, chapter, difficulty, level, words_per_chapter, used_words):
+    def _set_featured_words(self, chapter, difficulty, level, words_per_chapter, dictionary_words_per_chapter, used_words):
         sorted_by_frequency = chapter.word_frequency_list.most_common()
         words_chosen = 0
         target_index = 0
@@ -153,7 +145,7 @@ class BookProcessor:
 
             if words_chosen < words_per_chapter:
                 chapter.featured_words.add(target_word_tuple)
-            else:
+            elif len(chapter.dictionary_words) < dictionary_words_per_chapter:
                 chapter.dictionary_words.add(target_word_tuple)
             words_chosen += 1
             target_index += 1

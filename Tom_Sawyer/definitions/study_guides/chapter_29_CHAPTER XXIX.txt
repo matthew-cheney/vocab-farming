@@ -1,0 +1,331 @@
+{
+    "chapter_number": 29,
+    "chapter_title": "CHAPTER XXIX",
+    "featured_words": {
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "avenue": [
+            "a line of approach",
+            "a wide street or thoroughfare"
+        ],
+        "sumach": [
+            "a shrub or tree of the genus Rhus (usually limited to the non-poisonous members of the genus"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "mamma": [
+            "informal terms for a mother",
+            "milk-secreting organ of female mammals"
+        ],
+        "labyrinth": [
+            "complex system of paths or tunnels in which it is easy to get lost",
+            "a complex system of interconnecting cavities; concerned with hearing and equilibrium"
+        ],
+        "gloom": [
+            "a state of partial or total darkness",
+            "a feeling of melancholy apprehension",
+            "an atmosphere of depression and melancholy"
+        ],
+        "laughter": [
+            "the sound of laughing",
+            "the activity of laughing; the manifestation of joy or mirth or scorn"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
+        "ferryboat": [
+            "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ],
+        "anticipation": [
+            "an expectation",
+            "something expected (as on the basis of a norm",
+            "the act of predicting (as by reasoning about the future",
+            "anticipating with confidence of fulfillment"
+        ],
+        "straggle": [
+            "wander from a direct or straight course",
+            "go, come, or spread in a rambling or irregular way"
+        ],
+        "quarry": [
+            "a person who is the aim of an attack (especially a victim of ridicule or exploitation",
+            "a surface excavation for extracting stone or slate",
+            "animal hunted or caught for food"
+        ],
+        "astonish": [
+            "affect with wonder"
+        ]
+    },
+    "dictionary_words": {
+        "schoolmate": [
+            "an acquaintance that you go to school with"
+        ],
+        "fever": [
+            "a rise in the temperature of the body; frequently a symptom of infection",
+            "intense nervous anticipation"
+        ],
+        "crown": [
+            "dwell on with satisfaction",
+            "express pleasure verbally",
+            "utter shrill sounds",
+            "invest with regal power; enthrone",
+            "be the culminating event",
+            "form the topmost part of",
+            "put an enamel cover on"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "gully": [
+            "deep ditch cut by running water (especially after a prolonged downpour"
+        ],
+        "exhausting": [
+            "having a debilitating effect",
+            "producing exhaustion"
+        ],
+        "peculiarly": [
+            "uniquely or characteristically",
+            "in a manner differing from the usual or expected",
+            "to a distinctly greater extent or degree than is common",
+            "or specially"
+        ],
+        "consent": [
+            "give an affirmative reply to; respond favorably to"
+        ],
+        "sunset": [
+            "the time in the evening at which the sun begins to fall below the horizon",
+            "atmospheric phenomena accompanying the daily disappearance of the sun",
+            "the daily event of the sun sinking below the horizon"
+        ],
+        "revenge": [
+            "action taken in return for an injury or offense"
+        ],
+        "tease": [
+            "annoy persistently",
+            "harass with persistent criticism or carping",
+            "to arouse hope, desire, or curiosity without satisfying them",
+            "tear into pieces",
+            "raise the nap of (fabrics",
+            "disentangle and raise the fibers of",
+            "separate the fibers of",
+            "mock or make fun of playfully",
+            "ruffle (one's hair"
+        ],
+        "procession": [
+            "(theology",
+            "the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation",
+            "the act of moving forward (as toward a goal"
+        ],
+        "boundless": [
+            "seemingly boundless in amount, number, degree, or especially extent"
+        ],
+        "wharf": [
+            "a platform built out from the shore into the water and supported by piles; provides access to ships and boats"
+        ],
+        "moderate": [
+            "being within reasonable or average limits; not excessive or extreme",
+            "not extreme",
+            "marked by avoidance of extravagance or extremes"
+        ]
+    },
+    "previously_featured": {
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
+        "ferryboat": [
+            "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ],
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        ],
+        "astonish": [
+            "affect with wonder"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "gloom": [
+            "a state of partial or total darkness",
+            "a feeling of melancholy apprehension",
+            "an atmosphere of depression and melancholy"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "revenge": [
+            "action taken in return for an injury or offense"
+        ],
+        "schoolmate": [
+            "an acquaintance that you go to school with"
+        ],
+        "thereabout": [
+            "near that time or date",
+            "near that place"
+        ],
+        "shuck": [
+            "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
+        ],
+        "anybody": "no translation found",
+        "hollow": [
+            "not solid; having a space or gap or cavity",
+            "as if echoing in a hollow space",
+            "devoid of significance or force",
+            "lacking in substance or character"
+        ],
+        "ashore": [
+            "towards the shore from the water"
+        ],
+        "feast": [
+            "a ceremonial dinner party for many people",
+            "something experienced with great delight",
+            "a meal that is well prepared and greatly enjoyed",
+            "an elaborate party (often outdoors"
+        ],
+        "somebody": [
+            "a human being"
+        ],
+        "everybody": "no translation found",
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "venture": [
+            "proceed somewhere despite the risk of possible dangers",
+            "put forward, of a guess, in spite of possible refutation",
+            "put at risk"
+        ],
+        "dismal": [
+            "causing dejection"
+        ],
+        "subdue": [
+            "put down by force or intimidation",
+            "bring under control by force or authority",
+            "hold within limits and control",
+            "get on top of; deal with successfully",
+            "make subordinate, dependent, or subservient",
+            "correct by punishment or discipline"
+        ],
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
+        ],
+        "instant": [
+            "a very short time (as the time it takes the eye to blink or the heart to beat",
+            "a particular point in time"
+        ],
+        "softly": [
+            "with low volume",
+            "in a manner that is pleasing to the senses",
+            "with little weight or force",
+            "used as a direction in music; to be played relatively softly"
+        ],
+        "like": [
+            "resembling or similar; having the same or some of the same characteristics; often used in combination",
+            "equal in amount or value",
+            "having the same or similar characteristics",
+            "conforming in every respect"
+        ],
+        "awhile": [
+            "for a short time"
+        ],
+        "haunted": [
+            "having or showing excessive or compulsive concern with something",
+            "showing emotional affliction or disquiet",
+            "inhabited by or as if by apparitions"
+        ],
+        "kind": [
+            "a category of things distinguished by some common characteristic or quality"
+        ],
+        "stillness": [
+            "(poetic",
+            "calmness without winds",
+            "a state of no motion or movement"
+        ],
+        "gratitude": [
+            "a feeling of thankfulness and appreciation"
+        ],
+        "cautiously": [
+            "as if with kid gloves; with caution or prudence or tact",
+            "in a conservative manner"
+        ],
+        "thrust": [
+            "push forcefully",
+            "press or force",
+            "make a thrusting forward movement",
+            "impose urgently, importunately, or inexorably",
+            "penetrate or cut through with a sharp instrument",
+            "force (molten rock",
+            "push upward",
+            "place or put with great energy"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ]
+    }
+}

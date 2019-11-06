@@ -1,0 +1,240 @@
+{
+    "chapter_number": 22,
+    "chapter_title": "23. Glinda The Good Witch Grants Dorothy's Wish",
+    "featured_words": {
+        "pat": [
+            "pat or squeeze fondly or playfully, especially under the chin",
+            "hit lightly"
+        ],
+        "kindness": [
+            "the quality of being warmhearted and considerate and humane and sympathetic",
+            "tendency to be kind and forgiving",
+            "a kind act"
+        ],
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "shall": "no translation found",
+        "ruler": [
+            "a person who rules or commands",
+            "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
+        ],
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "heel": [
+            "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+            "the back part of the human foot",
+            "someone who is morally reprehensible",
+            "one of the crusty ends of a loaf of bread",
+            "the lower end of a ship's mast"
+        ],
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ],
+        "polish": [
+            "make (a surface",
+            "improve or perfect by pruning or polishing",
+            "bring to a highly developed, finished, or refined state"
+        ],
+        "mane": [
+            "long coarse hair growing from the crest of the animal's neck",
+            "growth of hair covering the scalp of a human being"
+        ],
+        "comb": [
+            "straighten with a comb",
+            "search thoroughly",
+            "smoothen and neaten with or as with a comb"
+        ],
+        "Winkies": "no translation found",
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ]
+    },
+    "dictionary_words": {
+        "upturned": [
+            "having been turned so that the bottom is no longer the bottom",
+            "(used of noses"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "willingly": [
+            "in a willing manner"
+        ],
+        "ringlet": [
+            "a round shape formed by a series of concentric circles (as formed by leaves or flower petals",
+            "a strand or cluster of hair",
+            "a small ring",
+            "any of various butterflies belonging to the family Satyridae"
+        ],
+        "polished": [
+            "perfected or made shiny and smooth",
+            "showing a high degree of refinement and the assurance that comes from wide social experience",
+            "(of grains especially rice",
+            "(of lumber or stone"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "ruby": [
+            "a transparent piece of ruby that has been cut and polished and is valued as a precious gem",
+            "a transparent deep red variety of corundum; used as a gemstone and in lasers",
+            "a deep and vivid red color"
+        ],
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "fond": [
+            "having or displaying warmth or affection",
+            "extravagantly or foolishly loving and indulgent",
+            "(followed by `of' or `to'",
+            "absurd or silly because unlikely"
+        ],
+        "deprive": [
+            "take away possessions from someone",
+            "keep from having, keeping, or obtaining",
+            "take away"
+        ],
+        "second": [
+            "coming next after the first in position in space or time or degree or magnitude",
+            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+        ],
+        "mean": [
+            "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+        ],
+        "mourning": [
+            "state of sorrow over the death or departure of a loved one",
+            "the passionate and demonstrative activity of expressing grief"
+        ],
+        "presentable": [
+            "fit to be seen"
+        ]
+    },
+    "previously_featured": {
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "shall": "no translation found",
+        "Winkies": "no translation found",
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "ruler": [
+            "a person who rules or commands",
+            "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
+        ],
+        "heel": [
+            "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+            "the back part of the human foot",
+            "someone who is morally reprehensible",
+            "one of the crusty ends of a loaf of bread",
+            "the lower end of a ship's mast"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "mane": [
+            "long coarse hair growing from the crest of the animal's neck",
+            "growth of hair covering the scalp of a human being"
+        ],
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "mean": [
+            "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "kind": [
+            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+            "agreeable, conducive to comfort",
+            "tolerant and forgiving under provocation"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "cornfield": [
+            "a field planted with corn"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "coward": [
+            "a person who shows fear or timidity",
+            "English dramatist and actor and composer noted for his witty and sophisticated comedies (1899-1973"
+        ],
+        "weep": [
+            "shed tears because of sadness, rage, or pain"
+        ],
+        "stuffed": [
+            "filled with something",
+            "crammed with food"
+        ],
+        "comrade": [
+            "a friend who is frequently in the company of another",
+            "a fellow member of the Communist Party",
+            "used as a term of address for those male persons engaged in the same movement"
+        ],
+        "prairie": [
+            "a treeless grassy plain"
+        ]
+    }
+}

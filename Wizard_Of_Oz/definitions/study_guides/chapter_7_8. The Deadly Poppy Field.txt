@@ -1,0 +1,215 @@
+{
+    "chapter_number": 7,
+    "chapter_title": "8. The Deadly Poppy Field",
+    "featured_words": {
+        "traveler": [
+            "a person who changes location"
+        ],
+        "current": [
+            "a flow of electricity through a conductor",
+            "a steady flow of a fluid (usually from natural causes",
+            "dominant course (suggestive of running water"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "scarlet": [
+            "of a color at the end of the color spectrum (next to orange"
+        ],
+        "lion": [
+            "large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male",
+            "a celebrity who is lionized (much sought after",
+            "(astrology",
+            "the fifth sign of the zodiac; the sun is in this sign from about July 23 to August 22"
+        ],
+        "shall": "no translation found",
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "poppy": [
+            "annual or biennial or perennial herbs having showy flowers"
+        ],
+        "scent": [
+            "a distinctive odor that is pleasant",
+            "an odor left in passing by which a person or animal can be traced",
+            "any property detected by the olfactory system"
+        ],
+        "raft": [
+            "a flat float (usually made of logs or planks",
+            "a foundation (usually on soft ground"
+        ],
+        "perch": [
+            "sit, as on a branch",
+            "to come to rest, settle",
+            "cause to perch or sit"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "awaken": [
+            "cause to become awake or conscious",
+            "stop sleeping",
+            "make aware"
+        ],
+        "deadly": [
+            "causing or capable of causing death",
+            "of an instrument of certain death",
+            "extremely poisonous or injurious; producing venom",
+            "involving loss of divine grace or spiritual death",
+            "exceedingly harmful",
+            "(of a disease"
+        ]
+    },
+    "dictionary_words": {
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
+        ],
+        "beckon": [
+            "signal with the hands or nod",
+            "appear inviting",
+            "summon with a wave, nod, or some other gesture"
+        ],
+        "breakfast": [
+            "eat an early morning meal",
+            "provide breakfast for"
+        ],
+        "course": [
+            "as might be expected"
+        ],
+        "plum": [
+            "any of several trees producing edible oval fruit having a smooth skin and a single hard stone",
+            "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit",
+            "a highly desirable position or assignment"
+        ],
+        "princess": [
+            "a female member of a royal family other than the queen (especially the daughter of a sovereign"
+        ],
+        "enchant": [
+            "hold spellbound",
+            "attract; cause to be enamored",
+            "cast a spell over someone or something; put a hex on someone or something"
+        ],
+        "steady": [
+            "make steady",
+            "support or hold steady and make steadfast, with or as if with a brace"
+        ],
+        "swift": [
+            "moving very fast"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "discouragement": [
+            "the feeling of despair in the face of obstacles",
+            "the expression of opposition and disapproval",
+            "the act of discouraging"
+        ],
+        "downstream": [
+            "away from the source or with the current"
+        ],
+        "bye": [
+            "an automatic advance to the next round in a tournament without playing an opponent",
+            "a farewell remark"
+        ],
+        "apron": [
+            "a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing",
+            "the part of a modern theater stage between the curtain and the orchestra (i.e., in front of the curtain",
+            "a paved surface where aircraft stand while not being used"
+        ],
+        "cling": [
+            "come or be in close contact with; stick or hold together and resist separation",
+            "to remain emotionally or intellectually attached",
+            "hold on tightly or tenaciously"
+        ]
+    },
+    "previously_featured": {
+        "raft": [
+            "a flat float (usually made of logs or planks",
+            "a foundation (usually on soft ground"
+        ],
+        "shall": "no translation found",
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "perch": [
+            "sit, as on a branch",
+            "to come to rest, settle",
+            "cause to perch or sit"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "enchant": [
+            "hold spellbound",
+            "attract; cause to be enamored",
+            "cast a spell over someone or something; put a hex on someone or something"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "cornfield": [
+            "a field planted with corn"
+        ],
+        "crow": [
+            "black birds having a raucous call",
+            "the cry of a cock (or an imitation of it",
+            "a member of the Siouan people formerly living in eastern Montana",
+            "a small quadrilateral constellation in the southern hemisphere near Virgo",
+            "an instance of boastful talk",
+            "a Siouan language spoken by the Crow"
+        ],
+        "plenty": [
+            "a full supply"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "midst": [
+            "the location of something surrounded by other things"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ]
+    }
+}

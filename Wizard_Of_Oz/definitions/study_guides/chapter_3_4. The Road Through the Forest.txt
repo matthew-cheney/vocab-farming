@@ -1,0 +1,177 @@
+{
+    "chapter_number": 3,
+    "chapter_title": "4. The Road Through the Forest",
+    "featured_words": {
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "uneven": [
+            "not even or uniform as e.g. in shape or texture",
+            "(of a contest or contestants",
+            "not divisible by two",
+            "variable and recurring at irregular intervals",
+            "lacking consistency"
+        ],
+        "dismal": [
+            "causing dejection"
+        ],
+        "matter": [
+            "a vaguely specified concern",
+            "some situation or event that is thought about",
+            "that which has mass and occupies space",
+            "a problem",
+            "(used with negation",
+            "written works (especially in books or magazines"
+        ],
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "merrily": [
+            "in a joyous manner"
+        ],
+        "lonesome": [
+            "being the only one; single and isolated from others",
+            "marked by dejection from being alone"
+        ],
+        "cornfield": [
+            "a field planted with corn"
+        ],
+        "stumble": [
+            "walk unsteadily",
+            "miss a step and fall or nearly fall",
+            "encounter by chance",
+            "make an error"
+        ],
+        "roadside": [
+            "edge of a way or road or path"
+        ],
+        "mishap": [
+            "an unpredictable outcome that is unfortunate",
+            "an instance of misfortune"
+        ],
+        "crow": [
+            "black birds having a raucous call",
+            "the cry of a cock (or an imitation of it",
+            "a member of the Siouan people formerly living in eastern Montana",
+            "a small quadrilateral constellation in the southern hemisphere near Virgo",
+            "an instance of boastful talk",
+            "a Siouan language spoken by the Crow"
+        ],
+        "brook": [
+            "a natural stream of water smaller than a river (and often a tributary of a river"
+        ]
+    },
+    "dictionary_words": {
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
+        ],
+        "sigh": [
+            "heave or utter a sigh; breathe deeply and heavily",
+            "utter with a sigh"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "queer": [
+            "offensive term for a homosexual man"
+        ],
+        "scare": [
+            "cause fear in",
+            "cause to lose courage"
+        ],
+        "glimpse": [
+            "a quick look",
+            "a brief or incomplete view",
+            "a vague indication"
+        ],
+        "luckily": [
+            "by good fortune"
+        ],
+        "gray": [
+            "make grey",
+            "turn grey"
+        ],
+        "course": [
+            "as might be expected"
+        ],
+        "nod": [
+            "express or signify by nodding",
+            "lower and raise the head, as to indicate assent or agreement or confirmation",
+            "let the head fall forward through drowsiness",
+            "sway gently back and forth, as in a nodding motion",
+            "be almost asleep"
+        ],
+        "reproachfully": [
+            "in a reproving or reproachful manner"
+        ],
+        "dreary": [
+            "lacking in liveliness or charm or surprise",
+            "causing dejection"
+        ],
+        "second": [
+            "coming next after the first in position in space or time or degree or magnitude",
+            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+        ],
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "curiosity": [
+            "a state in which you want to learn more about something",
+            "something unusual -- perhaps worthy of collecting"
+        ]
+    },
+    "previously_featured": {
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ],
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
+        ],
+        "perch": [
+            "sit, as on a branch",
+            "to come to rest, settle",
+            "cause to perch or sit"
+        ],
+        "shall": "no translation found"
+    }
+}

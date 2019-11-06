@@ -1,0 +1,207 @@
+{
+    "chapter_number": 8,
+    "chapter_title": "CHAPTER VIII",
+    "featured_words": {
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "grieve": [
+            "feel grief",
+            "cause to feel sorrow"
+        ],
+        "trumpet": [
+            "a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves"
+        ],
+        "doodle": [
+            "an aimless drawing"
+        ],
+        "outlaw": [
+            "someone who has committed a crime or has been legally convicted of a crime"
+        ],
+        "marble": [
+            "a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material",
+            "a small ball of glass that is used in various games",
+            "a sculpture carved from marble"
+        ],
+        "half": [
+            "one of two equal parts of a divisible whole",
+            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "incantation": [
+            "a ritual recitation of words or sounds believed to have a magical effect"
+        ],
+        "superstition": [
+            "an irrational belief arising from ignorance or fear"
+        ],
+        "blast": [
+            "a very long fly ball",
+            "a sudden very loud noise",
+            "a strong current of air",
+            "an explosion (as of dynamite",
+            "a highly pleasurable or exciting experience",
+            "intense adverse criticism"
+        ],
+        "toss": [
+            "throw or toss with a light motion",
+            "lightly throw to see which side comes up",
+            "throw carelessly",
+            "move or stir about violently",
+            "throw or cast away",
+            "agitate"
+        ],
+        "bristle": [
+            "be in a state of movement or action",
+            "rise up as in fear",
+            "have or be thickly covered with or as if with bristles",
+            "react in an offended or angry manner"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "shingle": [
+            "building material used as siding or roofing",
+            "coarse beach gravel of small waterworn stones and pebbles (or a stretch of shore covered with such gravel",
+            "a small signboard outside the office of a lawyer or doctor, e.g."
+        ]
+    },
+    "dictionary_words": {
+        "juvenile": [
+            "of or relating to or characteristic of or appropriate for children or young people",
+            "displaying or suggesting a lack of maturity"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ],
+        "hither": [
+            "to this place (especially toward the speaker"
+        ],
+        "lath": [
+            "a narrow thin strip of wood used as backing for plaster or to make latticework"
+        ],
+        "thee": "no translation found",
+        "moody": [
+            "showing a brooding ill humor",
+            "subject to sharply varying moods"
+        ],
+        "thither": [
+            "to or toward that place; away from the speaker"
+        ],
+        "jog": [
+            "a sharp change in direction",
+            "a slow pace of running",
+            "a slight push or shake"
+        ],
+        "thou": [
+            "the cardinal number that is the product of 10 and 100"
+        ],
+        "baffle": [
+            "be a mystery or bewildering to",
+            "hinder or prevent (the efforts, plans, or desires",
+            "restrain the emission of (sound, fluid, etc."
+        ],
+        "mansion": [
+            "(astrology",
+            "a large and imposing house"
+        ],
+        "prevailing": [
+            "most frequent or common"
+        ],
+        "merry": [
+            "full of or showing high-spirited merriment",
+            "offering fun and gaiety",
+            "or festal",
+            "quick and energetic"
+        ],
+        "dodge": [
+            "make a sudden movement in a new direction so as to avoid",
+            "move to and fro or from place to place usually in an irregular course",
+            "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues"
+        ],
+        "bow": [
+            "a knot with two loops and loose ends; used to tie shoelaces",
+            "a slightly curved piece of resilient wood with taut horsehair strands; used in playing certain stringed instruments",
+            "front part of a vessel or aircraft",
+            "a weapon for shooting arrows, composed of a curved piece of resilient wood with a taut cord to propel the arrow",
+            "something curved in shape",
+            "bending the head or body or knee as a sign of reverence or submission or shame or greeting",
+            "an appearance by actors or performers at the end of the concert or play in order to acknowledge the applause of the audience",
+            "a decorative interlacing of ribbons",
+            "a stroke with a curved piece of wood with taut horsehair strands that is used in playing stringed instruments"
+        ]
+    },
+    "previously_featured": {
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "superstition": [
+            "an irrational belief arising from ignorance or fear"
+        ],
+        "chin": [
+            "the protruding part of the lower jaw",
+            "Kamarupan languages spoken in western Burma and Bangladesh and easternmost India"
+        ],
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "glow": [
+            "emit a steady even light without flames",
+            "have a complexion with a strong bright color, such as red or pink",
+            "shine intensely, as if with heat",
+            "be exuberant or high-spirited",
+            "experience a feeling of well-being or happiness, as from good health or an intense emotion"
+        ],
+        "ecstasy": [
+            "a state of being carried away by overwhelming emotion",
+            "a state of elated bliss",
+            "street names for methylenedioxymethamphetamine"
+        ],
+        "whispering": [
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind",
+            "speaking softly without vibration of the vocal cords"
+        ],
+        "hollow": [
+            "not solid; having a space or gap or cavity",
+            "as if echoing in a hollow space",
+            "devoid of significance or force",
+            "lacking in substance or character"
+        ],
+        "second": [
+            "coming next after the first in position in space or time or degree or magnitude",
+            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+        ],
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "dare": [
+            "a challenge to do something dangerous or foolhardy"
+        ],
+        "shall": "no translation found"
+    }
+}

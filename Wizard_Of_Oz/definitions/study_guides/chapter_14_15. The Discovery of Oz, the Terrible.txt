@@ -1,0 +1,262 @@
+{
+    "chapter_number": 14,
+    "chapter_title": "15. The Discovery of Oz, the Terrible",
+    "featured_words": {
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "Gates": [
+            "a movable barrier in a fence or wall",
+            "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+            "total admission receipts at a sports event",
+            "passageway (as in an air terminal",
+            "United States computer entrepreneur whose software company made him the youngest multi-billionaire in the history of the United States (born in 1955"
+        ],
+        "meekly": [
+            "in a submissive or spiritless manner",
+            "in a humble manner"
+        ],
+        "plenty": [
+            "a full supply"
+        ],
+        "tremble": [
+            "move or jerk quickly and involuntarily up and down or sideways"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "shall": "no translation found",
+        "course": [
+            "as might be expected"
+        ],
+        "humbug": [
+            "pretentious or silly talk or writing",
+            "communication (written or spoken",
+            "something intended to deceive; deliberate trickery intended to gain an advantage"
+        ],
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
+        ],
+        "dear": [
+            "a beloved person; used as terms of endearment",
+            "a sweet innocent mild-mannered person (especially a child"
+        ]
+    },
+    "dictionary_words": {
+        "hardship": [
+            "a state of misfortune or affliction",
+            "something hard to endure",
+            "something that causes or entails suffering"
+        ],
+        "gravely": [
+            "in a grave and sober manner",
+            "to a severe or serious degree"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "afterward": [
+            "happening at a time subsequent to a reference time"
+        ],
+        "gracious": [
+            "characterized by charm, good taste, and generosity of spirit",
+            "characterized by kindness and warm courtesy especially of a king to his subjects",
+            "exhibiting courtesy and politeness",
+            "disposed to bestow favors"
+        ],
+        "whisker": [
+            "a very small distance or space",
+            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+        ],
+        "wizard": [
+            "someone who is dazzlingly skilled in any field",
+            "one who practices magic or sorcery"
+        ],
+        "vexed": [
+            "troubled persistently especially with petty annoyances",
+            "causing difficulty in finding an answer or solution; much disputed"
+        ],
+        "tiresome": [
+            "so lacking in interest as to cause mental weariness"
+        ],
+        "slavery": [
+            "the state of being under the control of another person",
+            "the practice of owning slaves",
+            "work done under harsh conditions for little or no pay"
+        ],
+        "sleepless": [
+            "experiencing or accompanied by sleeplessness",
+            "always watchful"
+        ],
+        "ashamed": [
+            "feeling shame or guilt or embarrassment or remorse"
+        ],
+        "ventriloquist": [
+            "a performer who projects the voice into a wooden dummy"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "waiting": [
+            "the act of waiting (remaining inactive in one place while expecting something"
+        ]
+    },
+    "previously_featured": {
+        "shall": "no translation found",
+        "traveler": [
+            "a person who changes location"
+        ],
+        "plenty": [
+            "a full supply"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "dear": [
+            "a beloved person; used as terms of endearment",
+            "a sweet innocent mild-mannered person (especially a child"
+        ],
+        "Gates": [
+            "a movable barrier in a fence or wall",
+            "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+            "total admission receipts at a sports event",
+            "passageway (as in an air terminal",
+            "United States computer entrepreneur whose software company made him the youngest multi-billionaire in the history of the United States (born in 1955"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
+        ],
+        "wizard": [
+            "someone who is dazzlingly skilled in any field",
+            "one who practices magic or sorcery"
+        ],
+        "far": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point"
+        ],
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
+        ],
+        "whisker": [
+            "a very small distance or space",
+            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "fierce": [
+            "marked by extreme and violent energy",
+            "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+            "ruthless in competition",
+            "violently agitated and turbulent"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "ought": "no translation found",
+        "sorrowfully": [
+            "in a sorrowful manner",
+            "with sadness; in a sorrowful manner"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ],
+        "current": [
+            "a flow of electricity through a conductor",
+            "a steady flow of a fluid (usually from natural causes",
+            "dominant course (suggestive of running water"
+        ],
+        "awake": [
+            "stop sleeping"
+        ],
+        "midst": [
+            "the location of something surrounded by other things"
+        ],
+        "wicked": [
+            "morally bad in principle or practice",
+            "having committed unrighteous acts",
+            "intensely or extremely bad or unpleasant in degree or quality",
+            "naughtily or annoyingly playful",
+            "highly offensive; arousing aversion or disgust"
+        ],
+        "deadly": [
+            "causing or capable of causing death",
+            "of an instrument of certain death",
+            "extremely poisonous or injurious; producing venom",
+            "involving loss of divine grace or spiritual death",
+            "exceedingly harmful",
+            "(of a disease"
+        ],
+        "anxiously": [
+            "with anxiety or apprehension"
+        ],
+        "obey": [
+            "be obedient to"
+        ]
+    }
+}

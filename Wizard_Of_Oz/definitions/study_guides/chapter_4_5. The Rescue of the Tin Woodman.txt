@@ -1,0 +1,152 @@
+{
+    "chapter_number": 4,
+    "chapter_title": "5. The Rescue of the Tin Woodman",
+    "featured_words": {
+        "tinsmith": [
+            "someone who makes or repairs tinware"
+        ],
+        "squirrel": [
+            "a kind of arboreal rodent having a long bushy tail",
+            "the fur of a squirrel"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "groan": [
+            "an utterance expressing pain or disapproval"
+        ],
+        "harder": [
+            "with effort or force or vigor",
+            "with firmness",
+            "earnestly or intently",
+            "causing great damage or hardship",
+            "slowly and with difficulty",
+            "indulging excessively",
+            "into a solid condition",
+            "very near or close in space or time",
+            "with pain or distress or bitterness",
+            "to the full extent possible; all the way"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "shall": "no translation found",
+        "patiently": [
+            "with patience; in a patient manner"
+        ],
+        "tin": [
+            "a silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide",
+            "a vessel (box, can, pan, etc.",
+            "metal container for storing dry foods such as tea or flour",
+            "airtight sealed metal container for food or drink or paint etc."
+        ],
+        "enchant": [
+            "hold spellbound",
+            "attract; cause to be enamored",
+            "cast a spell over someone or something; put a hex on someone or something"
+        ],
+        "oil": [
+            "cover with oil, as if by rubbing",
+            "administer an oil or ointment to; often in a religious ceremony of blessing"
+        ],
+        "rust": [
+            "become destroyed by water, air, or a corrosive such as an acid",
+            "cause to deteriorate due to the action of water, air, or an acid",
+            "become coated with oxide"
+        ],
+        "awake": [
+            "stop sleeping"
+        ]
+    },
+    "dictionary_words": {
+        "ray": [
+            "a column of light (as from a beacon",
+            "a branch of an umbel or an umbelliform inflorescence",
+            "(mathematics",
+            "a group of nearly parallel lines of electromagnetic radiation",
+            "the syllable naming the second (supertonic",
+            "any of the stiff bony spines in the fin of a fish",
+            "cartilaginous fishes having horizontally flattened bodies and enlarged winglike pectoral fins with gills on the underside; most swim by moving the pectoral fins"
+        ],
+        "sharply": [
+            "in an aggressive manner",
+            "in a well delineated manner",
+            "changing suddenly in direction and degree",
+            "very suddenly and to a great degree"
+        ],
+        "motionless": [
+            "not in physical motion"
+        ],
+        "amazement": [
+            "the feeling that accompanies something extremely surprising"
+        ],
+        "timidly": [
+            "in a shy or timid or bashful manner"
+        ],
+        "thankful": [
+            "feeling or showing gratitude"
+        ],
+        "near": [
+            "near in time or place or relationship",
+            "(of actions or states"
+        ],
+        "scarcely": [
+            "only a very short time before",
+            "almost not"
+        ],
+        "bother": [
+            "an angry disturbance",
+            "something or someone that causes trouble; a source of unhappiness"
+        ],
+        "joint": [
+            "fit as if by joints",
+            "provide with a joint",
+            "fasten with a joint",
+            "separate (meat"
+        ],
+        "startled": [
+            "excited by sudden surprise or alarm and making a quick involuntary movement"
+        ],
+        "uplifted": [
+            "exalted emotionally especially with pride"
+        ],
+        "inconvenient": [
+            "not suited to your comfort, purpose or needs",
+            "not conveniently timed"
+        ],
+        "bathe": [
+            "cleanse the entire body",
+            "suffuse or envelope with something",
+            "swim for pleasure or recreation"
+        ],
+        "thoughtfully": [
+            "in a thoughtful manner",
+            "showing consideration and thoughtfulness"
+        ]
+    },
+    "previously_featured": {
+        "shall": "no translation found",
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "stumble": [
+            "walk unsteadily",
+            "miss a step and fall or nearly fall",
+            "encounter by chance",
+            "make an error"
+        ],
+        "mean": [
+            "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+        ]
+    }
+}
