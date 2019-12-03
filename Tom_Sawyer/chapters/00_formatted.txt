@@ -1,5 +1,0 @@
-{
-    "chapter_number": 0,
-    "chapter_title": "PREFACE",
-    "body": "\nMost of the adventures recorded in this book really occurred; one or two\nwere experiences of my own, the rest those of boys who were schoolmates\nof mine. Huck Finn is drawn from life; Tom Sawyer also, but not from an\nindividual--he is a combination of the characteristics of three boys whom\nI knew, and therefore belongs to the composite order of architecture.\n\nThe odd superstitions touched upon were all prevalent among children and\nslaves in the West at the period of this story--that is to say, thirty or\nforty years ago.\n\nAlthough my book is intended mainly for the entertainment of boys and\ngirls, I hope it will not be shunned by men and women on that account,\nfor part of my plan has been to try to pleasantly remind adults of what\nthey once were themselves, and of how they felt and thought and talked,\nand what queer enterprises they sometimes engaged in.\n\nTHE AUTHOR.\n\nHARTFORD, 1876."
-}
