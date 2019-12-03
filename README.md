@@ -23,4 +23,6 @@ Place each chapter to be processed in the directory chapters. Each chapter must 
 ## Google Translate API
 In order to use language codes other than 'definitions', you must set up a project with the Google Translate API. They currently offer a free tier of 500,000 characters per month.
 
-https://cloud.google.com/translate/docs/basic/setup-basic
+How to: https://cloud.google.com/translate/docs/basic/setup-basic
+
+After you set up the API, you will have to set the GOOGLE_APPLICATION_CREDENTIALS environment variable every time you start a new terminal session.
