@@ -1,4 +1,6 @@
 import json
+import os
+
 from Translator import Translator
 
 class StudyGuideCreator:
