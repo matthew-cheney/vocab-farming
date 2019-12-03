@@ -20,6 +20,12 @@ Place each chapter to be processed in the directory chapters. Each chapter must 
     "body": "\nWhen Dorothy was left alone she began to feel hungry...."
 }
 
+Once everything is set up, run the program with the following command:
+
+python3 Tester.py <directory> <language_code>
+
+Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
+
 ## Google Translate API
 In order to use language codes other than 'definitions', you must set up a project with the Google Translate API. They currently offer a free tier of 500,000 characters per month.
 
