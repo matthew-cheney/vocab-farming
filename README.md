@@ -10,5 +10,12 @@ Before running the tool, the user must create the following file structure. Foll
 
 In the same directory as Tester.py, create a directory called Tom_Sawyer
 
-In the directory Tom_Sawyer, create three directories: 1) chapters 2) definitions 3) chapter_words
+In the directory Tom_Sawyer, create a directory called chapters
 
+Place each chapter to be processed in the directory chapters. Each chapter must be in JSON format, with 3 entries: chapter_number, chapter_title, and body. The file names do not matter, but must have .txt extension. Example:
+
+{
+    "chapter_number": 2,
+    "chapter_title": "3. How Dorothy Saved the Scarecrow",
+    "body": "\nWhen Dorothy was left alone she began to feel hungry...."
+}
