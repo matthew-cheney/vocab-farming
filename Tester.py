@@ -111,7 +111,15 @@ def dict_to_json(json_dict):
     return json.dumps(json_dict, sort_keys=True, indent=4)
 
 def check_file_structure(directory, language_code):
-    
+    if not os.path.exists(directory):
+        return f'directory \'{directory}\' does not exist'
+    if not os.path.exists(f'{directory}/chapters'):
+        return f'directory \'{directory}/chapters\' does not exist'
+    return 'success'
+
+def create_file_structure(directory, language_code):
+    os.mkdir(f'{directory}/chapter_words')
+    os.mkdir(f'{directory}/{language_code}')
 
 if __name__ == '__main__':
 
@@ -127,6 +135,15 @@ if __name__ == '__main__':
     if not language_code in available_language_codes:
         print(f'{language_code} is not yet supported')
         exit()
+
+    message = check_file_structure(directory, language_code)
+    if not message == 'success':
+        print(message)
+        exit(2)
+
+    create_file_structure(directory, language_code)
+
+
 
     chapters, all_words = process_book(directory)
     pickle_chapters(chapters, directory)
