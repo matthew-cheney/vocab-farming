@@ -22,7 +22,7 @@ Place each chapter to be processed in the directory chapters. Each chapter must 
 
 Once everything is set up, run the program with the following command:
 
-python3 Tester.py <directory> <language_code>
+python3 Tester.py directory language_code
 
 Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
 
