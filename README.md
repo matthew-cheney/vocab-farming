@@ -1,4 +1,4 @@
-# Fishing for Vocab
+# Book Metadada Study Guides
 
 ## Purpose
 This tool aims to help those learning English at a mid to advanced level enlarge their vocabulary. It processes text, mainly from books, and returns study guides customized for each chapter. These study guides feature new words the learner might not know, as well as definitions for other potentially unfamiliar words.
