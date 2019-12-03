@@ -2,6 +2,18 @@
     "chapter_number": 0,
     "chapter_title": "1. The Cyclone",
     "featured_words": {
+        "loudly": [
+            "with relatively high volume",
+            "in manner that attracts attention",
+            "used as a direction in music; to be played relatively loudly"
+        ],
+        "lumber": [
+            "the wood of trees cut and prepared for use as building material",
+            "an implement used in baseball by the batter"
+        ],
+        "doorway": [
+            "the entrance (the space in a wall"
+        ],
         "wagon": [
             "any of various kinds of wheeled vehicles drawn by an animal or a tractor",
             "van used by police to transport prisoners",
@@ -9,67 +21,17 @@
             "a child's four-wheeled toy cart sometimes used for coasting",
             "a car that has a long body and rear door with space behind rear seat"
         ],
-        "mighty": [
-            "(Southern regional intensive"
-        ],
-        "rusty": [
-            "covered with or consisting of rust",
-            "of the brown color of rust",
-            "impaired in skill by neglect",
-            "ancient"
-        ],
         "prairie": [
             "a treeless grassy plain"
         ],
         "whirlwind": [
             "a more or less vertical column of air whirling around itself as it moves over the surface of the Earth"
         ],
-        "midst": [
-            "the location of something surrounded by other things"
-        ],
-        "garret": [
-            "floor consisting of open space at the top of a house just below roof; often used for storage"
-        ],
-        "gray": [
-            "of an achromatic color of any lightness intermediate between the extremes of white and black",
-            "showing characteristics of age, especially having grey or white hair",
-            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
-            "intermediate in character or position"
-        ],
-        "lumber": [
-            "the wood of trees cut and prepared for use as building material",
-            "an implement used in baseball by the batter"
-        ],
         "cellar": [
             "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
             "an excavation where root vegetables are stored",
             "storage space where wines are stored"
         ],
-        "loudly": [
-            "with relatively high volume",
-            "in manner that attracts attention",
-            "used as a direction in music; to be played relatively loudly"
-        ],
-        "cookstove": [
-            "a stove for cooking (especially a wood- or coal-burning kitchen stove"
-        ],
-        "sweep": [
-            "a wide scope",
-            "someone who cleans soot from chimneys",
-            "winning all or all but one of the tricks in bridge",
-            "a long oar used in an open boat",
-            "(American football",
-            "a movement in an arc"
-        ],
-        "cyclone": [
-            "(meteorology",
-            "a violent rotating windstorm"
-        ],
-        "doorway": [
-            "the entrance (the space in a wall"
-        ]
-    },
-    "dictionary_words": {
         "blade": [
             "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
             "a dashing young man",
@@ -81,73 +43,36 @@
             "flat surface that rotates and pushes against air or water",
             "the flat part of a tool or weapon that (usually"
         ],
-        "orphan": [
-            "a child who has lost both parents",
-            "someone or something who lacks support or care or supervision",
-            "the first line of a paragraph that is set as the last line of a page or column",
-            "a young animal without a mother"
-        ],
-        "laughter": [
-            "the sound of laughing",
-            "the activity of laughing; the manifestation of joy or mirth or scorn"
-        ],
-        "color": [
-            "a visual attribute of things that results from the light they emit or transmit or reflect",
-            "interest and variety and intensity",
-            "the timbre of a musical sound",
-            "an outward or token appearance or form that is deliberately misleading",
-            "any material used for its color",
-            "(physics",
-            "the appearance of objects (or light sources",
-            "or brightness"
-        ],
-        "sparkle": [
-            "merriment expressed by a brightness or gleam or animation of countenance",
-            "the occurrence of a small flash or spark",
-            "the quality of shining with a bright reflected light"
-        ],
-        "merry": [
-            "full of or showing high-spirited merriment",
-            "offering fun and gaiety",
-            "or festal",
-            "quick and energetic"
+        "midst": [
+            "the location of something surrounded by other things"
         ],
         "plowed": [
             "(of farmland"
         ],
-        "surrounding": [
-            "extend on all sides of simultaneously; encircle",
-            "envelop completely",
-            "surround so as to force to give up",
-            "surround with a wall in order to fortify"
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
         ],
-        "solemn": [
-            "dignified and somber in manner or character and committed to keeping promises",
-            "characterized by a firm and humorless belief in the validity of your opinions"
+        "cookstove": [
+            "a stove for cooking (especially a wood- or coal-burning kitchen stove"
         ],
-        "stern": [
-            "of a stern or strict bearing or demeanor; forbidding in aspect",
-            "not to be placated or appeased or moved by entreaty",
-            "severe and unremitting in making demands",
-            "severely simple"
+        "rusty": [
+            "covered with or consisting of rust",
+            "of the brown color of rust",
+            "impaired in skill by neglect",
+            "ancient"
         ],
-        "sober": [
-            "not affected by a chemical substance (especially alcohol",
-            "dignified and somber in manner or character and committed to keeping promises",
-            "lacking brightness or color; dull",
-            "completely lacking in playfulness"
+        "cyclone": [
+            "(meteorology",
+            "a violent rotating windstorm"
         ],
-        "startled": [
-            "excited by sudden surprise or alarm and making a quick involuntary movement"
-        ],
-        "gaunt": [
-            "very thin especially from disease or hunger or cold"
-        ],
-        "blister": [
-            "get blistered",
-            "subject to harsh criticism",
-            "cause blisters to form on"
-        ],
+        "garret": [
+            "floor consisting of open space at the top of a house just below roof; often used for storage"
+        ]
+    },
+    "dictionary_words": {
         "gray": [
             "a neutral achromatic color midway between white and black",
             "clothing that is a grey color",
@@ -159,6 +84,77 @@
             "English poet best known for his elegy written in a country churchyard (1716-1771",
             "American navigator who twice circumnavigated the globe and who discovered the Columbia River (1755-1806",
             "United States botanist who specialized in North American flora and who was an early supporter of Darwin's theories of evolution (1810-1888"
+        ],
+        "surrounding": [
+            "extend on all sides of simultaneously; encircle",
+            "envelop completely",
+            "surround so as to force to give up",
+            "surround with a wall in order to fortify"
+        ],
+        "laughter": [
+            "the sound of laughing",
+            "the activity of laughing; the manifestation of joy or mirth or scorn"
+        ],
+        "sober": [
+            "not affected by a chemical substance (especially alcohol",
+            "dignified and somber in manner or character and committed to keeping promises",
+            "lacking brightness or color; dull",
+            "completely lacking in playfulness"
+        ],
+        "solemn": [
+            "dignified and somber in manner or character and committed to keeping promises",
+            "characterized by a firm and humorless belief in the validity of your opinions"
+        ],
+        "startled": [
+            "excited by sudden surprise or alarm and making a quick involuntary movement"
+        ],
+        "sparkle": [
+            "merriment expressed by a brightness or gleam or animation of countenance",
+            "the occurrence of a small flash or spark",
+            "the quality of shining with a bright reflected light"
+        ],
+        "silky": [
+            "having a smooth, gleaming surface reflecting light"
+        ],
+        "blister": [
+            "get blistered",
+            "subject to harsh criticism",
+            "cause blisters to form on"
+        ],
+        "twinkle": [
+            "gleam or glow intermittently",
+            "emit or reflect light in a flickering manner"
+        ],
+        "gaunt": [
+            "very thin especially from disease or hunger or cold"
+        ],
+        "orphan": [
+            "a child who has lost both parents",
+            "someone or something who lacks support or care or supervision",
+            "the first line of a paragraph that is set as the last line of a page or column",
+            "a young animal without a mother"
+        ],
+        "stern": [
+            "of a stern or strict bearing or demeanor; forbidding in aspect",
+            "not to be placated or appeased or moved by entreaty",
+            "severe and unremitting in making demands",
+            "severely simple"
+        ],
+        "merry": [
+            "full of or showing high-spirited merriment",
+            "offering fun and gaiety",
+            "or festal",
+            "quick and energetic"
+        ],
+        "color": [
+            "a visual attribute of things that results from the light they emit or transmit or reflect",
+            "interest and variety and intensity",
+            "the timbre of a musical sound",
+            "an outward or token appearance or form that is deliberately misleading",
+            "any material used for its color",
+            "(physics",
+            "the appearance of objects (or light sources",
+            "or brightness"
         ]
     },
     "previously_featured": {}

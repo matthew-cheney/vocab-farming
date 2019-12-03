@@ -2,17 +2,34 @@
     "chapter_number": 10,
     "chapter_title": "CHAPTER X",
     "featured_words": {
-        "whisper": [
-            "speak softly; in a low voice"
-        ],
         "lugubrious": [
             "excessively mournful"
         ],
-        "howl": [
-            "emit long loud cries",
-            "cry loudly, as of animals",
-            "make a loud noise, as of wind, water, or vehicles",
-            "laugh unrestrainedly and heartily"
+        "stealthily": [
+            "in a stealthy manner"
+        ],
+        "hucky": "no translation found",
+        "shingle": [
+            "building material used as siding or roofing",
+            "coarse beach gravel of small waterworn stones and pebbles (or a stretch of shore covered with such gravel",
+            "a small signboard outside the office of a lawyer or doctor, e.g."
+        ],
+        "verdigrease": "no translation found",
+        "whisper": [
+            "speak softly; in a low voice"
+        ],
+        "prick": [
+            "make a small hole into, as with a needle or a thorn",
+            "cause a stinging pain",
+            "stab or urge on as if with a pointed stick",
+            "cause a prickling sensation",
+            "to cause a sharp emotional pain",
+            "deliver a sting to"
+        ],
+        "dono": "no translation found",
+        "whack": [
+            "the sound made by a sharp swift blow",
+            "the act of hitting vigorously"
         ],
         "goner": [
             "a person in desperate straits; someone doomed"
@@ -21,8 +38,11 @@
             "in the near future",
             "at this time or period; now"
         ],
-        "stealthily": [
-            "in a stealthy manner"
+        "howl": [
+            "emit long loud cries",
+            "cry loudly, as of animals",
+            "make a loud noise, as of wind, water, or vehicles",
+            "laugh unrestrainedly and heartily"
         ],
         "got": [
             "come into the possession of something concrete or abstract",
@@ -62,61 +82,36 @@
             "undergo (as of injuries and illnesses",
             "make (offspring"
         ],
-        "verdigrease": "no translation found",
+        "stray": [
+            "not close together in time",
+            "(of an animal"
+        ],
         "creep": [
             "move slowly; in the case of people or animals with the body near the ground",
             "to go stealthily or furtively",
             "grow or spread, often in such a way as to cover (a surface",
             "show submission or fear"
-        ],
-        "dono": "no translation found",
-        "whack": [
-            "the sound made by a sharp swift blow",
-            "the act of hitting vigorously"
-        ],
-        "shingle": [
-            "building material used as siding or roofing",
-            "coarse beach gravel of small waterworn stones and pebbles (or a stretch of shore covered with such gravel",
-            "a small signboard outside the office of a lawyer or doctor, e.g."
-        ],
-        "prick": [
-            "make a small hole into, as with a needle or a thorn",
-            "cause a stinging pain",
-            "stab or urge on as if with a pointed stick",
-            "cause a prickling sensation",
-            "to cause a sharp emotional pain",
-            "deliver a sting to"
-        ],
-        "anybody": "no translation found",
-        "hucky": "no translation found"
+        ]
     },
     "dictionary_words": {
-        "forgiveness": [
-            "compassionate feelings that support a willingness to forgive",
-            "the act of excusing a mistake or offense"
-        ],
-        "speechless": [
-            "temporarily incapable of speaking"
-        ],
-        "barking": [
-            "speak in an unfriendly tone",
-            "cover with bark",
-            "remove the bark of a tree",
-            "make barking sounds",
-            "tan (a skin"
-        ],
-        "glance": [
-            "throw a glance at; take a brief look at",
-            "hit at an angle"
+        "elbow": [
+            "hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
+            "a sharp bend in a road or river",
+            "a length of pipe with a sharp bend in it",
+            "the part of a sleeve that covers the elbow joint",
+            "the joint of a mammal or bird that corresponds to the human elbow"
         ],
         "outlying": [
             "relatively far from a center or middle"
         ],
-        "stray": [
-            "not close together in time",
-            "(of an animal"
+        "panting": [
+            "breathing heavily (as after exertion",
+            "any fabric used to make trousers"
         ],
-        "lordy": "no translation found",
+        "steadily": [
+            "at a steady rate or pace",
+            "in a steady manner"
+        ],
         "arouse": [
             "call forth (emotions, feelings, and responses",
             "stop sleeping",
@@ -126,48 +121,54 @@
             "to begin moving",
             "stimulate sexually"
         ],
-        "backward": [
-            "at or to or toward the back or rear",
-            "in a manner or order or direction the reverse of normal",
-            "in or to or toward a past time"
-        ],
-        "hog": [
-            "a person regarded as greedy and pig-like",
-            "a sheep up to the age of one year; one yet to be sheared",
-            "domestic swine"
-        ],
         "stump": [
             "the base part of a tree that remains standing after the tree has been felled",
             "the part of a limb or tooth that remains after the rest is removed",
             "(cricket",
             "a platform raised above the surrounding level to give prominence to the person on it"
         ],
+        "hookey": "no translation found",
+        "hog": [
+            "a person regarded as greedy and pig-like",
+            "a sheep up to the age of one year; one yet to be sheared",
+            "domestic swine"
+        ],
         "apprehensively": [
             "with anxiety or apprehension"
         ],
-        "hookey": "no translation found",
-        "elbow": [
-            "hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
-            "a sharp bend in a road or river",
-            "a length of pipe with a sharp bend in it",
-            "the part of a sleeve that covers the elbow joint",
-            "the joint of a mammal or bird that corresponds to the human elbow"
+        "tannery": [
+            "workplace where skins and hides are tanned"
+        ],
+        "forgiveness": [
+            "compassionate feelings that support a willingness to forgive",
+            "the act of excusing a mistake or offense"
+        ],
+        "lordy": "no translation found",
+        "barking": [
+            "speak in an unfriendly tone",
+            "cover with bark",
+            "remove the bark of a tree",
+            "make barking sounds",
+            "tan (a skin"
         ],
         "snuffle": [
             "sniff or smell inquiringly",
             "snuff up mucus through the nose",
             "cry or whine with snuffling"
+        ],
+        "speechless": [
+            "temporarily incapable of speaking"
         ]
     },
     "previously_featured": {
         "whisper": [
-            "speak softly; in a low voice"
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
         ],
         "presently": [
             "in the near future",
             "at this time or period; now"
         ],
-        "anybody": "no translation found",
         "shingle": [
             "building material used as siding or roofing",
             "coarse beach gravel of small waterworn stones and pebbles (or a stretch of shore covered with such gravel",
@@ -194,9 +195,9 @@
             "the long plaintive cry of a hound or a wolf",
             "a loud sustained noise resembling the cry of a hound"
         ],
-        "half": [
-            "one of two equal parts of a divisible whole",
-            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        "agony": [
+            "intense feelings of suffering; acute mental or physical pain",
+            "a state of acute pain"
         ],
         "nigger": "no translation found",
         "dressed": [

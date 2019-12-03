@@ -6,36 +6,43 @@
             "a thick fatty oil (especially one used to lubricate machinery",
             "the state of being covered with unclean things"
         ],
-        "intolerable": [
-            "incapable of being tolerated or endured"
+        "contented": [
+            "satisfied or showing satisfaction with things as they are"
         ],
-        "widow": [
-            "a woman whose husband is dead especially one who has not remarried"
-        ],
-        "shuck": [
-            "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
-        ],
-        "jist": "no translation found",
         "scrape": [
             "a harsh noise made by scraping",
             "an abraded area where the skin is torn or worn off",
             "a deep bow with the foot drawn backwards (indicating excessive humility",
             "an indication of damage"
         ],
+        "discomfort": [
+            "the state of being tense and feeling pain",
+            "an uncomfortable feeling of mental painfulness or distress"
+        ],
+        "intolerable": [
+            "incapable of being tolerated or endured"
+        ],
+        "jist": "no translation found",
+        "overhear": [
+            "hear, usually without the knowledge of the speakers"
+        ],
         "clothe": [
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
             "cover as if with clothing"
         ],
-        "slope": [
-            "be at an angle"
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
         ],
-        "overhear": [
-            "hear, usually without the knowledge of the speakers"
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
         ],
-        "anybody": "no translation found",
-        "robber": [
-            "a thief who steals from someone by threatening violence"
+        "chuckle": [
+            "laugh quietly or with restraint"
+        ],
+        "shuck": [
+            "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
         ],
         "fret": [
             "worry unnecessarily or excessively",
@@ -51,21 +58,21 @@
             "remove soil or rock",
             "wear away or erode"
         ],
-        "discomfort": [
-            "the state of being tense and feeling pain",
-            "an uncomfortable feeling of mental painfulness or distress"
-        ],
-        "everybody": "no translation found",
         "blowout": [
             "an easy victory",
             "a sudden malfunction of a part or apparatus",
             "a gay festivity"
+        ],
+        "robber": [
+            "a thief who steals from someone by threatening violence"
         ]
     },
     "dictionary_words": {
-        "satisfied": [
-            "filled with satisfaction",
-            "allayed"
+        "astonishment": [
+            "the feeling that accompanies something extremely surprising"
+        ],
+        "gratitude": [
+            "a feeling of thankfulness and appreciation"
         ],
         "later": [
             "later than usual or than expected",
@@ -82,24 +89,17 @@
             "make off with belongings of others",
             "pass on stealthily"
         ],
-        "auntie": [
-            "the sister of your father or mother; the wife of your uncle"
-        ],
-        "contented": [
-            "satisfied or showing satisfaction with things as they are"
-        ],
-        "cuff": [
-            "hit with the hand",
-            "confine or restrain with or as if with manacles or handcuffs"
-        ],
-        "somebody": [
-            "a human being"
-        ],
-        "occasion": [
-            "give occasion to"
+        "clamorous": [
+            "conspicuously and offensively loud; given to vehement outcry"
         ],
         "prop": [
             "support by placing against something solid or rigid"
+        ],
+        "auntie": [
+            "the sister of your father or mother; the wife of your uncle"
+        ],
+        "compliment": [
+            "a remark (or act"
         ],
         "honor": [
             "a tangible symbol signifying approval or distinction",
@@ -107,28 +107,36 @@
             "the quality of being honorable and having a good name",
             "a woman's virtue or chastity"
         ],
+        "gaze": [
+            "a long fixed look"
+        ],
+        "circumstance": [
+            "a condition that accompanies or influences some event or activity",
+            "the set of facts or circumstances that surround a situation or event",
+            "information that should be kept in mind when making a decision",
+            "formal ceremony about important occasions"
+        ],
         "effusive": [
             "uttered with unrestrained enthusiasm",
             "extravagantly demonstrative"
         ],
-        "clamorous": [
-            "conspicuously and offensively loud; given to vehement outcry"
-        ],
         "counterfeit": [
             "not genuine; imitating something superior"
         ],
-        "thank": [
-            "express gratitude or show appreciation to"
+        "heap": [
+            "bestow in large quantities",
+            "arrange in stacks",
+            "fill to overflow"
         ],
-        "chuckle": [
-            "laugh quietly or with restraint"
+        "cuff": [
+            "hit with the hand",
+            "confine or restrain with or as if with manacles or handcuffs"
         ]
     },
     "previously_featured": {
         "widow": [
             "a woman whose husband is dead especially one who has not remarried"
         ],
-        "everybody": "no translation found",
         "clothe": [
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
@@ -137,15 +145,11 @@
         "robber": [
             "a thief who steals from someone by threatening violence"
         ],
-        "anybody": "no translation found",
         "intolerable": [
             "incapable of being tolerated or endured"
         ],
         "shuck": [
             "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds"
-        ],
-        "somebody": [
-            "a human being"
         ],
         "auntie": [
             "the sister of your father or mother; the wife of your uncle"
@@ -167,6 +171,9 @@
         ],
         "gratitude": [
             "a feeling of thankfulness and appreciation"
+        ],
+        "perplexed": [
+            "full of difficulty or confusion or bewilderment"
         ],
         "spectacle": [
             "something or someone seen (especially a notable or unusual sight",

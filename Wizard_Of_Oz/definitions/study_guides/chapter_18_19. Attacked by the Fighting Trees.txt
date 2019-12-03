@@ -2,17 +2,38 @@
     "chapter_number": 18,
     "chapter_title": "19. Attacked by the Fighting Trees",
     "featured_words": {
-        "scarecrow": [
-            "an effigy in the shape of a man to frighten birds away from seeds"
+        "butterfly": [
+            "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+            "a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down"
         ],
-        "traveler": [
-            "a person who changes location"
+        "brightly": [
+            "with brightness"
         ],
-        "natured": "no translation found",
+        "whisk": [
+            "move somewhere quickly",
+            "move quickly and nimbly",
+            "brush or wipe off lightly",
+            "whip with or as if with a wire whisk"
+        ],
+        "unlocked": [
+            "not firmly fastened or secured"
+        ],
+        "sniff": [
+            "perceive by inhaling through the nose",
+            "inhale audibly through the nose"
+        ],
+        "ruler": [
+            "a person who rules or commands",
+            "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
+        ],
+        "merrily": [
+            "in a joyous manner"
+        ],
         "whisker": [
             "a very small distance or space",
             "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
         ],
+        "natured": "no translation found",
         "bade": [
             "propose a payment",
             "invoke upon",
@@ -21,71 +42,58 @@
             "make a serious effort to attain something",
             "ask someone in a friendly way to do something"
         ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "moth": [
+            "typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae"
+        ],
         "farewell": [
             "an acknowledgment or expression of goodwill at parting",
             "the act of departing politely"
         ],
-        "brightly": [
-            "with brightness"
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
         ],
         "spectacle": [
             "something or someone seen (especially a notable or unusual sight",
             "an elaborate and remarkable display on a lavish scale",
             "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
-        ],
-        "shall": "no translation found",
-        "unlocked": [
-            "not firmly fastened or secured"
-        ],
-        "ruler": [
-            "a person who rules or commands",
-            "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
-        ],
-        "dear": [
-            "a beloved person; used as terms of endearment",
-            "a sweet innocent mild-mannered person (especially a child"
-        ],
-        "sniff": [
-            "perceive by inhaling through the nose",
-            "inhale audibly through the nose"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
         ]
     },
     "dictionary_words": {
-        "spire": [
+        "flung": [
+            "throw with force or recklessness",
+            "move in an abrupt or headlong manner",
+            "indulge oneself",
+            "throw or cast away"
+        ],
+        "steeple": [
             "a tall tower that forms the superstructure of a building (usually a church or temple"
         ],
-        "forgave": [
-            "stop blaming or grant forgiveness",
-            "absolve from payment"
+        "headlong": [
+            "with the head foremost",
+            "at breakneck speed",
+            "in a hasty and foolhardy manner"
+        ],
+        "courageous": [
+            "possessing or displaying courage; able to face and deal with danger or fear without flinching"
         ],
         "rattle": [
             "make short successive sounds",
             "shake and cause to make a rattling noise"
         ],
-        "moth": [
-            "typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae"
+        "toss": [
+            "throw or toss with a light motion",
+            "lightly throw to see which side comes up",
+            "throw carelessly",
+            "move or stir about violently",
+            "throw or cast away",
+            "agitate"
         ],
-        "butterfly": [
-            "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
-            "a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down"
-        ],
-        "steeple": [
-            "a tall tower that forms the superstructure of a building (usually a church or temple"
-        ],
-        "wizard": [
-            "someone who is dazzlingly skilled in any field",
-            "one who practices magic or sorcery"
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
         ],
         "twine": [
             "spin, wind, or twist together",
@@ -93,58 +101,41 @@
             "make by twisting together or intertwining",
             "form into a spiral shape"
         ],
-        "brisk": [
-            "quick and energetic",
-            "imparting vitality and energy",
-            "very active"
-        ],
-        "merrily": [
-            "in a joyous manner"
-        ],
-        "courageous": [
-            "possessing or displaying courage; able to face and deal with danger or fear without flinching"
-        ],
-        "wide": [
-            "with or by a broad space",
-            "to the fullest extent possible",
-            "far from the intended target",
-            "to or over a great extent or range; far"
-        ],
-        "whisk": [
-            "move somewhere quickly",
-            "move quickly and nimbly",
-            "brush or wipe off lightly",
-            "whip with or as if with a wire whisk"
-        ],
-        "underneath": [
-            "on the lower or downward side; on the underside of",
-            "under or below an object or a surface; at a lower place or level; directly beneath"
-        ],
         "dome": [
             "a concave shape whose distinguishing characteristic is that the concavity faces downward",
             "informal terms for a human head",
             "a stadium that has a roof",
             "a hemispherical roof"
+        ],
+        "axe": [
+            "an edge tool with a heavy bladed head mounted across a handle"
+        ],
+        "spire": [
+            "a tall tower that forms the superstructure of a building (usually a church or temple"
+        ],
+        "brisk": [
+            "quick and energetic",
+            "imparting vitality and energy",
+            "very active"
+        ],
+        "dizzy": [
+            "make dizzy or giddy"
+        ],
+        "forgave": [
+            "stop blaming or grant forgiveness",
+            "absolve from payment"
+        ],
+        "wizard": [
+            "someone who is dazzlingly skilled in any field",
+            "one who practices magic or sorcery"
         ]
     },
     "previously_featured": {
-        "shall": "no translation found",
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "scarecrow": [
             "an effigy in the shape of a man to frighten birds away from seeds"
         ],
         "traveler": [
             "a person who changes location"
-        ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
         ],
         "whisker": [
             "a very small distance or space",
@@ -159,10 +150,6 @@
             "a person who rules or commands",
             "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
         ],
-        "dear": [
-            "a beloved person; used as terms of endearment",
-            "a sweet innocent mild-mannered person (especially a child"
-        ],
         "merrily": [
             "in a joyous manner"
         ],
@@ -173,12 +160,6 @@
         "wizard": [
             "someone who is dazzlingly skilled in any field",
             "one who practices magic or sorcery"
-        ],
-        "wide": [
-            "with or by a broad space",
-            "to the fullest extent possible",
-            "far from the intended target",
-            "to or over a great extent or range; far"
         ],
         "exclaim": [
             "utter aloud; often with surprise, horror, or joy",

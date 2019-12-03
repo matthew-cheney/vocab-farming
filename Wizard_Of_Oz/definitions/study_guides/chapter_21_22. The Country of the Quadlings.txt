@@ -2,59 +2,48 @@
     "chapter_number": 21,
     "chapter_title": "22. The Country of the Quadlings",
     "featured_words": {
-        "wrinkle": [
-            "a slight depression or fold in the smoothness of a surface",
-            "a minor difficulty",
-            "a clever method of doing something (especially something new and different"
-        ],
+        "Quadlings": "no translation found",
         "Monkeys": [
             "any of various long-tailed primates (excluding the prosimians",
             "one who is playfully mischievous"
-        ],
-        "traveler": [
-            "a person who changes location"
         ],
         "laughter": [
             "the sound of laughing",
             "the activity of laughing; the manifestation of joy or mirth or scorn"
         ],
-        "scarecrow": [
-            "an effigy in the shape of a man to frighten birds away from seeds"
-        ],
-        "climb": [
-            "an upward slope or grade (as in a road",
-            "an event that involves rising to a higher point (as in altitude or temperature or intensity etc.",
-            "the act of climbing something"
-        ],
-        "helpless": [
-            "lacking in or deprived of strength or power",
-            "unable to function; without help",
-            "unable to manage independently"
-        ],
         "lightne": "no translation found",
-        "shall": "no translation found",
-        "boldly": [
-            "with boldness, in a bold manner"
-        ],
-        "Quadlings": "no translation found",
-        "quick": [
-            "with little or no delay"
-        ],
-        "stout": [
-            "a strong very dark heavy-bodied ale made from pale malt and roasted unmalted barley and (often",
-            "a garment size for a large or heavy person"
-        ],
         "gloom": [
             "a state of partial or total darkness",
             "a feeling of melancholy apprehension",
             "an atmosphere of depression and melancholy"
         ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
-        ]
-    },
-    "dictionary_words": {
+        "harshly": [
+            "in a harsh or unkind manner",
+            "in a harsh and grating manner"
+        ],
+        "wrinkle": [
+            "a slight depression or fold in the smoothness of a surface",
+            "a minor difficulty",
+            "a clever method of doing something (especially something new and different"
+        ],
+        "boisterous": [
+            "noisy and lacking in restraint or discipline",
+            "full of rough and exuberant animal spirits",
+            "violently agitated and turbulent"
+        ],
+        "traveler": [
+            "a person who changes location"
+        ],
+        "boldly": [
+            "with boldness, in a bold manner"
+        ],
+        "stout": [
+            "a strong very dark heavy-bodied ale made from pale malt and roasted unmalted barley and (often",
+            "a garment size for a large or heavy person"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
         "chorus": [
             "any utterance produced simultaneously by a group",
             "a group of people assembled to sing together",
@@ -62,35 +51,10 @@
             "a body of dancers or singers who perform together",
             "a company of actors who comment (by speaking or singing in unison"
         ],
-        "hillside": [
-            "the side or slope of a hill"
-        ],
-        "cannon": [
-            "a large artillery gun that is usually on wheels",
-            "heavy gun fired from a tank",
-            "(Middle Ages",
-            "heavy automatic gun fired from an airplane",
-            "lower part of the leg extending from the hock to the fetlock in hoofed mammals",
-            "a shot in billiards in which the cue ball contacts one object ball and then the other"
-        ],
-        "bruised": [
-            "injure the underlying soft tissue or bone of",
-            "hurt the feelings of",
-            "break up into small pieces for food preparation",
-            "damage (plant tissue"
-        ],
-        "thunder": [
-            "a deep prolonged loud noise",
-            "a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
-            "street names for heroin"
-        ],
-        "roar": [
-            "a deep prolonged loud noise",
-            "a very loud utterance (like the sound of an animal",
-            "the sound made by a lion"
-        ],
-        "armless": [
-            "having no arms"
+        "helpless": [
+            "lacking in or deprived of strength or power",
+            "unable to function; without help",
+            "unable to manage independently"
         ],
         "tumble": [
             "fall down, as if collapsing",
@@ -104,6 +68,65 @@
             "put clothes in a tumbling barrel, where they are whirled about in hot air, usually with the purpose of drying",
             "suffer a sudden downfall, overthrow, or defeat",
             "do gymnastics, roll and turn skillfully"
+        ]
+    },
+    "dictionary_words": {
+        "yell": [
+            "utter a sudden loud cry",
+            "utter or declare in a very loud voice"
+        ],
+        "bruised": [
+            "injure the underlying soft tissue or bone of",
+            "hurt the feelings of",
+            "break up into small pieces for food preparation",
+            "damage (plant tissue"
+        ],
+        "armless": [
+            "having no arms"
+        ],
+        "hillside": [
+            "the side or slope of a hill"
+        ],
+        "thunder": [
+            "a deep prolonged loud noise",
+            "a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
+            "street names for heroin"
+        ],
+        "dash": [
+            "run or move very quickly or hastily",
+            "break into pieces, as by striking or knocking over",
+            "hurl or thrust violently",
+            "destroy or break",
+            "cause to lose courage",
+            "add an enlivening or altering element to"
+        ],
+        "swiftly": [
+            "in a swift manner"
+        ],
+        "roar": [
+            "a deep prolonged loud noise",
+            "a very loud utterance (like the sound of an animal",
+            "the sound made by a lion"
+        ],
+        "vexation": [
+            "anger produced by some annoying irritation",
+            "the psychological state of being irritated or annoyed",
+            "something or someone that causes anxiety; a source of unhappiness",
+            "the act of troubling or annoying someone"
+        ],
+        "cannon": [
+            "a large artillery gun that is usually on wheels",
+            "heavy gun fired from a tank",
+            "(Middle Ages",
+            "heavy automatic gun fired from an airplane",
+            "lower part of the leg extending from the hock to the fetlock in hoofed mammals",
+            "a shot in billiards in which the cue ball contacts one object ball and then the other"
+        ],
+        "utter": [
+            "articulate; either verbally or with a cry, shout, or noise",
+            "express audibly; utter sounds (not necessarily words",
+            "express in speech",
+            "put into circulation"
         ],
         "withstand": [
             "resist or confront with resistance",
@@ -113,31 +136,17 @@
             "an unpredictable outcome that is unfortunate",
             "an instance of misfortune"
         ],
-        "boisterous": [
-            "noisy and lacking in restraint or discipline",
-            "full of rough and exuberant animal spirits",
-            "violently agitated and turbulent"
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
         ],
-        "harshly": [
-            "in a harsh or unkind manner",
-            "in a harsh and grating manner"
-        ],
-        "utter": [
-            "articulate; either verbally or with a cry, shout, or noise",
-            "express audibly; utter sounds (not necessarily words",
-            "express in speech",
-            "put into circulation"
-        ],
-        "swiftly": [
-            "in a swift manner"
-        ],
-        "dash": [
-            "run or move very quickly or hastily",
-            "break into pieces, as by striking or knocking over",
-            "hurl or thrust violently",
-            "destroy or break",
-            "cause to lose courage",
-            "add an enlivening or altering element to"
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
         ]
     },
     "previously_featured": {
@@ -151,11 +160,6 @@
         ],
         "scarecrow": [
             "an effigy in the shape of a man to frighten birds away from seeds"
-        ],
-        "shall": "no translation found",
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
         ],
         "mishap": [
             "an unpredictable outcome that is unfortunate",
@@ -186,13 +190,6 @@
         ],
         "Munchkins": "no translation found",
         "natured": "no translation found",
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "handsome": [
             "pleasing in appearance especially by reason of conformity to ideals of form and proportion",
             "given or giving freely"

@@ -2,42 +2,45 @@
     "chapter_number": 27,
     "chapter_title": "CHAPTER XXVII",
     "featured_words": {
-        "rot": [
-            "break down",
-            "become physically weaker"
-        ],
-        "foller": "no translation found",
-        "tavern": [
-            "a building with a bar that is licensed to sell alcoholic drinks"
-        ],
-        "mightily": [
-            "powerfully or vigorously",
-            "(Southern regional intensive"
-        ],
-        "forsake": [
-            "leave someone who needs or counts on you; leave in the lurch"
-        ],
         "misfortune": [
             "unnecessary and unforeseen trouble resulting from an unfortunate event",
             "an unfortunate state resulting from unfavorable outcomes"
         ],
-        "nothingness": [
-            "the state of nonexistence",
-            "empty rhetoric or insincere or exaggerated talk"
+        "favor": [
+            "an act of gracious kindness",
+            "an advantage to the benefit of someone or something",
+            "an inclination to approve",
+            "a feeling of favorable regard",
+            "souvenir consisting of a small gift given to a guest at a party"
+        ],
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
         ],
         "wakefulness": [
             "a periodic state during which you are conscious and aware of the world",
             "a temporary state in which you are unable (or unwilling",
             "the process of paying close and continuous attention"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
+        "forsake": [
+            "leave someone who needs or counts on you; leave in the lurch"
         ],
         "dono": "no translation found",
+        "foller": "no translation found",
+        "nothingness": [
+            "the state of nonexistence",
+            "empty rhetoric or insincere or exaggerated talk"
+        ],
+        "rot": [
+            "break down",
+            "become physically weaker"
+        ],
+        "revenge": [
+            "action taken in return for an injury or offense"
+        ],
+        "mightily": [
+            "powerfully or vigorously",
+            "(Southern regional intensive"
+        ],
         "subdue": [
             "put down by force or intimidation",
             "bring under control by force or authority",
@@ -54,64 +57,30 @@
             "torment emotionally or mentally",
             "treat cruelly",
             "subject to torture"
-        ],
-        "revenge": [
-            "action taken in return for an injury or offense"
         ]
     },
     "dictionary_words": {
+        "melancholy": [
+            "characterized by or causing or expressing sadness",
+            "grave or even gloomy in character"
+        ],
         "snatch": [
             "to grasp hastily or eagerly",
             "to make grasping motions",
             "take away to an undisclosed location against their will and usually in order to extract a ransom"
         ],
-        "flatboat": [
-            "a flatbottom boat for carrying heavy loads (especially on canals"
-        ],
-        "ungraspable": "no translation found",
-        "attrition": [
-            "erosion by friction",
-            "the wearing down of rock particles by friction due to water or wind or ice",
-            "sorrow for sin arising from fear of damnation",
-            "a wearing down to weaken or destroy",
-            "the act of rubbing together; wearing something down by friction"
-        ],
-        "thousand": [
-            "the cardinal number that is the product of 10 and 100"
-        ],
-        "vague": [
-            "not clearly expressed or understood",
-            "not precisely limited, determined, or distinguished",
-            "lacking clarity or distinctness"
-        ],
-        "bushel": [
-            "a United States dry measure equal to 4 pecks or 2152.42 cubic inches",
-            "a British imperial capacity measure (liquid or dry"
-        ],
-        "sensibly": [
-            "with good sense or in a reasonable or intelligent manner"
-        ],
-        "favor": [
-            "an act of gracious kindness",
-            "an advantage to the benefit of someone or something",
-            "an inclination to approve",
-            "a feeling of favorable regard",
-            "souvenir consisting of a small gift given to a guest at a party"
+        "listlessly": [
+            "in a listless manner"
         ],
         "fanciful": [
             "indulging in or influenced by fancy",
             "not based on fact; existing only in the imagination",
             "having a curiously intricate quality"
         ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "gunwale": [
-            "wale at the top of the side of boat; topmost planking of a wooden vessel"
-        ],
-        "listlessly": [
-            "in a listless manner"
+        "vague": [
+            "not clearly expressed or understood",
+            "not precisely limited, determined, or distinguished",
+            "lacking clarity or distinctness"
         ],
         "analyze": [
             "consider in detail and subject to an analysis in order to discover essential features or meaning",
@@ -119,9 +88,38 @@
             "break down into components or essential features",
             "subject to psychoanalytic treatment"
         ],
+        "bushel": [
+            "a United States dry measure equal to 4 pecks or 2152.42 cubic inches",
+            "a British imperial capacity measure (liquid or dry"
+        ],
+        "attrition": [
+            "erosion by friction",
+            "the wearing down of rock particles by friction due to water or wind or ice",
+            "sorrow for sin arising from fear of damnation",
+            "a wearing down to weaken or destroy",
+            "the act of rubbing together; wearing something down by friction"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
         "dime": [
             "a United States coin worth one tenth of a dollar",
             "street name for a packet of illegal drugs that is sold for ten dollars"
+        ],
+        "ungraspable": "no translation found",
+        "flatboat": [
+            "a flatbottom boat for carrying heavy loads (especially on canals"
+        ],
+        "dangle": [
+            "hang freely",
+            "cause to dangle or hang freely"
+        ],
+        "sensibly": [
+            "with good sense or in a reasonable or intelligent manner"
+        ],
+        "gunwale": [
+            "wale at the top of the side of boat; topmost planking of a wooden vessel"
         ]
     },
     "previously_featured": {
@@ -134,13 +132,6 @@
             "treat cruelly",
             "subject to torture"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "presently": [
             "in the near future",
             "at this time or period; now"
@@ -150,14 +141,6 @@
             "to make grasping motions",
             "take away to an undisclosed location against their will and usually in order to extract a ransom"
         ],
-        "mighty": [
-            "(Southern regional intensive"
-        ],
-        "half": [
-            "one of two equal parts of a divisible whole",
-            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
-        ],
-        "anybody": "no translation found",
         "alley": [
             "a narrow street with walls on both sides",
             "a lane down which a bowling ball is rolled toward pins"

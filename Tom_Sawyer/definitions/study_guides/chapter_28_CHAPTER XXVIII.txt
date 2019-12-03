@@ -2,43 +2,12 @@
     "chapter_number": 28,
     "chapter_title": "CHAPTER XXVIII",
     "featured_words": {
-        "reign": [
-            "have sovereign power",
-            "be larger in number, quantity, power, status or importance"
-        ],
         "blackness": [
             "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white",
             "total absence of light"
         ],
-        "resemble": [
-            "appear like; be similar or bear a likeness to"
-        ],
         "tavern": [
             "a building with a bar that is licensed to sell alcoholic drinks"
-        ],
-        "alley": [
-            "a narrow street with walls on both sides",
-            "a lane down which a bowling ball is rolled toward pins"
-        ],
-        "lantern": [
-            "light in a transparent protective case"
-        ],
-        "blindfold": [
-            "cover the eyes of (someone"
-        ],
-        "hogshead": [
-            "a British unit of capacity for alcoholic beverages",
-            "a large cask especially one holding 63 gals"
-        ],
-        "neighborhood": [
-            "a surrounding or nearby region",
-            "people living near one another",
-            "the approximate amount of something (usually used prepositionally as in `in the region of'",
-            "an area within a city or town that has some distinctive features (especially one forming a community"
-        ],
-        "thereabout": [
-            "near that time or date",
-            "near that place"
         ],
         "better": [
             "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
@@ -59,38 +28,64 @@
             "in financial comfort",
             "without unusual distress or resentment; with good humor"
         ],
+        "hogshead": [
+            "a British unit of capacity for alcoholic beverages",
+            "a large cask especially one holding 63 gals"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
+        "thereabout": [
+            "near that time or date",
+            "near that place"
+        ],
+        "auspicious": [
+            "auguring favorable circumstances and good luck"
+        ],
+        "reign": [
+            "have sovereign power",
+            "be larger in number, quantity, power, status or importance"
+        ],
+        "lantern": [
+            "light in a transparent protective case"
+        ],
+        "blindfold": [
+            "cover the eyes of (someone"
+        ],
+        "resemble": [
+            "appear like; be similar or bear a likeness to"
+        ],
+        "nigger": "no translation found",
         "stillness": [
             "(poetic",
             "calmness without winds",
             "a state of no motion or movement"
         ],
-        "nigger": "no translation found",
-        "auspicious": [
-            "auguring favorable circumstances and good luck"
+        "neighborhood": [
+            "a surrounding or nearby region",
+            "people living near one another",
+            "the approximate amount of something (usually used prepositionally as in `in the region of'",
+            "an area within a city or town that has some distinctive features (especially one forming a community"
         ]
     },
     "dictionary_words": {
-        "tearing": [
-            "shedding tears"
+        "thunder": [
+            "a deep prolonged loud noise",
+            "a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
+            "street names for heroin"
         ],
-        "catastrophe": [
-            "an event resulting in great loss and misfortune",
-            "a state of extreme (usually irremediable",
-            "a sudden violent change in the earth's surface"
+        "sentry": [
+            "a person employed to keep watch for some anticipated event"
         ],
-        "repetition": [
-            "an event that repeats",
-            "the act of doing or performing again",
-            "the repeated use of the same word or word pattern as a rhetorical device"
+        "muttering": [
+            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
+            "a complaint uttered in a low and indistinct tone"
         ],
-        "need": [
-            "a condition requiring relief",
-            "anything that is necessary but lacking",
-            "the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior",
-            "a state of extreme poverty or destitution"
-        ],
-        "faint": [
-            "pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain"
+        "gloom": [
+            "a state of partial or total darkness",
+            "a feeling of melancholy apprehension",
+            "an atmosphere of depression and melancholy"
         ],
         "terror": [
             "an overwhelming feeling of fear and anxiety",
@@ -98,42 +93,25 @@
             "a very troublesome child",
             "the use of extreme fear in order to coerce people (especially for political reasons"
         ],
-        "burst": [
-            "come open suddenly and violently, as if from internal pressure",
-            "force out or release suddenly and often violently something pent up",
-            "burst outward, usually with noise",
-            "move suddenly, energetically, or violently",
-            "be in a state of movement or action",
-            "emerge suddenly",
-            "cause to burst",
-            "break open or apart suddenly and forcefully"
+        "faint": [
+            "pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain"
         ],
-        "gloom": [
-            "a state of partial or total darkness",
-            "a feeling of melancholy apprehension",
-            "an atmosphere of depression and melancholy"
-        ],
-        "sentry": [
-            "a person employed to keep watch for some anticipated event"
-        ],
-        "creep": [
-            "move slowly; in the case of people or animals with the body near the ground",
-            "to go stealthily or furtively",
-            "grow or spread, often in such a way as to cover (a surface",
-            "show submission or fear"
+        "catastrophe": [
+            "an event resulting in great loss and misfortune",
+            "a state of extreme (usually irremediable",
+            "a sudden violent change in the earth's surface"
         ],
         "adventurer": [
             "a person who enjoys taking risks",
             "someone who travels into little known regions (especially for some scientific purpose"
         ],
-        "muttering": [
-            "a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech",
-            "a complaint uttered in a low and indistinct tone"
+        "tearing": [
+            "shedding tears"
         ],
-        "thunder": [
-            "a deep prolonged loud noise",
-            "a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
-            "street names for heroin"
+        "repetition": [
+            "an event that repeats",
+            "the act of doing or performing again",
+            "the repeated use of the same word or word pattern as a rhetorical device"
         ],
         "uneasiness": [
             "feelings of anxiety that make you tense and irritable",
@@ -145,6 +123,21 @@
         "momentarily": [
             "for an instant or moment",
             "at any moment"
+        ],
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
+        ],
+        "deserted": [
+            "forsaken by owner or inhabitants"
+        ],
+        "utter": [
+            "articulate; either verbally or with a cry, shout, or noise",
+            "express audibly; utter sounds (not necessarily words",
+            "express in speech",
+            "put into circulation"
         ]
     },
     "previously_featured": {
@@ -197,6 +190,9 @@
             "a very troublesome child",
             "the use of extreme fear in order to coerce people (especially for political reasons"
         ],
+        "deserted": [
+            "forsaken by owner or inhabitants"
+        ],
         "hop": [
             "jump lightly",
             "move quickly from one place to another",
@@ -204,9 +200,6 @@
             "traverse as if by a short airplane trip",
             "jump across",
             "make a jump forward or upward"
-        ],
-        "mighty": [
-            "(Southern regional intensive"
         ],
         "shudder": [
             "shake, as from cold",
@@ -262,6 +255,10 @@
             "take the first step or steps in carrying out an action",
             "undergo (as of injuries and illnesses",
             "make (offspring"
+        ],
+        "daylight": [
+            "the time after sunrise and before sunset while it is light outside",
+            "light during the daytime"
         ],
         "daytime": [
             "the time after sunrise and before sunset while it is light outside"

@@ -6,8 +6,36 @@
             "any of various long-tailed primates (excluding the prosimians",
             "one who is playfully mischievous"
         ],
+        "humbug": [
+            "pretentious or silly talk or writing",
+            "communication (written or spoken",
+            "something intended to deceive; deliberate trickery intended to gain an advantage"
+        ],
+        "ashamed": [
+            "feeling shame or guilt or embarrassment or remorse"
+        ],
+        "meekly": [
+            "in a submissive or spiritless manner",
+            "in a humble manner"
+        ],
+        "gravely": [
+            "in a grave and sober manner",
+            "to a severe or serious degree"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
         "traveler": [
             "a person who changes location"
+        ],
+        "ventriloquist": [
+            "a performer who projects the voice into a wooden dummy"
+        ],
+        "tremble": [
+            "move or jerk quickly and involuntarily up and down or sideways"
         ],
         "Gates": [
             "a movable barrier in a fence or wall",
@@ -16,15 +44,10 @@
             "passageway (as in an air terminal",
             "United States computer entrepreneur whose software company made him the youngest multi-billionaire in the history of the United States (born in 1955"
         ],
-        "meekly": [
-            "in a submissive or spiritless manner",
-            "in a humble manner"
-        ],
-        "plenty": [
-            "a full supply"
-        ],
-        "tremble": [
-            "move or jerk quickly and involuntarily up and down or sideways"
+        "throne": [
+            "the chair of state for a monarch, bishop, etc.",
+            "a plumbing fixture for defecation and urination",
+            "the position and power of an exalted person (a sovereign or bishop"
         ],
         "scarecrow": [
             "an effigy in the shape of a man to frighten birds away from seeds"
@@ -34,54 +57,70 @@
             "an elaborate and remarkable display on a lavish scale",
             "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
         ],
-        "shall": "no translation found",
-        "course": [
-            "as might be expected"
-        ],
-        "humbug": [
-            "pretentious or silly talk or writing",
-            "communication (written or spoken",
-            "something intended to deceive; deliberate trickery intended to gain an advantage"
-        ],
-        "throne": [
-            "the chair of state for a monarch, bishop, etc.",
-            "a plumbing fixture for defecation and urination",
-            "the position and power of an exalted person (a sovereign or bishop"
-        ],
-        "witch": [
-            "a female sorcerer or magician",
-            "a being (usually female",
-            "a believer in Wicca",
-            "an ugly evil-looking old woman"
-        ],
         "exclaim": [
             "utter aloud; often with surprise, horror, or joy",
             "state or announce"
         ],
-        "dear": [
-            "a beloved person; used as terms of endearment",
-            "a sweet innocent mild-mannered person (especially a child"
+        "wizard": [
+            "someone who is dazzlingly skilled in any field",
+            "one who practices magic or sorcery"
         ]
     },
     "dictionary_words": {
+        "stillness": [
+            "(poetic",
+            "calmness without winds",
+            "a state of no motion or movement"
+        ],
+        "tiresome": [
+            "so lacking in interest as to cause mental weariness"
+        ],
+        "whisker": [
+            "a very small distance or space",
+            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
+        ],
+        "afterward": [
+            "happening at a time subsequent to a reference time"
+        ],
+        "sleepless": [
+            "experiencing or accompanied by sleeplessness",
+            "always watchful"
+        ],
+        "vexed": [
+            "troubled persistently especially with petty annoyances",
+            "causing difficulty in finding an answer or solution; much disputed"
+        ],
+        "waiting": [
+            "the act of waiting (remaining inactive in one place while expecting something"
+        ],
+        "promptly": [
+            "with little or no delay",
+            "in a punctual manner",
+            "at once (usually modifies an undesirable occurrence"
+        ],
+        "bestow": [
+            "present",
+            "give as a gift",
+            "bestow a quality on"
+        ],
+        "slavery": [
+            "the state of being under the control of another person",
+            "the practice of owning slaves",
+            "work done under harsh conditions for little or no pay"
+        ],
         "hardship": [
             "a state of misfortune or affliction",
             "something hard to endure",
             "something that causes or entails suffering"
-        ],
-        "gravely": [
-            "in a grave and sober manner",
-            "to a severe or serious degree"
-        ],
-        "bow": [
-            "bend one's knee or body, or lower one's head",
-            "yield to another's wish or opinion",
-            "bend the head or the upper part of the body in a gesture of respect or greeting",
-            "bend one's back forward from the waist on down",
-            "play on a stringed instrument with a bow"
-        ],
-        "afterward": [
-            "happening at a time subsequent to a reference time"
         ],
         "gracious": [
             "characterized by charm, good taste, and generosity of spirit",
@@ -89,54 +128,17 @@
             "exhibiting courtesy and politeness",
             "disposed to bestow favors"
         ],
-        "whisker": [
-            "a very small distance or space",
-            "a long stiff hair growing from the snout or brow of most mammals as e.g. a cat"
-        ],
-        "wizard": [
-            "someone who is dazzlingly skilled in any field",
-            "one who practices magic or sorcery"
-        ],
-        "vexed": [
-            "troubled persistently especially with petty annoyances",
-            "causing difficulty in finding an answer or solution; much disputed"
-        ],
-        "tiresome": [
-            "so lacking in interest as to cause mental weariness"
-        ],
-        "slavery": [
-            "the state of being under the control of another person",
-            "the practice of owning slaves",
-            "work done under harsh conditions for little or no pay"
-        ],
-        "sleepless": [
-            "experiencing or accompanied by sleeplessness",
-            "always watchful"
-        ],
-        "ashamed": [
-            "feeling shame or guilt or embarrassment or remorse"
-        ],
-        "ventriloquist": [
-            "a performer who projects the voice into a wooden dummy"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "waiting": [
-            "the act of waiting (remaining inactive in one place while expecting something"
+        "bow": [
+            "bend one's knee or body, or lower one's head",
+            "yield to another's wish or opinion",
+            "bend the head or the upper part of the body in a gesture of respect or greeting",
+            "bend one's back forward from the waist on down",
+            "play on a stringed instrument with a bow"
         ]
     },
     "previously_featured": {
-        "shall": "no translation found",
         "traveler": [
             "a person who changes location"
-        ],
-        "plenty": [
-            "a full supply"
         ],
         "witch": [
             "a female sorcerer or magician",
@@ -148,10 +150,6 @@
             "something or someone seen (especially a notable or unusual sight",
             "an elaborate and remarkable display on a lavish scale",
             "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
-        ],
-        "dear": [
-            "a beloved person; used as terms of endearment",
-            "a sweet innocent mild-mannered person (especially a child"
         ],
         "Gates": [
             "a movable barrier in a fence or wall",
@@ -175,13 +173,6 @@
         "wizard": [
             "someone who is dazzlingly skilled in any field",
             "one who practices magic or sorcery"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "bow": [
             "bend one's knee or body, or lower one's head",
@@ -212,7 +203,6 @@
             "have a wish or desire to know something",
             "conduct an inquiry or investigation of"
         ],
-        "ought": "no translation found",
         "sorrowfully": [
             "in a sorrowful manner",
             "with sadness; in a sorrowful manner"
@@ -225,14 +215,6 @@
             "to an advanced stage or point",
             "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
             "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
-        ],
-        "current": [
-            "a flow of electricity through a conductor",
-            "a steady flow of a fluid (usually from natural causes",
-            "dominant course (suggestive of running water"
-        ],
-        "awake": [
-            "stop sleeping"
         ],
         "midst": [
             "the location of something surrounded by other things"

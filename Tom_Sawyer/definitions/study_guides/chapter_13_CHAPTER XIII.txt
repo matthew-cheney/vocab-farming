@@ -2,27 +2,44 @@
     "chapter_number": 13,
     "chapter_title": "CHAPTER XIII",
     "featured_words": {
-        "hermit": [
-            "one retired from society for religious reasons",
-            "one who lives in solitude"
+        "pirate": [
+            "someone who uses another person's words or ideas as if they were his own",
+            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+            "a ship that is manned by pirates"
         ],
-        "bluff": [
-            "a high steep bank (usually formed by river erosion",
-            "pretense that your position is stronger than it really is",
-            "the act of bluffing in poker; deception by a false show of confidence in the strength of your cards"
-        ],
-        "trifle": [
-            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
-            "a detail that is considered insignificant",
-            "something of small importance"
+        "dense": [
+            "permitting little if any light to pass through because of denseness of matter",
+            "hard to pass through because of dense growth",
+            "having high relative density or specific gravity",
+            "slow to learn or understand; lacking intellectual acuity"
         ],
         "conscience": [
             "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
             "conformity to one's own sense of right conduct",
             "a feeling of shame when you do something immoral"
         ],
-        "dismal": [
-            "causing dejection"
+        "seas": [
+            "a division of an ocean or a large body of salt water partially enclosed by land",
+            "anything apparently limitless in quantity or volume",
+            "turbulent water with swells of considerable size"
+        ],
+        "friendless": [
+            "excluded from a society"
+        ],
+        "aye": "no translation found",
+        "raft": [
+            "a flat float (usually made of logs or planks",
+            "a foundation (usually on soft ground"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "bluff": [
+            "a high steep bank (usually formed by river erosion",
+            "pretense that your position is stronger than it really is",
+            "the act of bluffing in poker; deception by a false show of confidence in the strength of your cards"
         ],
         "presently": [
             "in the near future",
@@ -37,56 +54,52 @@
             "speaking softly without vibration of the vocal cords",
             "a light noise, like the noise of silk clothing or leaves blowing in the wind"
         ],
-        "raft": [
-            "a flat float (usually made of logs or planks",
-            "a foundation (usually on soft ground"
+        "hermit": [
+            "one retired from society for religious reasons",
+            "one who lives in solitude"
         ],
-        "pirate": [
-            "someone who uses another person's words or ideas as if they were his own",
-            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
-            "a ship that is manned by pirates"
+        "dismal": [
+            "causing dejection"
         ],
-        "friendless": [
-            "excluded from a society"
-        ],
-        "clothe": [
-            "provide with clothes or put clothes on",
-            "furnish with power or authority; of kings or emperors",
-            "cover as if with clothing"
-        ],
-        "aye": "no translation found",
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "Seas": [
-            "a division of an ocean or a large body of salt water partially enclosed by land",
-            "anything apparently limitless in quantity or volume",
-            "turbulent water with swells of considerable size"
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
         ]
     },
     "dictionary_words": {
-        "dense": [
-            "permitting little if any light to pass through because of denseness of matter",
-            "hard to pass through because of dense growth",
-            "having high relative density or specific gravity",
-            "slow to learn or understand; lacking intellectual acuity"
+        "tobacco": [
+            "leaves of the tobacco plant dried and prepared for smoking or ingestion",
+            "aromatic annual or perennial herbs and shrubs"
         ],
-        "ashe": [
-            "United States tennis player who was the first Black to win United States and English singles championships (1943-1993"
+        "stealing": [
+            "the act of taking something from someone unlawfully",
+            "avoiding detection by moving carefully"
         ],
-        "hilt": [
-            "the handle of a sword or dagger"
+        "outlaw": [
+            "someone who has committed a crime or has been legally convicted of a crime"
+        ],
+        "tinkle": [
+            "make or emit a high sound"
         ],
         "sackcloth": [
             "a garment made of coarse sacking; formerly worn as an indication of remorse",
             "a coarse cloth resembling sacking"
         ],
-        "outlaw": [
-            "someone who has committed a crime or has been legally convicted of a crime"
+        "favorite": [
+            "appealing to the general public",
+            "preferred above all others and treated with partiality"
+        ],
+        "dono": "no translation found",
+        "piracy": [
+            "hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it",
+            "the act of plagiarizing; taking someone's words or ideas as if they were your own"
+        ],
+        "contentment": [
+            "happiness with one's situation in life"
+        ],
+        "ashe": [
+            "United States tennis player who was the first Black to win United States and English singles championships (1943-1993"
         ],
         "inwardly": [
             "with respect to private feelings"
@@ -94,33 +107,16 @@
         "sweetmeat": [
             "a sweetened delicacy (as a preserve or pastry"
         ],
-        "tobacco": [
-            "leaves of the tobacco plant dried and prepared for smoking or ingestion",
-            "aromatic annual or perennial herbs and shrubs"
-        ],
-        "favorite": [
-            "appealing to the general public",
-            "preferred above all others and treated with partiality"
-        ],
-        "piracy": [
-            "hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it",
-            "the act of plagiarizing; taking someone's words or ideas as if they were your own"
-        ],
-        "sail": [
-            "a large piece of fabric (usually canvas fabric",
-            "an ocean trip taken for pleasure",
-            "any structure that resembles a sail"
+        "gloomy": [
+            "depressingly dark",
+            "filled with melancholy and despondency",
+            "causing dejection"
         ],
         "peacefully": [
             "in a peaceful manner"
         ],
-        "dono": "no translation found",
-        "contentment": [
-            "happiness with one's situation in life"
-        ],
-        "stealing": [
-            "the act of taking something from someone unlawfully",
-            "avoiding detection by moving carefully"
+        "hilt": [
+            "the handle of a sword or dagger"
         ]
     },
     "previously_featured": {
@@ -129,16 +125,13 @@
             "conformity to one's own sense of right conduct",
             "a feeling of shame when you do something immoral"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "presently": [
             "in the near future",
             "at this time or period; now"
+        ],
+        "whisper": [
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
         ],
         "clothe": [
             "provide with clothes or put clothes on",
@@ -167,10 +160,29 @@
         "stealthily": [
             "in a stealthy manner"
         ],
-        "half": [
-            "one of two equal parts of a divisible whole",
-            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
+        "unconscious": [
+            "not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead",
+            "without conscious volition",
+            "(followed by `of'"
         ],
-        "everybody": "no translation found"
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ]
     }
 }

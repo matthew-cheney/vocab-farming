@@ -2,32 +2,22 @@
     "chapter_number": 22,
     "chapter_title": "CHAPTER XXII",
     "featured_words": {
-        "fourth": [
-            "coming next after the third and just before the fifth in position or time or degree or magnitude"
-        ],
-        "shackle": [
-            "a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner",
-            "a U-shaped bar; the open end can be passed through chain links and closed with a bar"
-        ],
-        "abstain": [
-            "refrain from voting",
-            "choose not to consume"
-        ],
         "disappointment": [
             "a feeling of dissatisfaction that results when your expectations are not realized",
             "an act (or failure to act"
         ],
-        "cadet": [
-            "a military trainee (as at a military academy"
+        "vacation": [
+            "leisure time away from work devoted to rest or pleasure",
+            "the act of making something legally void"
+        ],
+        "deathbe": "no translation found",
+        "sash": [
+            "a framework that holds the panes of a window in the window frame",
+            "a band of material around the waist that strengthens a skirt or trousers"
         ],
         "profanity": [
             "vulgar or irreverent speech or action"
         ],
-        "relapse": [
-            "a failure to maintain a higher state"
-        ],
-        "measle": "no translation found",
-        "deathbe": "no translation found",
         "circus": [
             "a travelling company of entertainers; including trained animals",
             "a performance given by a traveling company of acrobats, clowns, and trained animals",
@@ -36,91 +26,103 @@
             "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
             "a genus of haws comprising the harriers"
         ],
-        "venture": [
-            "proceed somewhere despite the risk of possible dangers",
-            "put forward, of a guess, in spite of possible refutation",
-            "put at risk"
+        "relapse": [
+            "a failure to maintain a higher state"
         ],
         "funeral": [
             "a ceremony at which a dead person is buried or cremated"
+        ],
+        "measle": "no translation found",
+        "shackle": [
+            "a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner",
+            "a U-shaped bar; the open end can be passed through chain links and closed with a bar"
+        ],
+        "looking": [
+            "the act of directing the eyes toward something and perceiving it visually",
+            "the act of searching visually"
+        ],
+        "regalia": [
+            "paraphernalia indicative of royalty (or other high office",
+            "especially fine or decorative clothing"
+        ],
+        "abstain": [
+            "refrain from voting",
+            "choose not to consume"
         ],
         "torment": [
             "torment emotionally or mentally",
             "treat cruelly",
             "subject to torture"
         ],
-        "vacation": [
-            "leisure time away from work devoted to rest or pleasure",
-            "the act of making something legally void"
-        ],
-        "sash": [
-            "a framework that holds the panes of a window in the window frame",
-            "a band of material around the waist that strengthens a skirt or trousers"
+        "cadet": [
+            "a military trainee (as at a military academy"
         ]
     },
     "dictionary_words": {
+        "discouraging": [
+            "depriving of confidence or hope or enthusiasm and hence often deterring action",
+            "expressing disapproval in order to dissuade"
+        ],
+        "minstrel": [
+            "a singer of folk songs",
+            "a performer in a minstrel show"
+        ],
         "resignation": [
             "acceptance of despair",
             "the act of giving up (a claim or office or possession etc.",
             "a formal document giving notice of your intention to resign"
         ],
-        "regalia": [
-            "paraphernalia indicative of royalty (or other high office",
-            "especially fine or decorative clothing"
-        ],
-        "convalescent": [
-            "returning to health after illness or debility"
-        ],
-        "Cadets": [
-            "a military trainee (as at a military academy"
+        "disgust": [
+            "fill with distaste",
+            "cause aversion in; offend the moral sense of"
         ],
         "parade": [
             "walk ostentatiously",
             "march in a procession"
         ],
-        "pronounce": [
-            "speak, pronounce, or utter in a certain way",
-            "pronounce judgment on"
+        "coveted": [
+            "greatly desired"
         ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "practise": [
-            "engage in a rehearsal (of",
-            "carry out or practice; as of jobs and professions",
-            "learn by repetition"
-        ],
-        "envy": [
-            "a feeling of grudging admiration and desire to have something that is possessed by another",
-            "spite and resentment at seeing the success of another (personified as one of the deadly sins"
+        "procession": [
+            "(theology",
+            "the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation",
+            "the act of moving forward (as toward a goal"
         ],
         "fluctuating": [
             "cause to fluctuate or move in a wavelike pattern",
             "move or sway in a rising and falling or wavelike pattern",
             "be unstable"
         ],
-        "looking": [
-            "the act of directing the eyes toward something and perceiving it visually",
-            "the act of searching visually"
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
         ],
-        "discouraging": [
-            "depriving of confidence or hope or enthusiasm and hence often deterring action",
-            "expressing disapproval in order to dissuade"
+        "envy": [
+            "a feeling of grudging admiration and desire to have something that is possessed by another",
+            "spite and resentment at seeing the success of another (personified as one of the deadly sins"
         ],
-        "disgust": [
-            "fill with distaste",
-            "cause aversion in; offend the moral sense of"
+        "pronounce": [
+            "speak, pronounce, or utter in a certain way",
+            "pronounce judgment on"
         ],
-        "mend": [
-            "sewing that repairs a worn or torn hole (especially in a garment",
-            "the act of putting something in working order again"
+        "convalescent": [
+            "returning to health after illness or debility"
+        ],
+        "sensation": [
+            "an unelaborated elementary awareness of stimulation",
+            "someone who is dazzlingly skilled in any field",
+            "a general feeling of excitement and heightened interest",
+            "a state of widespread public excitement and interest",
+            "the faculty through which the external world is apprehended"
         ],
         "charm": [
             "attractiveness that interests or pleases or stimulates",
             "a verbal formula believed to have magical force",
             "something believed to bring good luck",
             "(physics"
+        ],
+        "cadets": [
+            "a military trainee (as at a military academy"
         ]
     },
     "previously_featured": {
@@ -134,11 +136,6 @@
             "(antiquity",
             "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
             "a genus of haws comprising the harriers"
-        ],
-        "venture": [
-            "proceed somewhere despite the risk of possible dangers",
-            "put forward, of a guess, in spite of possible refutation",
-            "put at risk"
         ],
         "charm": [
             "attractiveness that interests or pleases or stimulates",
@@ -161,7 +158,6 @@
             "a state of ill-being due to affliction or misfortune",
             "a feeling of intense unhappiness"
         ],
-        "everybody": "no translation found",
         "spectacle": [
             "something or someone seen (especially a notable or unusual sight",
             "an elaborate and remarkable display on a lavish scale",

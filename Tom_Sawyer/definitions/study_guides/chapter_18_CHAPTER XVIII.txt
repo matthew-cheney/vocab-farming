@@ -2,34 +2,48 @@
     "chapter_number": 18,
     "chapter_title": "CHAPTER XVIII",
     "featured_words": {
+        "wistfully": [
+            "in a wistful manner"
+        ],
+        "pirate": [
+            "copy illegally; of published material",
+            "take arbitrarily or by force"
+        ],
+        "furtively": [
+            "in a furtive manner"
+        ],
+        "thankful": [
+            "feeling or showing gratitude"
+        ],
         "candle": [
             "stick of wax with a wick in the middle",
             "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
         ],
-        "capture": [
-            "the act of forcibly dispossessing an owner of property",
-            "a process whereby a star or planet holds an object in its gravitational field",
-            "any process in which an atomic or nuclear system acquires an additional particle",
-            "the act of taking of a person by force",
-            "the removal of an opponent's piece from the chess board"
+        "funeral": [
+            "a ceremony at which a dead person is buried or cremated"
         ],
-        "glance": [
-            "throw a glance at; take a brief look at",
-            "hit at an angle"
+        "schoolhouse": [
+            "a building where young people receive education"
+        ],
+        "imaginary": [
+            "not based on fact; existing only in the imagination"
+        ],
+        "daylight": [
+            "the time after sunrise and before sunset while it is light outside",
+            "light during the daytime"
         ],
         "presently": [
             "in the near future",
             "at this time or period; now"
         ],
-        "schoolhouse": [
-            "a building where young people receive education"
+        "dusk": [
+            "the time of day immediately following sunset"
         ],
-        "thankful": [
-            "feeling or showing gratitude"
-        ],
-        "pirate": [
-            "copy illegally; of published material",
-            "take arbitrarily or by force"
+        "creep": [
+            "move slowly; in the case of people or animals with the body near the ground",
+            "to go stealthily or furtively",
+            "grow or spread, often in such a way as to cover (a surface",
+            "show submission or fear"
         ],
         "whip": [
             "beat severely with a whip or rod",
@@ -39,22 +53,6 @@
             "whip with or as if with a wire whisk",
             "subject to harsh criticism"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "wistfully": [
-            "in a wistful manner"
-        ],
-        "furtively": [
-            "in a furtive manner"
-        ],
-        "funeral": [
-            "a ceremony at which a dead person is buried or cremated"
-        ],
         "paddle": [
             "propel with a paddle",
             "play in or as if in water, as of small children",
@@ -62,53 +60,9 @@
             "walk unsteadily",
             "give a spanking to; subject to a spanking",
             "stir with a paddle"
-        ],
-        "imaginary": [
-            "not based on fact; existing only in the imagination"
         ]
     },
     "dictionary_words": {
-        "invalid": [
-            "force to retire, remove from active duty, as of firemen",
-            "injure permanently"
-        ],
-        "dusk": [
-            "the time of day immediately following sunset"
-        ],
-        "grieve": [
-            "feel grief",
-            "cause to feel sorrow"
-        ],
-        "alley": [
-            "a narrow street with walls on both sides",
-            "a lane down which a bowling ball is rolled toward pins"
-        ],
-        "want": [
-            "a state of extreme poverty",
-            "the state of needing something that is absent or unavailable",
-            "anything that is necessary but lacking",
-            "a specific feeling of desire"
-        ],
-        "everybody": "no translation found",
-        "creep": [
-            "move slowly; in the case of people or animals with the body near the ground",
-            "to go stealthily or furtively",
-            "grow or spread, often in such a way as to cover (a surface",
-            "show submission or fear"
-        ],
-        "attentive": [
-            "taking heed; giving close and thoughtful attention"
-        ],
-        "plead": [
-            "appeal or request earnestly",
-            "offer as an excuse or plea",
-            "enter a plea, as in courts of law",
-            "make an allegation in an action or other legal proceeding, especially answer the previous pleading of the other party by denying facts therein stated or by alleging new facts"
-        ],
-        "discomforte": "no translation found",
-        "repentant": [
-            "feeling or expressing remorse for misdeeds"
-        ],
         "better": [
             "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
             "from a position of superiority or authority",
@@ -128,11 +82,65 @@
             "in financial comfort",
             "without unusual distress or resentment; with good humor"
         ],
+        "dim": [
+            "lacking in light; not bright or harsh",
+            "lacking clarity or distinctness",
+            "made dim or less bright",
+            "offering little or no hope",
+            "slow to learn or understand; lacking intellectual acuity"
+        ],
+        "discomforte": "no translation found",
+        "plead": [
+            "appeal or request earnestly",
+            "offer as an excuse or plea",
+            "enter a plea, as in courts of law",
+            "make an allegation in an action or other legal proceeding, especially answer the previous pleading of the other party by denying facts therein stated or by alleging new facts"
+        ],
+        "alley": [
+            "a narrow street with walls on both sides",
+            "a lane down which a bowling ball is rolled toward pins"
+        ],
         "hearted": "no translation found",
+        "invalid": [
+            "force to retire, remove from active duty, as of firemen",
+            "injure permanently"
+        ],
+        "recollect": [
+            "recall knowledge from memory; have a recollection"
+        ],
+        "forehead": [
+            "the part of the face above the eyes",
+            "the large cranial bone forming the front part of the cranium: includes the upper part of the orbits"
+        ],
+        "harder": [
+            "with effort or force or vigor",
+            "with firmness",
+            "earnestly or intently",
+            "causing great damage or hardship",
+            "slowly and with difficulty",
+            "indulging excessively",
+            "into a solid condition",
+            "very near or close in space or time",
+            "with pain or distress or bitterness",
+            "to the full extent possible; all the way"
+        ],
+        "grieve": [
+            "feel grief",
+            "cause to feel sorrow"
+        ],
         "woodbox": "no translation found",
-        "daylight": [
-            "the time after sunrise and before sunset while it is light outside",
-            "light during the daytime"
+        "attentive": [
+            "taking heed; giving close and thoughtful attention"
+        ],
+        "repentant": [
+            "feeling or expressing remorse for misdeeds"
+        ],
+        "mercy": [
+            "leniency and compassion shown toward offenders by a person or agency charged with administering justice",
+            "a disposition to be kind and forgiving",
+            "the feeling that motivates compassion",
+            "something for which to be thankful",
+            "alleviation of distress; showing great kindness toward the distressed"
         ]
     },
     "previously_featured": {
@@ -152,13 +160,6 @@
             "in the near future",
             "at this time or period; now"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "creep": [
             "move slowly; in the case of people or animals with the body near the ground",
             "to go stealthily or furtively",
@@ -169,7 +170,6 @@
             "a narrow street with walls on both sides",
             "a lane down which a bowling ball is rolled toward pins"
         ],
-        "everybody": "no translation found",
         "hearted": "no translation found",
         "grieve": [
             "feel grief",
@@ -201,15 +201,8 @@
             "offering little or no hope",
             "slow to learn or understand; lacking intellectual acuity"
         ],
-        "shall": "no translation found",
         "superstition": [
             "an irrational belief arising from ignorance or fear"
-        ],
-        "bark": [
-            "tough protective covering of the woody stems and roots of trees and other woody plants",
-            "a noise resembling the bark of a dog",
-            "a sailing ship with 3 (or more",
-            "the sound made by a dog"
         ],
         "circus": [
             "a travelling company of entertainers; including trained animals",
@@ -240,10 +233,16 @@
             "(biology",
             "elegance in dress or behavior"
         ],
-        "anybody": "no translation found",
         "lightning": [
             "abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light",
             "the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash"
+        ],
+        "recess": [
+            "a state of abeyance or suspended business",
+            "a small concavity",
+            "an arm off of a larger body of water (often between rocky headlands",
+            "an enclosure that is set back or indented",
+            "a pause from doing something (as work"
         ],
         "pause": [
             "interrupt temporarily an activity before continuing",
@@ -259,6 +258,12 @@
             "conformity to one's own sense of right conduct",
             "a feeling of shame when you do something immoral"
         ],
+        "resume": [
+            "take up or begin anew",
+            "return to a previous location or condition",
+            "assume anew",
+            "give a summary (of"
+        ],
         "prick": [
             "make a small hole into, as with a needle or a thorn",
             "cause a stinging pain",
@@ -271,9 +276,8 @@
             "utter aloud; often with surprise, horror, or joy",
             "state or announce"
         ],
-        "comfort": [
-            "give moral or emotional strength to",
-            "lessen pain or discomfort; alleviate"
+        "deserted": [
+            "forsaken by owner or inhabitants"
         ]
     }
 }

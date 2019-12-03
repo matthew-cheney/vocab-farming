@@ -2,75 +2,11 @@
     "chapter_number": 31,
     "chapter_title": "CHAPTER XXXI",
     "featured_words": {
-        "candle": [
-            "stick of wax with a wick in the middle",
-            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
-        ],
-        "echo": [
-            "the repetition of a sound resulting from reflection of the sound waves",
-            "(Greek mythology",
-            "a reply that repeats what has just been said",
-            "a reflected television or radio or radar beam",
-            "a close parallel of a feeling, idea, style, etc.",
-            "an imitation or repetition"
-        ],
-        "cling": [
-            "come or be in close contact with; stick or hold together and resist separation",
-            "to remain emotionally or intellectually attached",
-            "hold on tightly or tenaciously"
-        ],
         "kite": [
             "a bank check that has been fraudulently altered to increase its face value",
             "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
             "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
             "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
-        ],
-        "farther": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point",
-            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
-            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
-        ],
-        "avenue": [
-            "a line of approach",
-            "a wide street or thoroughfare"
-        ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "bat": [
-            "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
-            "(baseball",
-            "a small racket with a long handle used for playing squash",
-            "the club used in playing cricket",
-            "a club used for hitting a ball in various games"
-        ],
-        "hunger": [
-            "a physiological need for food; the consequence of food deprivation",
-            "strong desire for something (not food or drink"
-        ],
-        "stalactite": [
-            "a cylinder of calcium carbonate hanging from the roof of a limestone cave"
-        ],
-        "grope": [
-            "feel about uncertainly or blindly",
-            "search blindly or uncertainly",
-            "fondle for sexual pleasure"
-        ],
-        "laughter": [
-            "the sound of laughing",
-            "the activity of laughing; the manifestation of joy or mirth or scorn"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "better": [
             "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
@@ -91,34 +27,20 @@
             "in financial comfort",
             "without unusual distress or resentment; with good humor"
         ],
-        "cavern": [
-            "any large dark enclosed space",
-            "a large cave or a large chamber in a cave"
-        ]
-    },
-    "dictionary_words": {
-        "misery": [
-            "a state of ill-being due to affliction or misfortune",
-            "a feeling of intense unhappiness"
+        "stalactite": [
+            "a cylinder of calcium carbonate hanging from the roof of a limestone cave"
         ],
-        "shout": [
-            "a loud utterance; often in protest or opposition"
+        "cling": [
+            "come or be in close contact with; stick or hold together and resist separation",
+            "to remain emotionally or intellectually attached",
+            "hold on tightly or tenaciously"
         ],
-        "searcher": [
-            "someone making a search or inquiry",
-            "a customs official whose job is to search baggage or goods or vehicles for contraband or dutiable items",
-            "large metallic blue-green beetle that preys on caterpillars; found in North America"
-        ],
-        "aisle": [
-            "a long narrow passage (as in a cave or woods",
-            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
-            "part of a church divided laterally from the nave proper by rows of pillars or columns"
-        ],
-        "fatigue": [
-            "temporary loss of strength and energy resulting from hard physical or mental work",
-            "used of materials (especially metals",
-            "(always used with a modifier",
-            "labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on"
+        "bat": [
+            "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
+            "(baseball",
+            "a small racket with a long handle used for playing squash",
+            "the club used in playing cricket",
+            "a club used for hitting a ball in various games"
         ],
         "terror": [
             "an overwhelming feeling of fear and anxiety",
@@ -126,24 +48,78 @@
             "a very troublesome child",
             "the use of extreme fear in order to coerce people (especially for political reasons"
         ],
-        "frolicking": [
-            "play boisterously"
-        ],
-        "dub": [
-            "give a nickname to",
-            "provide (movies",
-            "raise (someone"
-        ],
-        "comfort": [
-            "give moral or emotional strength to",
-            "lessen pain or discomfort; alleviate"
-        ],
-        "awake": [
-            "stop sleeping"
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
         ],
         "horrid": [
             "exceedingly bad",
             "grossly offensive to decency or morality; causing horror"
+        ],
+        "cavern": [
+            "any large dark enclosed space",
+            "a large cave or a large chamber in a cave"
+        ],
+        "laughter": [
+            "the sound of laughing",
+            "the activity of laughing; the manifestation of joy or mirth or scorn"
+        ],
+        "grope": [
+            "feel about uncertainly or blindly",
+            "search blindly or uncertainly",
+            "fondle for sexual pleasure"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "avenue": [
+            "a line of approach",
+            "a wide street or thoroughfare"
+        ],
+        "hunger": [
+            "a physiological need for food; the consequence of food deprivation",
+            "strong desire for something (not food or drink"
+        ],
+        "farther": [
+            "to a considerable degree; very much",
+            "at or to or from a great distance in space",
+            "at or to a certain point or degree",
+            "remote in time",
+            "to an advanced stage or point",
+            "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
+            "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
+        ]
+    },
+    "dictionary_words": {
+        "wearisome": [
+            "so lacking in interest as to cause mental weariness"
+        ],
+        "frolicking": [
+            "play boisterously"
+        ],
+        "zeal": [
+            "a feeling of strong eagerness (usually in favor of a person or cause",
+            "excessive fervor to do something or accomplish some end",
+            "prompt willingness"
+        ],
+        "searcher": [
+            "someone making a search or inquiry",
+            "a customs official whose job is to search baggage or goods or vehicles for contraband or dutiable items",
+            "large metallic blue-green beetle that preys on caterpillars; found in North America"
+        ],
+        "misery": [
+            "a state of ill-being due to affliction or misfortune",
+            "a feeling of intense unhappiness"
+        ],
+        "sinuous": [
+            "curved or curving in and out",
+            "gracefully thin and bending and moving with ease"
+        ],
+        "aisle": [
+            "a long narrow passage (as in a cave or woods",
+            "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
+            "part of a church divided laterally from the nave proper by rows of pillars or columns"
         ],
         "stricken": [
             "deliver a sharp blow, as with the hand, fist, or weapon",
@@ -169,22 +145,37 @@
             "pierce with force",
             "arrive at after reckoning, deliberating, and weighing"
         ],
+        "exertion": [
+            "use of physical or mental energy; hard work"
+        ],
         "fasten": [
             "cause to be firmly attached",
             "become fixed or fastened",
             "attach to",
             "make tight or tighter"
         ],
+        "dub": [
+            "give a nickname to",
+            "provide (movies",
+            "raise (someone"
+        ],
         "descriptive": [
             "serving to describe or inform or characterized by description",
             "of or relating to an approach to linguistic analysis that aims at the description of a language's forms, structures and usage"
         ],
-        "trip": [
-            "miss a step and fall or nearly fall",
-            "cause to stumble",
-            "make a trip for pleasure",
-            "put in motion or move to act",
-            "get high, stoned, or drugged"
+        "candle": [
+            "examine eggs for freshness by holding them against a light"
+        ],
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
+        ],
+        "fatigue": [
+            "temporary loss of strength and energy resulting from hard physical or mental work",
+            "used of materials (especially metals",
+            "(always used with a modifier",
+            "labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on"
         ]
     },
     "previously_featured": {
@@ -195,13 +186,6 @@
         "presently": [
             "in the near future",
             "at this time or period; now"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "bat": [
             "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
@@ -249,9 +233,11 @@
             "a very troublesome child",
             "the use of extreme fear in order to coerce people (especially for political reasons"
         ],
-        "comfort": [
-            "give moral or emotional strength to",
-            "lessen pain or discomfort; alleviate"
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
         ],
         "misery": [
             "a state of ill-being due to affliction or misfortune",
@@ -295,14 +281,18 @@
             "shake, as from cold",
             "tremble convulsively, as from fear or excitement"
         ],
-        "glance": [
-            "throw a glance at; take a brief look at",
-            "hit at an angle"
-        ],
         "aisle": [
             "a long narrow passage (as in a cave or woods",
             "passageway between seating areas as in an auditorium or passenger vehicle or between areas of shelves of goods as in stores",
             "part of a church divided laterally from the nave proper by rows of pillars or columns"
+        ],
+        "faint": [
+            "deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc",
+            "lacking clarity or distinctness",
+            "lacking strength or vigor",
+            "weak and likely to lose consciousness",
+            "indistinctly understood or felt or perceived",
+            "lacking conviction or boldness or courage"
         ],
         "resemble": [
             "appear like; be similar or bear a likeness to"
@@ -345,6 +335,12 @@
         "afterward": [
             "happening at a time subsequent to a reference time"
         ],
+        "resume": [
+            "take up or begin anew",
+            "return to a previous location or condition",
+            "assume anew",
+            "give a summary (of"
+        ],
         "sorrow": [
             "an emotion of great sadness associated with loss or bereavement",
             "sadness associated with some wrong done or some disappointment",
@@ -368,6 +364,9 @@
         "testify": [
             "give testimony in a court of law",
             "provide evidence for"
+        ],
+        "fright": [
+            "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight"
         ],
         "dreary": [
             "lacking in liveliness or charm or surprise",

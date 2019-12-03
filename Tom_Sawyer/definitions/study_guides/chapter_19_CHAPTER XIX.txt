@@ -2,23 +2,21 @@
     "chapter_number": 19,
     "chapter_title": "CHAPTER XIX",
     "featured_words": {
+        "rubbage": "no translation found",
+        "thankfull": "no translation found",
+        "dreary": [
+            "lacking in liveliness or charm or surprise",
+            "causing dejection"
+        ],
+        "sorrow": [
+            "an emotion of great sadness associated with loss or bereavement",
+            "sadness associated with some wrong done or some disappointment",
+            "something that causes great unhappiness",
+            "the state of being sad"
+        ],
         "behold": [
             "see with attention"
         ],
-        "grieve": [
-            "feel grief",
-            "cause to feel sorrow"
-        ],
-        "auntie": [
-            "the sister of your father or mother; the wife of your uncle"
-        ],
-        "fool": [
-            "make a fool or dupe of",
-            "spend frivolously and unwisely",
-            "fool or hoax",
-            "indulge in horseplay"
-        ],
-        "rubbage": "no translation found",
         "smartness": [
             "a kind of pain such as that caused by a wound or a burn or a sore",
             "intelligence as manifested in being quick and witty",
@@ -28,48 +26,23 @@
         "selfishness": [
             "stinginess resulting from a concern for your own welfare and a disregard of others"
         ],
-        "bark": [
-            "tough protective covering of the woody stems and roots of trees and other woody plants",
-            "a noise resembling the bark of a dog",
-            "a sailing ship with 3 (or more",
-            "the sound made by a dog"
-        ],
-        "unpromising": [
-            "unlikely to bring about favorable results or enjoyment"
-        ],
-        "skin": [
-            "climb awkwardly, as if by scrambling",
-            "bruise, cut, or injure the skin or the surface of",
-            "remove the bark of a tree",
-            "strip the skin off"
-        ],
-        "ingenious": [
-            "showing inventiveness and skill"
-        ],
-        "softy": [
-            "a person who is weak and excessively sentimental"
-        ],
-        "dreary": [
-            "lacking in liveliness or charm or surprise",
-            "causing dejection"
+        "auntie": [
+            "the sister of your father or mother; the wife of your uncle"
         ],
         "pirate": [
             "copy illegally; of published material",
             "take arbitrarily or by force"
         ],
-        "sorrow": [
-            "an emotion of great sadness associated with loss or bereavement",
-            "sadness associated with some wrong done or some disappointment",
-            "something that causes great unhappiness",
-            "the state of being sad"
-        ]
-    },
-    "dictionary_words": {
+        "unpromising": [
+            "unlikely to bring about favorable results or enjoyment"
+        ],
         "drownde": "no translation found",
-        "dawn": [
-            "become clear or enter one's consciousness or emotions",
-            "appear or develop",
-            "become light"
+        "softy": [
+            "a person who is weak and excessively sentimental"
+        ],
+        "grieve": [
+            "feel grief",
+            "cause to feel sorrow"
         ],
         "uneasy": [
             "lacking a sense of security or affording no ease or reassurance",
@@ -78,8 +51,25 @@
             "socially uncomfortable; unsure and constrained in manner",
             "relating to bodily unease that causes discomfort"
         ],
+        "ingenious": [
+            "showing inventiveness and skill"
+        ]
+    },
+    "dictionary_words": {
+        "garment": [
+            "an article of clothing"
+        ],
         "relaxed": [
             "without strain or anxiety"
+        ],
+        "later": [
+            "later than usual or than expected",
+            "to an advanced time",
+            "at an advanced age or stage",
+            "in the recent past",
+            "happening at a time subsequent to a reference time",
+            "at some eventual time in the future",
+            "comparative of the adverb `late'"
         ],
         "tenderness": [
             "a tendency to express warm and affectionate feeling",
@@ -97,42 +87,32 @@
             "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
             "a small private room for study or prayer"
         ],
-        "heartedness": "no translation found",
         "deed": [
             "a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it",
             "something that people do or cause to happen"
         ],
-        "pity": [
-            "share the suffering of"
+        "heartedness": "no translation found",
+        "fortify": [
+            "make strong or stronger",
+            "enclose by or as if by a fortification",
+            "prepare oneself for a military confrontation",
+            "add nutrients to",
+            "add alcohol to (beverages"
         ],
         "tremor": [
             "an involuntary vibration (as if from illness or fear",
             "a small earthquake",
             "shaking or trembling (usually resulting from weakness or stress or disease"
         ],
-        "thankfull": "no translation found",
+        "refrain": [
+            "resist doing something",
+            "choose not to consume"
+        ],
         "muse": [
             "reflect deeply on a subject"
-        ],
-        "ruin": [
-            "an irrecoverable state of devastation and destruction",
-            "a ruined building",
-            "the process of becoming dilapidated",
-            "an event that results in destruction",
-            "failure that results in a loss of position or reputation",
-            "destruction achieved by causing something to be wrecked or ruined"
-        ],
-        "garment": [
-            "an article of clothing"
         ]
     },
     "previously_featured": {
-        "bark": [
-            "tough protective covering of the woody stems and roots of trees and other woody plants",
-            "a noise resembling the bark of a dog",
-            "a sailing ship with 3 (or more",
-            "the sound made by a dog"
-        ],
         "grieve": [
             "feel grief",
             "cause to feel sorrow"
@@ -145,20 +125,9 @@
             "lacking in liveliness or charm or surprise",
             "causing dejection"
         ],
-        "fool": [
-            "make a fool or dupe of",
-            "spend frivolously and unwisely",
-            "fool or hoax",
-            "indulge in horseplay"
-        ],
         "drownde": "no translation found",
         "funeral": [
             "a ceremony at which a dead person is buried or cremated"
-        ],
-        "venture": [
-            "proceed somewhere despite the risk of possible dangers",
-            "put forward, of a guess, in spite of possible refutation",
-            "put at risk"
         ],
         "later": [
             "later than usual or than expected",

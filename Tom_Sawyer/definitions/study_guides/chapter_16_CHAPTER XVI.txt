@@ -2,57 +2,18 @@
     "chapter_number": 16,
     "chapter_title": "CHAPTER XVI",
     "featured_words": {
-        "misery": [
-            "a state of ill-being due to affliction or misfortune",
-            "a feeling of intense unhappiness"
-        ],
-        "naked": [
-            "completely unclothed",
-            "having no protecting or concealing cover",
-            "(of the eye or ear e.g.",
-            "devoid of elaboration or diminution or concealment; bare and pure",
-            "lacking any cover"
-        ],
-        "marble": [
-            "a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material",
-            "a small ball of glass that is used in various games",
-            "a sculpture carved from marble"
-        ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
+        "spray": [
+            "a pesticide in suspension or solution; intended for spraying",
+            "a quantity of small objects flying through the air",
+            "flower arrangement consisting of a single branch or shoot bearing flowers and foliage",
+            "a dispenser that turns a liquid (such as perfume",
+            "water in small drops in the atmosphere; blown from waves or thrown up by a waterfall",
+            "a jet of vapor"
         ],
         "pirate": [
             "someone who uses another person's words or ideas as if they were his own",
             "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
             "a ship that is manned by pirates"
-        ],
-        "poke": [
-            "poke or thrust abruptly",
-            "search or inquire in a meddlesome way",
-            "stir by poking",
-            "hit hard with the hand, fist, or some heavy instrument",
-            "make a hole by poking"
-        ],
-        "clothe": [
-            "provide with clothes or put clothes on",
-            "furnish with power or authority; of kings or emperors",
-            "cover as if with clothing"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "circus": [
-            "a travelling company of entertainers; including trained animals",
-            "a performance given by a traveling company of acrobats, clowns, and trained animals",
-            "a frenetic disorganized (and often comic",
-            "(antiquity",
-            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
-            "a genus of haws comprising the harriers"
         ],
         "stiff": [
             "not moving or operating freely",
@@ -62,6 +23,14 @@
             "marked by firm determination or resolution; not shakable",
             "incapable of or resistant to bending",
             "very drunk"
+        ],
+        "neighbor": [
+            "a person who lives (or is located",
+            "a nearby object of the same kind"
+        ],
+        "misery": [
+            "a state of ill-being due to affliction or misfortune",
+            "a feeling of intense unhappiness"
         ],
         "better": [
             "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
@@ -82,10 +51,27 @@
             "in financial comfort",
             "without unusual distress or resentment; with good humor"
         ],
-        "venture": [
-            "proceed somewhere despite the risk of possible dangers",
-            "put forward, of a guess, in spite of possible refutation",
-            "put at risk"
+        "circus": [
+            "a travelling company of entertainers; including trained animals",
+            "a performance given by a traveling company of acrobats, clowns, and trained animals",
+            "a frenetic disorganized (and often comic",
+            "(antiquity",
+            "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+            "a genus of haws comprising the harriers"
+        ],
+        "cheerfulness": [
+            "the quality of being cheerful and dispelling gloom",
+            "a feeling of spontaneous good spirits"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "marble": [
+            "a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material",
+            "a small ball of glass that is used in various games",
+            "a sculpture carved from marble"
         ],
         "feast": [
             "a ceremonial dinner party for many people",
@@ -93,26 +79,9 @@
             "a meal that is well prepared and greatly enjoyed",
             "an elaborate party (often outdoors"
         ],
-        "neighbor": [
-            "a person who lives (or is located",
-            "a nearby object of the same kind"
-        ],
-        "spray": [
-            "a pesticide in suspension or solution; intended for spraying",
-            "a quantity of small objects flying through the air",
-            "flower arrangement consisting of a single branch or shoot bearing flowers and foliage",
-            "a dispenser that turns a liquid (such as perfume",
-            "water in small drops in the atmosphere; blown from waves or thrown up by a waterfall",
-            "a jet of vapor"
-        ]
-    },
-    "dictionary_words": {
-        "bail": [
-            "release after a security has been paid",
-            "deliver something in trust to somebody for a special purpose and for a limited period",
-            "secure the release of (someone",
-            "empty (a vessel",
-            "remove (water"
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
         ],
         "faint": [
             "deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc",
@@ -122,46 +91,50 @@
             "indistinctly understood or felt or perceived",
             "lacking conviction or boldness or courage"
         ],
-        "lonesome": [
-            "being the only one; single and isolated from others",
-            "marked by dejection from being alone"
+        "poke": [
+            "poke or thrust abruptly",
+            "search or inquire in a meddlesome way",
+            "stir by poking",
+            "hit hard with the hand, fist, or some heavy instrument",
+            "make a hole by poking"
         ],
-        "cheerfulness": [
-            "the quality of being cheerful and dispelling gloom",
-            "a feeling of spontaneous good spirits"
+        "naked": [
+            "completely unclothed",
+            "having no protecting or concealing cover",
+            "(of the eye or ear e.g.",
+            "devoid of elaboration or diminution or concealment; bare and pure",
+            "lacking any cover"
+        ]
+    },
+    "dictionary_words": {
+        "treetop": [
+            "the upper branches and leaves of a tree or other plant"
         ],
-        "moodily": [
-            "in a moody manner"
+        "thunder": [
+            "a deep prolonged loud noise",
+            "a booming or crashing noise caused by air expanding along the path of a bolt of lightning",
+            "street names for heroin"
         ],
-        "dart": [
-            "move along rapidly and lightly; skim or dart",
-            "run or move very quickly or hastily",
-            "move with sudden speed"
+        "peal": [
+            "a deep prolonged sound (as of thunder or large bells"
+        ],
+        "bail": [
+            "release after a security has been paid",
+            "deliver something in trust to somebody for a special purpose and for a limited period",
+            "secure the release of (someone",
+            "empty (a vessel",
+            "remove (water"
         ],
         "crybaby": [
             "a person who lacks confidence, is irresolute and wishy-washy",
             "a person given to excessive complaints and crying and whining"
         ],
-        "wade": [
-            "walk (through relatively shallow water"
+        "moodily": [
+            "in a moody manner"
         ],
-        "warwhoop": "no translation found",
-        "fountain": [
-            "a structure from which an artificially produced jet of water arises",
-            "a natural flow of ground water",
-            "an artificially produced flow of water",
-            "a plumbing fixture that provides a flow of water"
-        ],
-        "pale": [
-            "very light colored; highly diluted with white",
-            "(of light",
-            "or wan",
-            "lacking in vitality or interest or effectiveness",
-            "abnormally deficient in color as suggesting physical or emotional distress",
-            "not full or rich"
-        ],
-        "peal": [
-            "a deep prolonged sound (as of thunder or large bells"
+        "lonesome": [
+            "being the only one; single and isolated from others",
+            "marked by dejection from being alone"
         ],
         "furiously": [
             "(of the elements",
@@ -173,10 +146,33 @@
             "a fellow member of the Communist Party",
             "used as a term of address for those male persons engaged in the same movement"
         ],
+        "pale": [
+            "very light colored; highly diluted with white",
+            "(of light",
+            "or wan",
+            "lacking in vitality or interest or effectiveness",
+            "abnormally deficient in color as suggesting physical or emotional distress",
+            "not full or rich"
+        ],
         "seduction": [
             "enticing someone astray from right behavior",
             "an act of winning the love or sexual favor of someone"
-        ]
+        ],
+        "wade": [
+            "walk (through relatively shallow water"
+        ],
+        "fountain": [
+            "a structure from which an artificially produced jet of water arises",
+            "a natural flow of ground water",
+            "an artificially produced flow of water",
+            "a plumbing fixture that provides a flow of water"
+        ],
+        "dart": [
+            "move along rapidly and lightly; skim or dart",
+            "run or move very quickly or hastily",
+            "move with sudden speed"
+        ],
+        "warwhoop": "no translation found"
     },
     "previously_featured": {
         "presently": [
@@ -188,17 +184,29 @@
             "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
             "a ship that is manned by pirates"
         ],
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
         "clothe": [
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
             "cover as if with clothing"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "circus": [
             "a travelling company of entertainers; including trained animals",
@@ -216,11 +224,6 @@
         "wade": [
             "walk (through relatively shallow water"
         ],
-        "leave": [
-            "the period of time during which you are absent from work or duty",
-            "permission to do something",
-            "the act of departing politely"
-        ],
         "blast": [
             "a very long fly ball",
             "a sudden very loud noise",
@@ -228,6 +231,12 @@
             "an explosion (as of dynamite",
             "a highly pleasurable or exciting experience",
             "intense adverse criticism"
+        ],
+        "drench": [
+            "drench or submerge or be drenched or submerged",
+            "force to drink",
+            "permeate or impregnate",
+            "cover with liquid; pour liquid onto"
         ],
         "lightning": [
             "abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light",
@@ -239,8 +248,11 @@
             "something believed to bring good luck",
             "(physics"
         ],
-        "anybody": "no translation found",
-        "shall": "no translation found",
+        "snuffle": [
+            "sniff or smell inquiringly",
+            "snuff up mucus through the nose",
+            "cry or whine with snuffling"
+        ],
         "alley": [
             "a narrow street with walls on both sides",
             "a lane down which a bowling ball is rolled toward pins"
@@ -294,20 +306,14 @@
             "pretense that your position is stronger than it really is",
             "the act of bluffing in poker; deception by a false show of confidence in the strength of your cards"
         ],
-        "bark": [
-            "tough protective covering of the woody stems and roots of trees and other woody plants",
-            "a noise resembling the bark of a dog",
-            "a sailing ship with 3 (or more",
-            "the sound made by a dog"
+        "resume": [
+            "take up or begin anew",
+            "return to a previous location or condition",
+            "assume anew",
+            "give a summary (of"
         ],
         "sandbar": [
             "a bar of sand"
-        ],
-        "fool": [
-            "make a fool or dupe of",
-            "spend frivolously and unwisely",
-            "fool or hoax",
-            "indulge in horseplay"
         ],
         "cautiously": [
             "as if with kid gloves; with caution or prudence or tact",

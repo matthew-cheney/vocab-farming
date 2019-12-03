@@ -2,9 +2,15 @@
     "chapter_number": 21,
     "chapter_title": "CHAPTER XXI",
     "featured_words": {
-        "thee": "no translation found",
-        "grandmother": [
-            "the mother of your father or mother"
+        "tittering": [
+            "laugh nervously"
+        ],
+        "recite": [
+            "recite in elocution",
+            "repeat aloud from memory",
+            "render verbally",
+            "narrate or give a detailed account of",
+            "specify individually"
         ],
         "class": [
             "a collection of things sharing a common attribute",
@@ -16,49 +22,41 @@
             "(biology",
             "elegance in dress or behavior"
         ],
+        "intolerable": [
+            "incapable of being tolerated or endured"
+        ],
         "terror": [
             "an overwhelming feeling of fear and anxiety",
             "a person who inspires fear or dread",
             "a very troublesome child",
             "the use of extreme fear in order to coerce people (especially for political reasons"
         ],
-        "conspicuously": [
-            "in a manner tending to attract attention",
-            "in a prominent way"
-        ],
-        "like": [
-            "resembling or similar; having the same or some of the same characteristics; often used in combination",
-            "equal in amount or value",
-            "having the same or similar characteristics",
-            "conforming in every respect"
-        ],
-        "signpainter": "no translation found",
-        "blackboard": [
-            "sheet of slate; for writing with chalk"
-        ],
-        "tittering": [
-            "laugh nervously"
-        ],
-        "manuscript": [
-            "the form of a literary work submitted for publication",
-            "handwritten book or document"
+        "robe": [
+            "any loose flowing garment",
+            "outerwear consisting of a long flowing garment used for official or ceremonial occasions"
         ],
         "sermon": [
             "an address of a religious nature (usually delivered during a church service",
             "a moralistic rebuke"
         ],
-        "recite": [
-            "recite in elocution",
-            "repeat aloud from memory",
-            "render verbally",
-            "narrate or give a detailed account of",
-            "specify individually"
-        ],
+        "signpainter": "no translation found",
+        "thee": "no translation found",
         "applause": [
             "a demonstration of approval by clapping the hands together"
         ],
-        "intolerable": [
-            "incapable of being tolerated or endured"
+        "manuscript": [
+            "the form of a literary work submitted for publication",
+            "handwritten book or document"
+        ],
+        "grandmother": [
+            "the mother of your father or mother"
+        ],
+        "blackboard": [
+            "sheet of slate; for writing with chalk"
+        ],
+        "conspicuously": [
+            "in a manner tending to attract attention",
+            "in a prominent way"
         ],
         "wig": [
             "hairpiece covering the head and made of real or synthetic hair",
@@ -66,6 +64,42 @@
         ]
     },
     "dictionary_words": {
+        "seldom": [
+            "not often"
+        ],
+        "vigorous": [
+            "characterized by forceful and energetic action or activity",
+            "strong and active physically or mentally"
+        ],
+        "lashing": [
+            "beating with a whip or strap or rope as a form of punishment",
+            "rope that is used for fastening something to something else"
+        ],
+        "bald": [
+            "with no effort to conceal",
+            "lacking hair on all or most of the scalp",
+            "without the natural or usual covering"
+        ],
+        "ferule": [
+            "a switch (a stick or cane or flat paddle"
+        ],
+        "eloquent": [
+            "expressing yourself readily, clearly, effectively"
+        ],
+        "claw": [
+            "move as if by clawing, seizing, or digging",
+            "clutch as if in panic",
+            "scratch, scrape, pull, or dig with claws or nails",
+            "attack as if with claws"
+        ],
+        "garret": [
+            "floor consisting of open space at the top of a house just below roof; often used for storage"
+        ],
+        "schoolmaster": [
+            "presiding officer of a school",
+            "any person (or institution",
+            "food fish of warm Caribbean and Atlantic waters"
+        ],
         "idle": [
             "not in action or at work",
             "without a basis in reason or fact",
@@ -75,18 +109,6 @@
             "not yielding a return",
             "not having a job"
         ],
-        "lashing": [
-            "beating with a whip or strap or rope as a form of punishment",
-            "rope that is used for fastening something to something else"
-        ],
-        "exacting": [
-            "having complicated nutritional requirements; especially growing only in special artificial cultures",
-            "severe and unremitting in making demands",
-            "requiring precise accuracy"
-        ],
-        "eloquent": [
-            "expressing yourself readily, clearly, effectively"
-        ],
         "rod": [
             "a long thin implement made of metal or wood",
             "any rod-shaped bacterium",
@@ -95,49 +117,25 @@
             "a visual receptor cell that is sensitive to dim light",
             "a gangster's pistol"
         ],
-        "claw": [
-            "move as if by clawing, seizing, or digging",
-            "clutch as if in panic",
-            "scratch, scrape, pull, or dig with claws or nails",
-            "attack as if with claws"
-        ],
         "lash": [
             "beat severely with a whip or rod",
             "lash or flick about sharply",
             "strike as if by whipping",
             "bind with a rope, chain, or cord"
         ],
+        "scuttle": [
+            "container for coal; shaped to permit pouring the coal onto the fire",
+            "an entrance equipped with a hatch; especially a passageway between decks of a ship"
+        ],
         "glide": [
             "move smoothly and effortlessly",
             "fly in or as if in a glider plane",
             "cause to move or pass silently, smoothly, or imperceptibly"
         ],
-        "schoolmaster": [
-            "presiding officer of a school",
-            "any person (or institution",
-            "food fish of warm Caribbean and Atlantic waters"
-        ],
-        "seldom": [
-            "not often"
-        ],
-        "garret": [
-            "floor consisting of open space at the top of a house just below roof; often used for storage"
-        ],
-        "ferule": [
-            "a switch (a stick or cane or flat paddle"
-        ],
-        "scuttle": [
-            "container for coal; shaped to permit pouring the coal onto the fire",
-            "an entrance equipped with a hatch; especially a passageway between decks of a ship"
-        ],
-        "fancy": [
-            "something many people believe that is false",
-            "imagination or fantasy; held by Coleridge to be more casual and superficial than true imagination",
-            "a predisposition to like something"
-        ],
-        "robe": [
-            "any loose flowing garment",
-            "outerwear consisting of a long flowing garment used for official or ceremonial occasions"
+        "exacting": [
+            "having complicated nutritional requirements; especially growing only in special artificial cultures",
+            "severe and unremitting in making demands",
+            "requiring precise accuracy"
         ]
     },
     "previously_featured": {
@@ -162,6 +160,9 @@
             "(biology",
             "elegance in dress or behavior"
         ],
+        "seldom": [
+            "not often"
+        ],
         "mischief": [
             "reckless or malicious behavior that causes discomfort or annoyance in others",
             "the quality or nature of being harmful or evil"
@@ -173,6 +174,17 @@
             "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
             "a detail that is considered insignificant",
             "something of small importance"
+        ],
+        "bow": [
+            "a knot with two loops and loose ends; used to tie shoelaces",
+            "a slightly curved piece of resilient wood with taut horsehair strands; used in playing certain stringed instruments",
+            "front part of a vessel or aircraft",
+            "a weapon for shooting arrows, composed of a curved piece of resilient wood with a taut cord to propel the arrow",
+            "something curved in shape",
+            "bending the head or body or knee as a sign of reverence or submission or shame or greeting",
+            "an appearance by actors or performers at the end of the concert or play in order to acknowledge the applause of the audience",
+            "a decorative interlacing of ribbons",
+            "a stroke with a curved piece of wood with taut horsehair strands that is used in playing stringed instruments"
         ],
         "awhile": [
             "for a short time"
@@ -209,28 +221,19 @@
             "lacking in liveliness or charm or surprise",
             "causing dejection"
         ],
-        "second": [
-            "coming next after the first in position in space or time or degree or magnitude",
-            "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
-        ],
         "mayor": [
             "the head of a city government"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
+        "fasten": [
+            "cause to be firmly attached",
+            "become fixed or fastened",
+            "attach to",
+            "make tight or tighter"
         ],
         "snatch": [
             "to grasp hastily or eagerly",
             "to make grasping motions",
             "take away to an undisclosed location against their will and usually in order to extract a ransom"
-        ],
-        "instant": [
-            "a very short time (as the time it takes the eye to blink or the heart to beat",
-            "a particular point in time"
         ]
     }
 }

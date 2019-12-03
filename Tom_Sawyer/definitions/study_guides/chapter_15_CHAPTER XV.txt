@@ -2,9 +2,10 @@
     "chapter_number": 15,
     "chapter_title": "CHAPTER XV",
     "featured_words": {
-        "candle": [
-            "stick of wax with a wick in the middle",
-            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+        "pirate": [
+            "someone who uses another person's words or ideas as if they were his own",
+            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+            "a ship that is manned by pirates"
         ],
         "later": [
             "later than usual or than expected",
@@ -15,42 +16,36 @@
             "at some eventual time in the future",
             "comparative of the adverb `late'"
         ],
-        "quarter": [
-            "provide housing for (military personnel",
-            "pull (a person",
-            "divide into quarters",
-            "divide by four; divide into quarters"
-        ],
-        "stern": [
-            "the rear part of a ship",
-            "United States concert violinist (born in Russia in 1920",
-            "the fleshy part of the human body that you sit on"
+        "warily": [
+            "in a wary manner"
         ],
         "cautiously": [
             "as if with kid gloves; with caution or prudence or tact",
             "in a conservative manner"
         ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "warily": [
-            "in a wary manner"
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
         ],
         "raft": [
             "a flat float (usually made of logs or planks",
             "a foundation (usually on soft ground"
         ],
-        "bark": [
-            "tough protective covering of the woody stems and roots of trees and other woody plants",
-            "a noise resembling the bark of a dog",
-            "a sailing ship with 3 (or more",
-            "the sound made by a dog"
+        "hearted": "no translation found",
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
         ],
-        "pirate": [
-            "someone who uses another person's words or ideas as if they were his own",
-            "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
-            "a ship that is manned by pirates"
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "wade": [
+            "walk (through relatively shallow water"
+        ],
+        "stern": [
+            "the rear part of a ship",
+            "United States concert violinist (born in Russia in 1920",
+            "the fleshy part of the human body that you sit on"
         ],
         "creep": [
             "move slowly; in the case of people or animals with the body near the ground",
@@ -58,57 +53,47 @@
             "grow or spread, often in such a way as to cover (a surface",
             "show submission or fear"
         ],
+        "snuffle": [
+            "sniff or smell inquiringly",
+            "snuff up mucus through the nose",
+            "cry or whine with snuffling"
+        ],
+        "sob": [
+            "weep convulsively"
+        ],
         "ashore": [
             "towards the shore from the water"
-        ],
-        "wade": [
-            "walk (through relatively shallow water"
-        ],
-        "skiff": [
-            "any of various small boats propelled by oars or by sails or by a motor"
-        ],
-        "hearted": "no translation found"
+        ]
     },
     "dictionary_words": {
-        "stream": [
-            "to extend, wave or float outward, as if in the wind",
-            "exude profusely",
-            "move in large numbers",
-            "rain heavily",
-            "flow freely and abundantly"
-        ],
-        "faster": [
-            "quickly or rapidly (often used as a combining form",
-            "or fast-closing",
-            "firmly or closely",
-            "more quickly"
-        ],
         "shoal": [
             "a sandbank in a stretch of water that is visible at low tide",
             "a stretch of shallow water",
             "a large group of fish"
         ],
+        "garment": [
+            "an article of clothing"
+        ],
+        "yawl": [
+            "a ship's small boat (usually rowed by 4 or 6 oars",
+            "a sailing vessel with two masts; a small mizzen is aft of the rudderpost"
+        ],
+        "pant": [
+            "breathe noisily, as when one is exhausted",
+            "utter while panting, as if out of breath"
+        ],
+        "halfway": [
+            "at half the distance; at the middle"
+        ],
+        "swam": [
+            "travel through water",
+            "be afloat either on or below a liquid surface and not sink to the bottom",
+            "be dizzy or giddy",
+            "be covered with or submerged in a liquid",
+            "move as if gliding through water"
+        ],
         "downward": [
             "spatially or metaphorically from a higher to a lower level or position"
-        ],
-        "current": [
-            "a flow of electricity through a conductor",
-            "a steady flow of a fluid (usually from natural causes",
-            "dominant course (suggestive of running water"
-        ],
-        "confidently": [
-            "with confidence; in a confident manner"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "goodnight": "no translation found",
-        "sob": [
-            "weep convulsively"
         ],
         "drown": [
             "cover completely or make imperceptible",
@@ -118,29 +103,32 @@
             "be covered with or submerged in a liquid",
             "be in danger of dying from submersion in a liquid and asphyxiation"
         ],
-        "swam": [
-            "travel through water",
-            "be afloat either on or below a liquid surface and not sink to the bottom",
-            "be dizzy or giddy",
-            "be covered with or submerged in a liquid",
-            "move as if gliding through water"
-        ],
         "ferryboat": [
             "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
         ],
-        "snuffle": [
-            "sniff or smell inquiringly",
-            "snuff up mucus through the nose",
-            "cry or whine with snuffling"
+        "blink": [
+            "briefly shut the eyes",
+            "keep back by blinking",
+            "gleam or glow intermittently"
         ],
-        "garment": [
-            "an article of clothing"
+        "faster": [
+            "quickly or rapidly (often used as a combining form",
+            "or fast-closing",
+            "firmly or closely",
+            "more quickly"
         ],
-        "halfway": [
-            "at half the distance; at the middle"
-        ]
+        "confidently": [
+            "with confidence; in a confident manner"
+        ],
+        "thwart": [
+            "a crosspiece spreading the gunnels of a boat; used as a seat in a rowboat"
+        ],
+        "goodnight": "no translation found"
     },
     "previously_featured": {
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
         "later": [
             "later than usual or than expected",
             "to an advanced time",
@@ -171,13 +159,6 @@
         ],
         "sob": [
             "weep convulsively"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "ferryboat": [
             "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
@@ -190,7 +171,25 @@
             "reckless or malicious behavior that causes discomfort or annoyance in others",
             "the quality or nature of being harmful or evil"
         ],
-        "anybody": "no translation found",
+        "better": [
+            "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+            "from a position of superiority or authority",
+            "(often used as a combining form",
+            "`good' is a nonstandard dialectal variant for `well'",
+            "thoroughly or completely; fully; often used as a combining form",
+            "indicating high probability; in all likelihood",
+            "(used for emphasis or as an intensifier",
+            "to a suitable or appropriate extent or degree",
+            "favorably; with approval",
+            "to a great extent or degree",
+            "or substantially",
+            "with great or especially intimate knowledge",
+            "with prudence or propriety",
+            "with skill or in a pleasing manner",
+            "in a manner affording benefit or advantage",
+            "in financial comfort",
+            "without unusual distress or resentment; with good humor"
+        ],
         "shudder": [
             "shake, as from cold",
             "tremble convulsively, as from fear or excitement"

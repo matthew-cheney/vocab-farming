@@ -2,6 +2,34 @@
     "chapter_number": 1,
     "chapter_title": "2. The Council with the Munchkins",
     "featured_words": {
+        "heel": [
+            "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+            "the back part of the human foot",
+            "someone who is morally reprehensible",
+            "one of the crusty ends of a loaf of bread",
+            "the lower end of a ship's mast"
+        ],
+        "dismally": [
+            "in a cheerless manner",
+            "in a dreadful manner"
+        ],
+        "bondage": [
+            "the state of being under the control of a force or influence or abstract power",
+            "the state of being under the control of another person",
+            "sexual practice that involves physically restraining (by cords or handcuffs"
+        ],
+        "slate": [
+            "(formerly",
+            "thin layers of rock used for roofing",
+            "a fine-grained metamorphic rock that can be split into thin layers",
+            "a list of candidates nominated by a political party to run for election to public offices"
+        ],
+        "witch": [
+            "a female sorcerer or magician",
+            "a being (usually female",
+            "a believer in Wicca",
+            "an ugly evil-looking old woman"
+        ],
         "bow": [
             "bend one's knee or body, or lower one's head",
             "yield to another's wish or opinion",
@@ -9,16 +37,32 @@
             "bend one's back forward from the waist on down",
             "play on a stringed instrument with a bow"
         ],
+        "sorceress": [
+            "a woman sorcerer"
+        ],
+        "awaken": [
+            "cause to become awake or conscious",
+            "stop sleeping",
+            "make aware"
+        ],
+        "whine": [
+            "move with a whining sound",
+            "talk in a tearful manner",
+            "make a high-pitched, screeching noise",
+            "complain whiningly"
+        ],
+        "wicked": [
+            "morally bad in principle or practice",
+            "having committed unrighteous acts",
+            "intensely or extremely bad or unpleasant in degree or quality",
+            "naughtily or annoyingly playful",
+            "highly offensive; arousing aversion or disgust"
+        ],
+        "Munchkins": "no translation found",
         "inquire": [
             "address a question to and expect an answer from",
             "have a wish or desire to know something",
             "conduct an inquiry or investigation of"
-        ],
-        "slate": [
-            "(formerly",
-            "thin layers of rock used for roofing",
-            "a fine-grained metamorphic rock that can be split into thin layers",
-            "a list of candidates nominated by a political party to run for election to public offices"
         ],
         "civilized": [
             "having a high state of culture and development both social and technological",
@@ -28,88 +72,29 @@
             "someone who is dazzlingly skilled in any field",
             "one who practices magic or sorcery"
         ],
-        "shall": "no translation found",
-        "wicked": [
-            "morally bad in principle or practice",
-            "having committed unrighteous acts",
-            "intensely or extremely bad or unpleasant in degree or quality",
-            "naughtily or annoyingly playful",
-            "highly offensive; arousing aversion or disgust"
-        ],
-        "dear": [
-            "a beloved person; used as terms of endearment",
-            "a sweet innocent mild-mannered person (especially a child"
-        ],
-        "sorceress": [
-            "a woman sorcerer"
-        ],
-        "heel": [
-            "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
-            "the back part of the human foot",
-            "someone who is morally reprehensible",
-            "one of the crusty ends of a loaf of bread",
-            "the lower end of a ship's mast"
-        ],
-        "bondage": [
-            "the state of being under the control of a force or influence or abstract power",
-            "the state of being under the control of another person",
-            "sexual practice that involves physically restraining (by cords or handcuffs"
-        ],
-        "witch": [
-            "a female sorcerer or magician",
-            "a being (usually female",
-            "a believer in Wicca",
-            "an ugly evil-looking old woman"
-        ],
-        "Munchkins": "no translation found",
         "cyclone": [
             "(meteorology",
             "a violent rotating windstorm"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ]
     },
     "dictionary_words": {
-        "amazement": [
-            "the feeling that accompanies something extremely surprising"
-        ],
-        "stately": [
-            "impressive in appearance",
-            "of size and dignity suggestive of a statue",
-            "refined or imposing in manner or appearance; befitting a royal court"
-        ],
         "sparkle": [
             "reflect brightly",
             "be lively or brilliant or exhibit virtuosity",
             "emit or produce sparks",
             "become bubbly or frothy or foaming"
         ],
-        "luscious": [
-            "having strong sexual appeal",
-            "extremely pleasing to the sense of taste"
-        ],
-        "murmur": [
-            "speak softly or indistinctly",
-            "make complaining remarks or noises under one's breath"
-        ],
         "marvelous": [
             "extraordinarily good or great; used especially as intensifiers",
             "too improbable to admit of belief",
             "being or having the character of a miracle"
         ],
-        "midst": [
-            "the location of something surrounded by other things"
+        "murmur": [
+            "speak softly or indistinctly",
+            "make complaining remarks or noises under one's breath"
         ],
-        "whine": [
-            "move with a whining sound",
-            "talk in a tearful manner",
-            "make a high-pitched, screeching noise",
-            "complain whiningly"
+        "greensward": [
+            "surface layer of ground containing a mat of grass and grass roots"
         ],
         "flutter": [
             "move along rapidly and lightly; skim or dart",
@@ -118,29 +103,42 @@
             "beat rapidly",
             "wink briefly"
         ],
+        "amazement": [
+            "the feeling that accompanies something extremely surprising"
+        ],
+        "prairie": [
+            "a treeless grassy plain"
+        ],
+        "queer": [
+            "beyond or deviating from the usual or expected",
+            "homosexual or arousing homosexual desires"
+        ],
+        "eagerly": [
+            "with eagerness; in an eager manner"
+        ],
+        "midst": [
+            "the location of something surrounded by other things"
+        ],
+        "brook": [
+            "a natural stream of water smaller than a river (and often a tributary of a river"
+        ],
         "gray": [
             "of an achromatic color of any lightness intermediate between the extremes of white and black",
             "showing characteristics of age, especially having grey or white hair",
             "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
             "intermediate in character or position"
         ],
-        "greensward": [
-            "surface layer of ground containing a mat of grass and grass roots"
-        ],
-        "dismally": [
-            "in a cheerless manner",
-            "in a dreadful manner"
-        ],
         "plumage": [
             "the light horny waterproof structure forming the external covering of birds"
         ],
-        "brook": [
-            "a natural stream of water smaller than a river (and often a tributary of a river"
+        "luscious": [
+            "having strong sexual appeal",
+            "extremely pleasing to the sense of taste"
         ],
-        "awaken": [
-            "cause to become awake or conscious",
-            "stop sleeping",
-            "make aware"
+        "stately": [
+            "impressive in appearance",
+            "of size and dignity suggestive of a statue",
+            "refined or imposing in manner or appearance; befitting a royal court"
         ]
     },
     "previously_featured": {

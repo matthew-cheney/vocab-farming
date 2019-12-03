@@ -2,21 +2,36 @@
     "chapter_number": 17,
     "chapter_title": "CHAPTER XVII",
     "featured_words": {
-        "sigh": [
-            "heave or utter a sigh; breathe deeply and heavily",
-            "utter with a sigh"
+        "hilarity": [
+            "great merriment"
         ],
-        "mourning": [
-            "state of sorrow over the death or departure of a loved one",
-            "the passionate and demonstrative activity of expressing grief"
-        ],
-        "Harpers": [
+        "harpers": [
             "someone who plays the harp"
+        ],
+        "absent": [
+            "not being in a specified place",
+            "nonexistent",
+            "lost in thought; showing preoccupation"
         ],
         "conscience": [
             "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
             "conformity to one's own sense of right conduct",
             "a feeling of shame when you do something immoral"
+        ],
+        "mourner": [
+            "a person who is feeling grief (as grieving over someone who has died"
+        ],
+        "envy": [
+            "feel envious towards; admire enviously",
+            "be envious of; set one's heart on"
+        ],
+        "persistently": [
+            "in a persistent manner",
+            "with persistence"
+        ],
+        "mope": [
+            "move around slowly and aimlessly",
+            "be apathetic, gloomy, or dazed"
         ],
         "tranquil": [
             "(of a body of water",
@@ -25,45 +40,47 @@
         "loiter": [
             "be about"
         ],
-        "mourner": [
-            "a person who is feeling grief (as grieving over someone who has died"
-        ],
-        "mope": [
-            "move around slowly and aimlessly",
-            "be apathetic, gloomy, or dazed"
-        ],
-        "persistently": [
-            "in a persistent manner",
-            "with persistence"
-        ],
-        "hilarity": [
-            "great merriment"
-        ],
-        "envy": [
-            "feel envious towards; admire enviously",
-            "be envious of; set one's heart on"
-        ],
-        "kiss": [
-            "the act of caressing with the lips (or an instance thereof",
-            "a cookie made of egg whites and sugar",
-            "any of several bite-sized candies",
-            "a light glancing touch"
-        ],
-        "absent": [
-            "not being in a specified place",
-            "nonexistent",
-            "lost in thought; showing preoccupation"
+        "villager": [
+            "one who has lived in a village most of their life"
         ],
         "ordinarily": [
             "under normal conditions"
         ],
-        "villager": [
-            "one who has lived in a village most of their life"
+        "sigh": [
+            "heave or utter a sigh; breathe deeply and heavily",
+            "utter with a sigh"
+        ],
+        "deserted": [
+            "forsaken by owner or inhabitants"
+        ],
+        "mourning": [
+            "state of sorrow over the death or departure of a loved one",
+            "the passionate and demonstrative activity of expressing grief"
         ]
     },
     "dictionary_words": {
-        "deserted": [
-            "forsaken by owner or inhabitants"
+        "soliloquize": [
+            "talk to oneself"
+        ],
+        "melancholy": [
+            "characterized by or causing or expressing sadness",
+            "grave or even gloomy in character"
+        ],
+        "reverent": [
+            "feeling or showing profound respect or veneration",
+            "showing great reverence for god"
+        ],
+        "sob": [
+            "a dyspneic condition",
+            "insulting terms of address for people who are stupid or irritating or ridiculous",
+            "convulsive gasp made while weeping"
+        ],
+        "schoolhouse": [
+            "a building where young people receive education"
+        ],
+        "prophecy": [
+            "knowledge of the future (usually said to be obtained from a divine source",
+            "a prediction uttered under divine inspiration"
         ],
         "choke": [
             "breathe with great difficulty, as when experiencing a strong emotion",
@@ -81,54 +98,34 @@
             "reduce the air supply",
             "cause to retch or choke"
         ],
-        "trifle": [
-            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
-            "a detail that is considered insignificant",
-            "something of small importance"
-        ],
-        "like": [
-            "a similar kind",
-            "a kind of person"
+        "andiron": [
+            "metal supports for logs in a fireplace"
         ],
         "presently": [
             "in the near future",
             "at this time or period; now"
         ],
-        "schoolhouse": [
-            "a building where young people receive education"
+        "gape": [
+            "look with amazement; look stupidly",
+            "be wide open"
         ],
-        "playmate": [
-            "a companion at play"
+        "tamper": [
+            "play around with or alter or falsify, usually secretively or dishonestly",
+            "intrude in other people's affairs or business; interfere unwantedly"
         ],
-        "reverent": [
-            "feeling or showing profound respect or veneration",
-            "showing great reverence for god"
+        "dismal": [
+            "causing dejection"
         ],
-        "comfort": [
-            "give moral or emotional strength to",
-            "lessen pain or discomfort; alleviate"
-        ],
-        "sob": [
-            "a dyspneic condition",
-            "insulting terms of address for people who are stupid or irritating or ridiculous",
-            "convulsive gasp made while weeping"
+        "trifle": [
+            "a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate",
+            "a detail that is considered insignificant",
+            "something of small importance"
         ],
         "pale": [
             "turn pale, as if in fear"
         ],
-        "melancholy": [
-            "characterized by or causing or expressing sadness",
-            "grave or even gloomy in character"
-        ],
-        "andiron": [
-            "metal supports for logs in a fireplace"
-        ],
-        "prophecy": [
-            "knowledge of the future (usually said to be obtained from a divine source",
-            "a prediction uttered under divine inspiration"
-        ],
-        "soliloquize": [
-            "talk to oneself"
+        "playmate": [
+            "a companion at play"
         ]
     },
     "previously_featured": {
@@ -142,10 +139,6 @@
         ],
         "schoolhouse": [
             "a building where young people receive education"
-        ],
-        "comfort": [
-            "give moral or emotional strength to",
-            "lessen pain or discomfort; alleviate"
         ],
         "presently": [
             "in the near future",
@@ -205,10 +198,6 @@
         "sermon": [
             "an address of a religious nature (usually delivered during a church service",
             "a moralistic rebuke"
-        ],
-        "somebody": [
-            "a human being"
-        ],
-        "shall": "no translation found"
+        ]
     }
 }

@@ -37,6 +37,7 @@
 37,also,r,A1
 38,one,m,A1
 39,who,d,A1
+39,who,w,A1
 40,time,n,A1
 41,other,j,A1
 42,take,v,A1
@@ -4085,6 +4086,7 @@
 4085,cupboard,n,B2
 4086,soup,n,B2
 4087,backwards,r,B2
+4087,backward,r,B2
 4088,balloon,n,B2
 4089,cook,n,B2
 4090,lamb,n,B2

@@ -2,30 +2,6 @@
     "chapter_number": 35,
     "chapter_title": "CHAPTER XXXV",
     "featured_words": {
-        "initiation": [
-            "a formal entry into an organization or position or office",
-            "the act of starting something for the first time; introducing something new",
-            "wisdom as evidenced by the possession of knowledge",
-            "an act that sets in motion some course of events"
-        ],
-        "satisfied": [
-            "filled with satisfaction",
-            "allayed"
-        ],
-        "widow": [
-            "a woman whose husband is dead especially one who has not remarried"
-        ],
-        "widder": "no translation found",
-        "sweat": [
-            "salty fluid secreted by sweat glands",
-            "agitation resulting from active worry",
-            "condensation of moisture on a cold surface",
-            "use of physical or mental energy; hard work"
-        ],
-        "plank": [
-            "a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
-            "an endorsed policy in the platform of a political party"
-        ],
         "clothe": [
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
@@ -36,69 +12,91 @@
             "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
             "a ship that is manned by pirates"
         ],
+        "sweat": [
+            "salty fluid secreted by sweat glands",
+            "agitation resulting from active worry",
+            "condensation of moisture on a cold surface",
+            "use of physical or mental energy; hard work"
+        ],
         "windfall": [
             "fruit that has fallen from the tree",
             "a sudden happening that brings good fortune (as a sudden opportunity to make money"
+        ],
+        "git": [
+            "a person who is deemed to be despicable or contemptible"
         ],
         "hogshead": [
             "a British unit of capacity for alcoholic beverages",
             "a large cask especially one holding 63 gals"
         ],
-        "git": [
-            "a person who is deemed to be despicable or contemptible"
+        "widder": "no translation found",
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
         ],
-        "robber": [
-            "a thief who steals from someone by threatening violence"
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
         ],
-        "everybody": "no translation found",
+        "initiation": [
+            "a formal entry into an organization or position or office",
+            "the act of starting something for the first time; introducing something new",
+            "wisdom as evidenced by the possession of knowledge",
+            "an act that sets in motion some course of events"
+        ],
         "gloat": [
             "dwell on with satisfaction",
             "gaze at or think about something with great self-satisfaction, gratification, or joy"
-        ]
-    },
-    "dictionary_words": {
-        "dissect": [
-            "cut open or cut apart",
-            "make a mathematical, chemical, or grammatical analysis of; break down into components or essential features"
         ],
-        "ransack": [
-            "steal goods; take as spoils",
-            "search thoroughly"
+        "plank": [
+            "a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
+            "an endorsed policy in the platform of a political party"
         ],
-        "unhealthy": [
-            "not in or exhibiting good health in body or mind",
-            "detrimental to health",
-            "not conducive to good health"
-        ],
-        "treasure": [
-            "hold dear",
-            "be fond of; be attached to"
-        ],
-        "court": [
-            "make amorous advances towards",
-            "seek someone's favor",
-            "engage in social activities leading to marriage"
+        "robber": [
+            "a thief who steals from someone by threatening violence"
         ],
         "glorify": [
             "praise, glorify, or honor",
             "bestow glory upon",
             "elevate or idealize, in allusion to Christ's transfiguration",
             "cause to seem more splendid"
+        ]
+    },
+    "dictionary_words": {
+        "conspicuous": [
+            "obvious to the eye or mind",
+            "without any attempt at concealment; completely obvious"
         ],
-        "grave": [
-            "dignified and somber in manner or character and committed to keeping promises",
-            "causing fear or anxiety by threatening great harm",
-            "of great gravity or crucial import; requiring serious thought"
+        "originality": [
+            "the ability to think and act independently",
+            "the quality of being new and original (not derived from something else"
         ],
-        "totter": [
-            "move without being stable, as if threatening to fall",
-            "walk unsteadily",
-            "move unsteadily, with a rocking motion"
+        "dissect": [
+            "cut open or cut apart",
+            "make a mathematical, chemical, or grammatical analysis of; break down into components or essential features"
+        ],
+        "neighboring": [
+            "live or be located as a neighbor",
+            "be located near or adjacent to"
         ],
         "haunt": [
             "follow stealthily or recur constantly and spontaneously to",
             "haunt like a ghost; pursue",
             "be a regular or frequent visitor to a certain place"
+        ],
+        "biographical": [
+            "of or relating to or being biography"
+        ],
+        "saying": [
+            "a word or phrase that particular people use in particular situations"
+        ],
+        "cent": [
+            "a fractional monetary unit of several countries",
+            "a coin worth one-hundredth of the value of the basic unit"
+        ],
+        "totter": [
+            "move without being stable, as if threatening to fall",
+            "walk unsteadily",
+            "move unsteadily, with a rocking motion"
         ],
         "rake": [
             "move through with or as if with a rake",
@@ -108,29 +106,31 @@
             "gather with a rake",
             "scrape gently"
         ],
-        "conspicuous": [
-            "obvious to the eye or mind",
-            "without any attempt at concealment; completely obvious"
+        "unhealthy": [
+            "not in or exhibiting good health in body or mind",
+            "detrimental to health",
+            "not conducive to good health"
         ],
-        "saying": [
-            "a word or phrase that particular people use in particular situations"
+        "ransack": [
+            "steal goods; take as spoils",
+            "search thoroughly"
         ],
-        "evidently": [
-            "unmistakably (`plain' is often used informally for `plainly'"
+        "prodigious": [
+            "so great in size or force or extent as to elicit awe",
+            "of momentous or ominous significance",
+            "far beyond what is usual in magnitude or degree"
         ],
         "unromantic": [
             "neither expressive of nor exciting sexual love or romance"
         ],
-        "neighboring": [
-            "live or be located as a neighbor",
-            "be located near or adjacent to"
+        "evidently": [
+            "unmistakably (`plain' is often used informally for `plainly'"
         ]
     },
     "previously_featured": {
         "widow": [
             "a woman whose husband is dead especially one who has not remarried"
         ],
-        "everybody": "no translation found",
         "robber": [
             "a thief who steals from someone by threatening violence"
         ],
@@ -147,10 +147,9 @@
             "copy illegally; of published material",
             "take arbitrarily or by force"
         ],
-        "grave": [
-            "dignified and somber in manner or character and committed to keeping promises",
-            "causing fear or anxiety by threatening great harm",
-            "of great gravity or crucial import; requiring serious thought"
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
         ],
         "saying": [
             "a word or phrase that particular people use in particular situations"
@@ -202,13 +201,21 @@
         "awhile": [
             "for a short time"
         ],
-        "anybody": "no translation found",
+        "stove": [
+            "a kitchen appliance used for cooking food",
+            "any heating apparatus"
+        ],
         "coffin": [
             "box in which a corpse is buried or cremated"
         ],
         "rot": [
             "break down",
             "become physically weaker"
+        ],
+        "reveal": [
+            "make visible",
+            "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+            "disclose directly or through prophets"
         ]
     }
 }

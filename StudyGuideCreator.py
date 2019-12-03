@@ -7,7 +7,7 @@ class StudyGuideCreator:
         self.translator = Translator(language_code=language_code)
 
     def close_creator(self):
-        self.translator.write_local_dictionary()
+        self.translator._write_local_dictionary()
 
     def create_study_guides(self, chapters, directory):
         study_guides = list()
@@ -18,9 +18,9 @@ class StudyGuideCreator:
 
     def _chapter_to_json_dict(self, chapter):
         json_dict = dict()
-        words_with_definitions = {x[0]: self._get_translation(x) for x in chapter.featured_words}
-        dict_with_definitions = {x[0]: self._get_translation(x) for x in chapter.dictionary_words}
-        previous_chapter_words = {x[0]: self._get_translation(x) for x in list(chapter.featured_in_previous_chapters.keys())}
+        words_with_definitions = {f'{x[0]} ({x[1]})': self._get_translation(x) for x in chapter.featured_words}
+        dict_with_definitions = {f'{x[0]} ({x[1]})': self._get_translation(x) for x in chapter.dictionary_words}
+        previous_chapter_words = {f'{x[0]} ({x[1]})': self._get_translation(x) for x in list(chapter.featured_in_previous_chapters.keys())}
         json_dict['chapter_number'] = chapter.number
         json_dict['chapter_title'] = chapter.title
         json_dict['featured_words'] = words_with_definitions

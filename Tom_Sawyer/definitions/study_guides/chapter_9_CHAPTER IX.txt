@@ -2,8 +2,13 @@
     "chapter_number": 9,
     "chapter_title": "CHAPTER IX",
     "featured_words": {
-        "whisper": [
-            "speak softly; in a low voice"
+        "graveyard": [
+            "a tract of land used for burials"
+        ],
+        "howl": [
+            "a long loud emotional utterance",
+            "the long plaintive cry of a hound or a wolf",
+            "a loud sustained noise resembling the cry of a hound"
         ],
         "later": [
             "later than usual or than expected",
@@ -14,17 +19,28 @@
             "at some eventual time in the future",
             "comparative of the adverb `late'"
         ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "coffin": [
-            "box in which a corpse is buried or cremated"
-        ],
         "gloom": [
             "a state of partial or total darkness",
             "a feeling of melancholy apprehension",
             "an atmosphere of depression and melancholy"
+        ],
+        "fashioned": [
+            "planned and made or fashioned artistically"
+        ],
+        "whisper": [
+            "speaking softly without vibration of the vocal cords",
+            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
+        ],
+        "coffin": [
+            "box in which a corpse is buried or cremated"
+        ],
+        "muffle": [
+            "suppress in order to conceal or hide",
+            "deaden (a sound or noise"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
         ],
         "creep": [
             "move slowly; in the case of people or animals with the body near the ground",
@@ -32,61 +48,40 @@
             "grow or spread, often in such a way as to cover (a surface",
             "show submission or fear"
         ],
+        "scarcely": [
+            "only a very short time before",
+            "almost not"
+        ],
         "shudder": [
             "an almost pleasurable sensation of fright",
             "an involuntary vibration (as if from illness or fear"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "graveyard": [
-            "a tract of land used for burials"
         ],
         "stillness": [
             "(poetic",
             "calmness without winds",
             "a state of no motion or movement"
         ],
-        "scarcely": [
-            "only a very short time before",
-            "almost not"
-        ],
-        "muffle": [
-            "suppress in order to conceal or hide",
-            "deaden (a sound or noise"
-        ],
         "elm": [
             "any of various trees of the genus Ulmus: important timber or shade trees",
             "hard tough wood of an elm tree; used for e.g. implements and furniture"
-        ],
-        "fashioned": [
-            "planned and made or fashioned artistically"
-        ],
-        "howl": [
-            "a long loud emotional utterance",
-            "the long plaintive cry of a hound or a wolf",
-            "a loud sustained noise resembling the cry of a hound"
         ]
     },
     "dictionary_words": {
-        "snatch": [
-            "to grasp hastily or eagerly",
-            "to make grasping motions",
-            "take away to an undisclosed location against their will and usually in order to extract a ransom"
-        ],
-        "headboard": [
-            "a vertical board or panel forming the head of a bedstead"
+        "despair": [
+            "a state in which all hope is lost or absent",
+            "the feeling that everything is wrong and nothing will turn out well"
         ],
         "spade": [
             "a playing card in the major suit that has one or more black figures on it",
             "a sturdy hand shovel that can be pushed into the earth with the foot"
         ],
-        "afeard": [
-            "a pronunciation of afraid"
+        "restless": [
+            "worried and uneasy",
+            "ceaselessly in motion",
+            "lacking or not affording physical or mental rest"
+        ],
+        "headboard": [
+            "a vertical board or panel forming the head of a bedstead"
         ],
         "shovel": [
             "a hand tool for lifting loose material; consists of a curved container or scoop and a handle",
@@ -94,41 +89,40 @@
             "a fire iron consisting of a small shovel used to scoop coals or ashes in a fireplace",
             "a machine for excavating"
         ],
-        "like": [
-            "a similar kind",
-            "a kind of person"
+        "snatch": [
+            "to grasp hastily or eagerly",
+            "to make grasping motions",
+            "take away to an undisclosed location against their will and usually in order to extract a ransom"
+        ],
+        "weepon": "no translation found",
+        "impatience": [
+            "a lack of patience; irritation with anything that causes delay",
+            "a restless desire for change and excitement",
+            "a dislike of anything that causes delay"
+        ],
+        "daylight": [
+            "the time after sunrise and before sunset while it is light outside",
+            "light during the daytime"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
         ],
         "reel": [
             "walk as if unable to control one's movements",
             "revolve quickly and repeatedly around one's own axis",
             "wind onto or off a reel"
         ],
-        "whisper": [
-            "speaking softly without vibration of the vocal cords",
-            "a light noise, like the noise of silk clothing or leaves blowing in the wind"
-        ],
-        "pause": [
-            "a time interval during which there is a temporary cessation of something",
-            "temporary inactivity"
-        ],
+        "wisht": "no translation found",
         "corpse": [
             "the dead body of a human being"
         ],
-        "weepon": "no translation found",
+        "afeard": [
+            "a pronunciation of afraid"
+        ],
         "lantern": [
             "light in a transparent protective case"
-        ],
-        "restless": [
-            "worried and uneasy",
-            "ceaselessly in motion",
-            "lacking or not affording physical or mental rest"
-        ],
-        "impatience": [
-            "a lack of patience; irritation with anything that causes delay",
-            "a restless desire for change and excitement",
-            "a dislike of anything that causes delay"
-        ],
-        "wisht": "no translation found"
+        ]
     },
     "previously_featured": {
         "whisper": [
@@ -138,13 +132,6 @@
             "in the near future",
             "at this time or period; now"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "pause": [
             "a time interval during which there is a temporary cessation of something",
             "temporary inactivity"
@@ -154,6 +141,11 @@
             "to make grasping motions",
             "take away to an undisclosed location against their will and usually in order to extract a ransom"
         ],
+        "restless": [
+            "worried and uneasy",
+            "ceaselessly in motion",
+            "lacking or not affording physical or mental rest"
+        ],
         "toss": [
             "throw or toss with a light motion",
             "lightly throw to see which side comes up",
@@ -162,20 +154,15 @@
             "throw or cast away",
             "agitate"
         ],
+        "agony": [
+            "intense feelings of suffering; acute mental or physical pain",
+            "a state of acute pain"
+        ],
         "dressed": [
             "dressed or clothed especially in fine attire; often used in combination",
             "treated with medications and protective covering",
             "(of lumber or stone",
             "dressed in fancy or formal clothing"
-        ],
-        "half": [
-            "one of two equal parts of a divisible whole",
-            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
-        ],
-        "everybody": "no translation found",
-        "instant": [
-            "a very short time (as the time it takes the eye to blink or the heart to beat",
-            "a particular point in time"
         ],
         "spectacle": [
             "something or someone seen (especially a notable or unusual sight",

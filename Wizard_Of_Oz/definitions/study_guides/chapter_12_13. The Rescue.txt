@@ -2,39 +2,9 @@
     "chapter_number": 12,
     "chapter_title": "13. The Rescue",
     "featured_words": {
-        "tinsmith": [
-            "someone who makes or repairs tinware"
-        ],
-        "blade": [
-            "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
-            "a dashing young man",
-            "something long and thin resembling a blade of grass",
-            "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
-            "a cut of beef from the shoulder blade",
-            "a broad flat body part (as of the shoulder or tongue",
-            "the part of the skate that slides on the ice",
-            "flat surface that rotates and pushes against air or water",
-            "the flat part of a tool or weapon that (usually"
-        ],
-        "straighten": [
-            "straighten up or out; make straight",
-            "make straight",
-            "get up from a sitting or slouching position",
-            "put (things or places",
-            "straighten by unrolling",
-            "make straight or straighter"
-        ],
         "axe": [
             "an edge tool with a heavy bladed head mounted across a handle"
         ],
-        "feasting": [
-            "eating an elaborate meal (often accompanied by entertainment"
-        ],
-        "handle": [
-            "the appendage to an object that is designed to be held in order to use or move it"
-        ],
-        "Winkies": "no translation found",
-        "shall": "no translation found",
         "anxiously": [
             "with anxiety or apprehension"
         ],
@@ -48,14 +18,17 @@
             "the state of being under the control of another person",
             "sexual practice that involves physically restraining (by cords or handcuffs"
         ],
+        "rejoicing": [
+            "a feeling of great happiness",
+            "the utterance of sounds expressing great joy"
+        ],
+        "feasting": [
+            "eating an elaborate meal (often accompanied by entertainment"
+        ],
         "rust": [
             "become destroyed by water, air, or a corrosive such as an acid",
             "cause to deteriorate due to the action of water, air, or an acid",
             "become coated with oxide"
-        ],
-        "rejoicing": [
-            "a feeling of great happiness",
-            "the utterance of sounds expressing great joy"
         ],
         "unlock": [
             "open the lock of",
@@ -66,26 +39,31 @@
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
             "cover as if with clothing"
-        ]
-    },
-    "dictionary_words": {
-        "tenderly": [
-            "with tenderness; in a tender manner"
         ],
-        "inquire": [
-            "address a question to and expect an answer from",
-            "have a wish or desire to know something",
-            "conduct an inquiry or investigation of"
+        "straighten": [
+            "straighten up or out; make straight",
+            "make straight",
+            "get up from a sitting or slouching position",
+            "put (things or places",
+            "straighten by unrolling",
+            "make straight or straighter"
         ],
-        "bent": [
-            "fixed in your purpose",
-            "used of the back and knees; stooped",
-            "or bended",
-            "of metal e.g."
+        "Winkies": "no translation found",
+        "batter": [
+            "strike against forcefully",
+            "strike violently and repeatedly",
+            "make a dent or impression in"
         ],
-        "plight": [
-            "a situation from which extrication is difficult especially an unpleasant or trying one",
-            "a solemn pledge of fidelity"
+        "blade": [
+            "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
+            "a dashing young man",
+            "something long and thin resembling a blade of grass",
+            "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+            "a cut of beef from the shoulder blade",
+            "a broad flat body part (as of the shoulder or tongue",
+            "the part of the skate that slides on the ice",
+            "flat surface that rotates and pushes against air or water",
+            "the flat part of a tool or weapon that (usually"
         ],
         "rocky": [
             "abounding in rocks or stones",
@@ -93,13 +71,24 @@
             "liable to rock",
             "full of hardship or trials"
         ],
-        "polishing": [
-            "the work of making something smooth and shiny by rubbing or waxing it"
+        "tinsmith": [
+            "someone who makes or repairs tinware"
+        ]
+    },
+    "dictionary_words": {
+        "tenderly": [
+            "with tenderness; in a tender manner"
         ],
-        "dent": [
-            "an appreciable consequence (especially a lessening",
-            "a depression scratched or carved into a surface",
-            "an impression in a surface (as made by a blow"
+        "Monkeys": [
+            "any of various long-tailed primates (excluding the prosimians",
+            "one who is playfully mischievous"
+        ],
+        "soldering": [
+            "fastening firmly together"
+        ],
+        "twisting": [
+            "the act of distorting something so it seems to mean something it was not intended to mean",
+            "the act of rotating rapidly"
         ],
         "sober": [
             "not affected by a chemical substance (especially alcohol",
@@ -111,41 +100,48 @@
             "beat with or as if with a hammer",
             "create by hammering"
         ],
-        "batter": [
-            "strike against forcefully",
-            "strike violently and repeatedly",
-            "make a dent or impression in"
+        "inquire": [
+            "address a question to and expect an answer from",
+            "have a wish or desire to know something",
+            "conduct an inquiry or investigation of"
+        ],
+        "plight": [
+            "a situation from which extrication is difficult especially an unpleasant or trying one",
+            "a solemn pledge of fidelity"
+        ],
+        "bent": [
+            "fixed in your purpose",
+            "used of the back and knees; stooped",
+            "or bended",
+            "of metal e.g."
+        ],
+        "courtyard": [
+            "an area wholly or partly surrounded by walls or buildings"
         ],
         "solder": [
             "join or fuse with solder"
         ],
-        "pound": [
-            "hit hard with the hand, fist, or some heavy instrument",
-            "strike or drive against with a heavy impact",
-            "move heavily or clumsily",
-            "move rhythmically",
-            "partition off into compartments",
-            "shut up or confine in any enclosure or within any bounds or limits",
-            "place or shut up in a pound",
-            "break down and crush by beating, as with a pestle"
+        "vain": [
+            "characteristic of false pride; having an exaggerated sense of self-importance",
+            "unproductive of success"
         ],
-        "plain": [
-            "extensive tract of level open land",
-            "a basic knitting stitch made by putting the needle through the front of the stitch from the lefthand side"
+        "weep": [
+            "shed tears because of sadness, rage, or pain"
         ],
-        "soldering": [
-            "fastening firmly together"
+        "polishing": [
+            "the work of making something smooth and shiny by rubbing or waxing it"
         ],
-        "twisting": [
-            "the act of distorting something so it seems to mean something it was not intended to mean",
-            "the act of rotating rapidly"
+        "dent": [
+            "an appreciable consequence (especially a lessening",
+            "a depression scratched or carved into a surface",
+            "an impression in a surface (as made by a blow"
         ]
     },
     "previously_featured": {
+        "Winkies": "no translation found",
         "tinsmith": [
             "someone who makes or repairs tinware"
         ],
-        "shall": "no translation found",
         "clothe": [
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
@@ -154,10 +150,24 @@
         "axe": [
             "an edge tool with a heavy bladed head mounted across a handle"
         ],
+        "blade": [
+            "especially a leaf of grass or the broad portion of a leaf as distinct from the petiole",
+            "a dashing young man",
+            "something long and thin resembling a blade of grass",
+            "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+            "a cut of beef from the shoulder blade",
+            "a broad flat body part (as of the shoulder or tongue",
+            "the part of the skate that slides on the ice",
+            "flat surface that rotates and pushes against air or water",
+            "the flat part of a tool or weapon that (usually"
+        ],
         "rust": [
             "become destroyed by water, air, or a corrosive such as an acid",
             "cause to deteriorate due to the action of water, air, or an acid",
             "become coated with oxide"
+        ],
+        "anxiously": [
+            "with anxiety or apprehension"
         ],
         "bondage": [
             "the state of being under the control of a force or influence or abstract power",
@@ -173,9 +183,9 @@
             "any of various long-tailed primates (excluding the prosimians",
             "one who is playfully mischievous"
         ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
+        "thoughtfully": [
+            "in a thoughtful manner",
+            "showing consideration and thoughtfulness"
         ],
         "scarecrow": [
             "an effigy in the shape of a man to frighten birds away from seeds"

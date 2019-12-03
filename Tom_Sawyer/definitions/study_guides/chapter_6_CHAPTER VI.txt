@@ -2,20 +2,8 @@
     "chapter_number": 6,
     "chapter_title": "CHAPTER VI",
     "featured_words": {
-        "whisper": [
-            "speak softly; in a low voice"
-        ],
-        "tick": [
-            "a metallic tapping sound",
-            "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
-            "a mark indicating that something has been noted or completed etc.",
-            "a light mattress"
-        ],
-        "slate": [
-            "(formerly",
-            "thin layers of rock used for roofing",
-            "a fine-grained metamorphic rock that can be split into thin layers",
-            "a list of candidates nominated by a political party to run for election to public offices"
+        "groan": [
+            "indicate pain, discomfort, or displeasure"
         ],
         "class": [
             "a collection of things sharing a common attribute",
@@ -31,32 +19,18 @@
             "material for starting a fire",
             "the courage to carry on"
         ],
-        "groan": [
-            "an utterance expressing pain or disapproval"
+        "unconscious": [
+            "not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead",
+            "without conscious volition",
+            "(followed by `of'"
         ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "witch": [
-            "cast a spell over someone or something; put a hex on someone or something"
-        ],
-        "wart": [
-            "any small rounded protuberance (as on certain plants or animals",
-            "an imperfection in someone or something that is suggestive of a wart (especially in smallness or unattractiveness",
-            "(pathology"
+        "whisper": [
+            "speak softly; in a low voice"
         ],
         "clothe": [
             "provide with clothes or put clothes on",
             "furnish with power or authority; of kings or emperors",
             "cover as if with clothing"
-        ],
-        "anybody": "no translation found",
-        "stump": [
-            "the base part of a tree that remains standing after the tree has been felled",
-            "the part of a limb or tooth that remains after the rest is removed",
-            "(cricket",
-            "a platform raised above the surrounding level to give prominence to the person on it"
         ],
         "thrust": [
             "push forcefully",
@@ -68,41 +42,26 @@
             "push upward",
             "place or put with great energy"
         ],
-        "nigger": "no translation found"
-    },
-    "dictionary_words": {
-        "silk": [
-            "a fabric made from the fine threads produced by certain insect larvae",
-            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+        "wart": [
+            "any small rounded protuberance (as on certain plants or animals",
+            "an imperfection in someone or something that is suggestive of a wart (especially in smallness or unattractiveness",
+            "(pathology"
         ],
-        "admirable": [
-            "deserving of the highest esteem or admiration",
-            "inspiring admiration or approval"
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
         ],
-        "trouser": [
-            "a garment (or part of a garment"
+        "stump": [
+            "the base part of a tree that remains standing after the tree has been felled",
+            "the part of a limb or tooth that remains after the rest is removed",
+            "(cricket",
+            "a platform raised above the surrounding level to give prominence to the person on it"
         ],
-        "becuz": "no translation found",
-        "barley": [
-            "a grain of barley",
-            "cultivated since prehistoric times; grown for forage and grain"
-        ],
-        "respectable": [
-            "characterized by socially or conventionally acceptable morals",
-            "deserving of esteem and respect",
-            "large in amount or extent or degree"
-        ],
-        "unconscious": [
-            "not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead",
-            "without conscious volition",
-            "(followed by `of'"
-        ],
-        "heel": [
-            "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
-            "the back part of the human foot",
-            "someone who is morally reprehensible",
-            "one of the crusty ends of a loaf of bread",
-            "the lower end of a ship's mast"
+        "slate": [
+            "(formerly",
+            "thin layers of rock used for roofing",
+            "a fine-grained metamorphic rock that can be split into thin layers",
+            "a list of candidates nominated by a political party to run for election to public offices"
         ],
         "succession": [
             "a following of one thing after another in time",
@@ -111,32 +70,72 @@
             "(ecology",
             "acquisition of property by descent or by will"
         ],
-        "bedpost": [
-            "any of 4 vertical supports at the corners of a bedstead"
+        "nigger": "no translation found",
+        "witch": [
+            "cast a spell over someone or something; put a hex on someone or something"
+        ]
+    },
+    "dictionary_words": {
+        "admirable": [
+            "deserving of the highest esteem or admiration",
+            "inspiring admiration or approval"
+        ],
+        "trouser": [
+            "a garment (or part of a garment"
+        ],
+        "silk": [
+            "a fabric made from the fine threads produced by certain insect larvae",
+            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+        ],
+        "barley": [
+            "a grain of barley",
+            "cultivated since prehistoric times; grown for forage and grain"
         ],
         "meow": [
             "cry like a cat"
         ],
+        "satisfied": [
+            "filled with satisfaction",
+            "allayed"
+        ],
+        "respectable": [
+            "characterized by socially or conventionally acceptable morals",
+            "deserving of esteem and respect",
+            "large in amount or extent or degree"
+        ],
+        "becuz": "no translation found",
         "outcast": [
             "a person who is rejected (from society or home"
-        ],
-        "chunk": [
-            "a compact mass",
-            "a substantial amount"
-        ],
-        "mortified": [
-            "suffering from tissue death",
-            "made to feel uncomfortable because of shame or wounded pride"
         ],
         "charm": [
             "attractiveness that interests or pleases or stimulates",
             "a verbal formula believed to have magical force",
             "something believed to bring good luck",
             "(physics"
+        ],
+        "scrawl": [
+            "write carelessly"
+        ],
+        "heel": [
+            "the bottom of a shoe or boot; the back part of a shoe or boot that touches the ground and provides elevation",
+            "the back part of the human foot",
+            "someone who is morally reprehensible",
+            "one of the crusty ends of a loaf of bread",
+            "the lower end of a ship's mast"
+        ],
+        "mortified": [
+            "suffering from tissue death",
+            "made to feel uncomfortable because of shame or wounded pride"
+        ],
+        "bedpost": [
+            "any of 4 vertical supports at the corners of a bedstead"
+        ],
+        "chunk": [
+            "a compact mass",
+            "a substantial amount"
         ]
     },
     "previously_featured": {
-        "anybody": "no translation found",
         "presently": [
             "in the near future",
             "at this time or period; now"
@@ -151,12 +150,14 @@
             "to make grasping motions",
             "take away to an undisclosed location against their will and usually in order to extract a ransom"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
+        "rearward": [
+            "direction toward the rear"
+        ],
+        "resume": [
+            "take up or begin anew",
+            "return to a previous location or condition",
+            "assume anew",
+            "give a summary (of"
         ],
         "heave": [
             "utter a sound, as with obvious effort",
@@ -167,9 +168,6 @@
             "breathe noisily, as when one is exhausted",
             "bend out of shape, as under pressure or from heat",
             "make an unsuccessful effort to vomit; strain to vomit"
-        ],
-        "mighty": [
-            "(Southern regional intensive"
         ]
     }
 }

@@ -2,28 +2,6 @@
     "chapter_number": 14,
     "chapter_title": "CHAPTER XIV",
     "featured_words": {
-        "sandbar": [
-            "a bar of sand"
-        ],
-        "gratify": [
-            "make happy or satisfied",
-            "yield (to"
-        ],
-        "drownde": "no translation found",
-        "civilization": [
-            "a society in an advanced state of social development (e.g., with complex legal and political and religious organizations",
-            "the social process whereby societies achieve an advanced stage of development and organization",
-            "a particular society at a particular time and place",
-            "the quality of excellence in thought and manners and taste"
-        ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
-        "solemn": [
-            "dignified and somber in manner or character and committed to keeping promises",
-            "characterized by a firm and humorless belief in the validity of your opinions"
-        ],
         "pirate": [
             "someone who uses another person's words or ideas as if they were his own",
             "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
@@ -32,21 +10,11 @@
         "longing": [
             "prolonged unfulfilled desire or need"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "exclaim": [
-            "utter aloud; often with surprise, horror, or joy",
-            "state or announce"
-        ],
-        "leave": [
-            "the period of time during which you are absent from work or duty",
-            "permission to do something",
-            "the act of departing politely"
+        "civilization": [
+            "a society in an advanced state of social development (e.g., with complex legal and political and religious organizations",
+            "the social process whereby societies achieve an advanced stage of development and organization",
+            "a particular society at a particular time and place",
+            "the quality of excellence in thought and manners and taste"
         ],
         "dim": [
             "lacking in light; not bright or harsh",
@@ -58,17 +26,32 @@
         "ferryboat": [
             "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
         ],
-        "gray": [
-            "of an achromatic color of any lightness intermediate between the extremes of white and black",
-            "showing characteristics of age, especially having grey or white hair",
-            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
-            "intermediate in character or position"
+        "drownde": "no translation found",
+        "sandbar": [
+            "a bar of sand"
+        ],
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
         ],
         "astonish": [
             "affect with wonder"
-        ]
-    },
-    "dictionary_words": {
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "solemn": [
+            "dignified and somber in manner or character and committed to keeping promises",
+            "characterized by a firm and humorless belief in the validity of your opinions"
+        ],
+        "gratify": [
+            "make happy or satisfied",
+            "yield (to"
+        ],
         "boom": [
             "a deep prolonged loud noise",
             "a state of economic prosperity",
@@ -76,24 +59,34 @@
             "a pole carrying an overhead microphone projected over a film or tv set",
             "any of various more-or-less horizontal spars or poles used to extend the foot of a sail or for handling cargo or in mooring"
         ],
-        "ashe": [
-            "United States tennis player who was the first Black to win United States and English singles championships (1943-1993"
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ]
+    },
+    "dictionary_words": {
+        "pervade": [
+            "spread or diffuse through"
+        ],
+        "dewdrop": [
+            "a drop of dew"
+        ],
+        "beaded": [
+            "covered with beads of liquid"
         ],
         "obtrude": [
             "push to thrust outward",
             "thrust oneself in as if by force"
         ],
-        "calm": [
-            "steadiness of mind under stress",
-            "wind moving at less than 1 knot; 0 on the Beaufort scale"
+        "comprehend": [
+            "get the meaning of something",
+            "to become aware of through the senses",
+            "include in scope; include as part of something broader; have as one's sphere or territory"
         ],
-        "meditation": [
-            "continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature",
-            "(religion",
-            "usually on religious or philosophical subjects"
-        ],
-        "beaded": [
-            "covered with beads of liquid"
+        "whiten": [
+            "turn white"
         ],
         "cautiously": [
             "as if with kid gloves; with caution or prudence or tact",
@@ -104,28 +97,32 @@
             "cause friction",
             "scrape or rub as if to relieve itching"
         ],
-        "awake": [
-            "stop sleeping"
+        "multiplied": [
+            "greatly increased as by multiplication"
         ],
-        "skiff": [
-            "any of various small boats propelled by oars or by sails or by a motor"
+        "hammering": [
+            "the act of pounding (delivering repeated heavy blows"
         ],
-        "comprehend": [
-            "get the meaning of something",
-            "to become aware of through the senses",
-            "include in scope; include as part of something broader; have as one's sphere or territory"
+        "ashe": [
+            "United States tennis player who was the first Black to win United States and English singles championships (1943-1993"
         ],
-        "dewdrop": [
-            "a drop of dew"
-        ],
-        "anybody": "no translation found",
         "repose": [
             "freedom from activity (work or strain or responsibility",
             "the absence of mental stress or anxiety",
             "a disposition free from stress or emotion"
         ],
-        "pervade": [
-            "spread or diffuse through"
+        "manifest": [
+            "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+            "record in a ship's manifest",
+            "reveal its presence or make an appearance"
+        ],
+        "woodpecker": [
+            "bird with strong claws and a stiff tail adapted for climbing and a hard chisel-like bill for boring into wood for insects"
+        ],
+        "meditation": [
+            "continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature",
+            "(religion",
+            "usually on religious or philosophical subjects"
         ]
     },
     "previously_featured": {
@@ -133,19 +130,11 @@
             "in the near future",
             "at this time or period; now"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
         "pirate": [
             "someone who uses another person's words or ideas as if they were his own",
             "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
             "a ship that is manned by pirates"
         ],
-        "anybody": "no translation found",
         "marvel": [
             "something that causes feelings of wonder"
         ],
@@ -167,6 +156,12 @@
         "scarcely": [
             "only a very short time before",
             "almost not"
+        ],
+        "dense": [
+            "permitting little if any light to pass through because of denseness of matter",
+            "hard to pass through because of dense growth",
+            "having high relative density or specific gravity",
+            "slow to learn or understand; lacking intellectual acuity"
         ],
         "raft": [
             "a flat float (usually made of logs or planks",
@@ -197,15 +192,8 @@
             "suppress in order to conceal or hide",
             "deaden (a sound or noise"
         ],
-        "somebody": [
-            "a human being"
-        ],
         "incantation": [
             "a ritual recitation of words or sounds believed to have a magical effect"
-        ],
-        "instant": [
-            "a very short time (as the time it takes the eye to blink or the heart to beat",
-            "a particular point in time"
         ],
         "mourn": [
             "feel sadness",

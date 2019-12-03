@@ -2,118 +2,17 @@
     "chapter_number": 1,
     "chapter_title": "CHAPTER I",
     "featured_words": {
-        "instant": [
-            "a very short time (as the time it takes the eye to blink or the heart to beat",
-            "a particular point in time"
-        ],
-        "snatch": [
-            "to grasp hastily or eagerly",
-            "to make grasping motions",
-            "take away to an undisclosed location against their will and usually in order to extract a ransom"
-        ],
-        "dare": [
-            "a challenge to do something dangerous or foolhardy"
-        ],
-        "fool": [
-            "make a fool or dupe of",
-            "spend frivolously and unwisely",
-            "fool or hoax",
-            "indulge in horseplay"
-        ],
-        "astronomer": [
-            "a physicist who studies astronomy"
-        ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
         "marvel": [
             "something that causes feelings of wonder"
         ],
-        "pause": [
-            "a time interval during which there is a temporary cessation of something",
-            "temporary inactivity"
+        "seldom": [
+            "not often"
         ],
-        "clothe": [
-            "provide with clothes or put clothes on",
-            "furnish with power or authority; of kings or emperors",
-            "cover as if with clothing"
-        ],
-        "saying": [
-            "a word or phrase that particular people use in particular situations"
-        ],
-        "hookey": "no translation found",
-        "anybody": "no translation found",
         "dressed": [
             "dressed or clothed especially in fine attire; often used in combination",
             "treated with medications and protective covering",
             "(of lumber or stone",
             "dressed in fancy or formal clothing"
-        ],
-        "punch": [
-            "deliver a quick blow to",
-            "drive forcibly as if by a punch",
-            "make a hole into or between, as for ease of separation"
-        ],
-        "mighty": [
-            "(Southern regional intensive"
-        ]
-    },
-    "dictionary_words": {
-        "fiercely": [
-            "in a physically fierce manner",
-            "in an emotionally fierce manner"
-        ],
-        "slack": [
-            "dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve",
-            "a noticeable deterioration in performance or quality",
-            "a stretch of water without current or movement",
-            "a soft wet area of low-lying land that sinks underfoot",
-            "the quality of being loose (not taut",
-            "a cord or rope or cable that is hanging loosely"
-        ],
-        "spectacle": [
-            "something or someone seen (especially a notable or unusual sight",
-            "an elaborate and remarkable display on a lavish scale",
-            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
-        ],
-        "resurrect": [
-            "cause to become alive again",
-            "restore from a depressed, inactive, or unused state",
-            "return from the dead"
-        ],
-        "punctuate": [
-            "insert punctuation marks into",
-            "to stress, single out as important",
-            "interrupt periodically"
-        ],
-        "seldom": [
-            "not often"
-        ],
-        "vine": [
-            "a plant with a weak stem that derives support from climbing, twining, or creeping along a surface"
-        ],
-        "perplexed": [
-            "full of difficulty or confusion or bewilderment"
-        ],
-        "closet": [
-            "a small room (or recess",
-            "a toilet in Britain",
-            "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
-            "a small private room for study or prayer"
-        ],
-        "skin": [
-            "climb awkwardly, as if by scrambling",
-            "bruise, cut, or injure the skin or the surface of",
-            "remove the bark of a tree",
-            "strip the skin off"
-        ],
-        "hover": [
-            "be undecided about something; waver between conflicting positions or courses of action",
-            "move to and fro",
-            "hang in the air; fly or be suspended above",
-            "be suspended in the air, as if in defiance of gravity",
-            "hang over, as of something threatening, dark, or menacing"
         ],
         "better": [
             "comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
@@ -134,19 +33,128 @@
             "in financial comfort",
             "without unusual distress or resentment; with good humor"
         ],
-        "broom": [
-            "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
-            "any of various shrubs of the genera Cytisus or Genista or Spartium having long slender branches and racemes of yellow flowers",
-            "common Old World heath represented by many varieties; low evergreen grown widely in the northern hemisphere"
+        "snatch": [
+            "to grasp hastily or eagerly",
+            "to make grasping motions",
+            "take away to an undisclosed location against their will and usually in order to extract a ransom"
+        ],
+        "saying": [
+            "a word or phrase that particular people use in particular situations"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "astronomer": [
+            "a physicist who studies astronomy"
+        ],
+        "pause": [
+            "a time interval during which there is a temporary cessation of something",
+            "temporary inactivity"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "hookey": "no translation found",
+        "stove": [
+            "a kitchen appliance used for cooking food",
+            "any heating apparatus"
+        ],
+        "spectacle": [
+            "something or someone seen (especially a notable or unusual sight",
+            "an elaborate and remarkable display on a lavish scale",
+            "a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself"
+        ],
+        "perplexed": [
+            "full of difficulty or confusion or bewilderment"
+        ],
+        "punch": [
+            "deliver a quick blow to",
+            "drive forcibly as if by a punch",
+            "make a hole into or between, as for ease of separation"
+        ]
+    },
+    "dictionary_words": {
+        "fiercely": [
+            "in a physically fierce manner",
+            "in an emotionally fierce manner"
+        ],
+        "peril": [
+            "a source of danger; a possibility of incurring loss or misfortune",
+            "a state of danger involving risk",
+            "a venture undertaken without regard to possible loss or injury"
+        ],
+        "punctuate": [
+            "insert punctuation marks into",
+            "to stress, single out as important",
+            "interrupt periodically"
+        ],
+        "flee": [
+            "run away quickly"
+        ],
+        "scramble": [
+            "to move hurriedly",
+            "climb awkwardly, as if by scrambling",
+            "bring into random order",
+            "stir vigorously",
+            "make unintelligible"
+        ],
+        "vine": [
+            "a plant with a weak stem that derives support from climbing, twining, or creeping along a surface"
         ],
         "weed": [
             "any plant that crowds out cultivated plants",
             "a black band worn by a man (on the arm or hat",
             "street names for marijuana"
         ],
-        "stove": [
-            "a kitchen appliance used for cooking food",
-            "any heating apparatus"
+        "dander": [
+            "small scales from animal skins or hair or bird feathers that can cause allergic reactions in some people",
+            "a feeling of anger and animosity"
+        ],
+        "resurrect": [
+            "cause to become alive again",
+            "restore from a depressed, inactive, or unused state",
+            "return from the dead"
+        ],
+        "hover": [
+            "be undecided about something; waver between conflicting positions or courses of action",
+            "move to and fro",
+            "hang in the air; fly or be suspended above",
+            "be suspended in the air, as if in defiance of gravity",
+            "hang over, as of something threatening, dark, or menacing"
+        ],
+        "closet": [
+            "a small room (or recess",
+            "a toilet in Britain",
+            "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+            "a small private room for study or prayer"
+        ],
+        "slack": [
+            "dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve",
+            "a noticeable deterioration in performance or quality",
+            "a stretch of water without current or movement",
+            "a soft wet area of low-lying land that sinks underfoot",
+            "the quality of being loose (not taut",
+            "a cord or rope or cable that is hanging loosely"
+        ],
+        "whirl": [
+            "turn in a twisting or spinning motion",
+            "cause to spin",
+            "flow in a circular current, of liquids",
+            "revolve quickly and repeatedly around one's own axis",
+            "fly around"
+        ],
+        "broom": [
+            "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
+            "any of various shrubs of the genera Cytisus or Genista or Spartium having long slender branches and racemes of yellow flowers",
+            "common Old World heath represented by many varieties; low evergreen grown widely in the northern hemisphere"
+        ],
+        "torment": [
+            "torment emotionally or mentally",
+            "treat cruelly",
+            "subject to torture"
         ]
     },
     "previously_featured": {}

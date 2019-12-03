@@ -22,7 +22,7 @@ class Translator:
         }
         self._load_local_dictionary()
 
-    def write_local_dictionary(self):
+    def _write_local_dictionary(self):
         json_string = self._json_dict_to_string(self.local_dictionary)
         self._write_dict(json_string)
 
@@ -57,7 +57,7 @@ class Translator:
 
         translation = self._query_local_dictionary(self._tuple_to_string(tuple_in))
         if translation is None:
-            translation = self.query_api(source_word, source_pos)
+            translation = self._query_api(source_word, source_pos)
             self._add_to_local_dictionary(self._tuple_to_string(tuple_in), translation)
         return translation
 
@@ -77,25 +77,33 @@ class Translator:
             self.local_dictionary[tuple_string] = translation
             return True
 
-    def query_api(self, source_string, source_pos):
+    def _query_api(self, source_string, source_pos):
         # do the query here
         # PyDictionary is placeholder for Google Translation API
-        search_string = source_string
-        if source_pos == 'v':
-            search_string = 'to ' + search_string
-        print(f'searching for {source_string} : {source_pos}')
-        result = self.api_dictionary.translate(search_string, target_language=self.language_code)
-        # result = self.dictionary_holder.meaning(source_string)
-        print('found')
-        if result is None:
-            return 'no translation found'
-        if 'translatedText' not in result:
-            print('investigate this...')
-            return 'no translation found'
-        return result['translatedText']
+        if self.language_code == 'definitions':
+            print(f'getting definition for {source_string}')
+            result = self.dictionary_holder.meaning(source_string)
+            if isinstance(result, type(None)):
+                print(f'no translation for {source_string}\n\n')
+                return 'no translation found'
+            print('found')
+            if source_pos in self.pydictionary_codes:
+                result_pos = self.pydictionary_codes[source_pos]
+                if result_pos in result.keys():
+                    return result[result_pos]
+            return result[list(result.keys())[0]]
+        else:
+            search_string = source_string
+            if source_pos == 'v':
+                search_string = 'to ' + search_string
+            print(f'searching for {source_string} : {source_pos}')
+            result = self.api_dictionary.translate(search_string, target_language=self.language_code)
+            # result = self.dictionary_holder.meaning(source_string)
+            print('found')
+            if result is None:
+                return 'no translation found'
+            if 'translatedText' not in result:
+                print('investigate this...')
+                return 'no translation found'
+            return result['translatedText']
 
-        """if source_pos in self.pydictionary_codes:
-            result_pos = self.pydictionary_codes[source_pos]
-            if result_pos in result.keys():
-                return result[result_pos]
-        return result[list(result.keys())[0]]"""

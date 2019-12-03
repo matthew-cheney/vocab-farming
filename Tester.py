@@ -1,10 +1,13 @@
 import json
 import pickle
 from glob import glob
+import sys
+import os
 
 from BookProcessor import BookProcessor
 from Chapter import Chapter
 from StudyGuideCreator import StudyGuideCreator
+from DictionaryCreator import DictionaryCreator
 
 """
 Kelly word list
@@ -22,8 +25,8 @@ def process_book(directory):
     print("Processing book")
     bookProcessor = BookProcessor()
     bookProcessor.load_book(chapters)
-    chapters = bookProcessor.process_book(level='C2', words_per_chapter=15)
-    return chapters
+    chapters, all_words = bookProcessor.process_book(level='C2', words_per_chapter=15)
+    return chapters, all_words
 
 def pickle_chapters(chapters, directory):
     print("Pickling chapters")
@@ -33,6 +36,12 @@ def unpickle_chapters(directory):
     print("Unpickling chapters")
     chapters = load_chapters(f'{directory}/chapter_words')
     return chapters
+
+def unpickle_dictionary(directory):
+    print("Unpickling dictionary")
+    with open(f'{directory}/dictionary_words_only.pkl', 'rb') as f:
+        all_words = pickle.load(f)
+    return all_words
 
 def create_study_guides(directory, language_code, chapters):
     print("Creating study guides")
@@ -85,12 +94,49 @@ def json_to_dict(json_string):
     return json.loads(json_string)
 
 
-if __name__ == '__main__':
-    directory = 'Wizard_Of_Oz'
-    language_code = 'es'
+def create_master_dictionary(all_words, language_code):
+    print('Creating master dictionary')
+    dictionaryCreator = DictionaryCreator()
+    all_words_dictionary = dictionaryCreator.create_dictionary(all_words, language_code)
+    return all_words_dictionary
 
-    # chapters = process_book(directory)
-    # pickle_chapters(chapters, directory)
+
+def write_master_dictionary(all_words_dictionary, directory, language_code):
+    json_string = dict_to_json(all_words_dictionary)
+    with open(f'{directory}/{language_code}/master_dictionary.txt', 'w') as f:
+        f.write(json_string)
+
+
+def dict_to_json(json_dict):
+    return json.dumps(json_dict, sort_keys=True, indent=4)
+
+def check_file_structure(directory, language_code):
+    
+
+if __name__ == '__main__':
+
+    if len(sys.argv) < 3:
+        print(f'USAGE: {sys.argv[0]} <directory> <language_code>')
+        exit(1)
+
+    directory = sys.argv[1]
+    language_code = sys.argv[2]
+
+    available_language_codes = ['definitions', 'ru', 'es']
+
+    if not language_code in available_language_codes:
+        print(f'{language_code} is not yet supported')
+        exit()
+
+    chapters, all_words = process_book(directory)
+    pickle_chapters(chapters, directory)
+    print("Pickling dictionary")
+    with open(f'{directory}/dictionary_words_only.pkl', 'wb') as f:
+        pickle.dump(all_words, f)
     chapters = unpickle_chapters(directory)
+    all_words = unpickle_dictionary(directory)
     create_study_guides(directory, language_code, chapters)
+    all_words_dictionary = create_master_dictionary(all_words, language_code)
+    write_master_dictionary(all_words_dictionary, directory, language_code)
+    print(f'{len(all_words_dictionary.keys())} items in dictionary')
     print("Complete")

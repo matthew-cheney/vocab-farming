@@ -2,10 +2,10 @@
     "chapter_number": 23,
     "chapter_title": "24. Home Again",
     "featured_words": {
-        "water": "\u043a \u0432\u043e\u0434\u0435",
-        "gravely": "\u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e",
-        "kiss": "\u043f\u043e\u0446\u0435\u043b\u0443\u0439"
+        "gravely (r)": "\u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e"
     },
     "dictionary_words": {},
-    "previously_featured": {}
+    "previously_featured": {
+        "gravely (r)": "\u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e"
+    }
 }

@@ -2,18 +2,6 @@
     "chapter_number": 19,
     "chapter_title": "20. The Dainty China Country",
     "featured_words": {
-        "traveler": [
-            "a person who changes location"
-        ],
-        "scarecrow": [
-            "an effigy in the shape of a man to frighten birds away from seeds"
-        ],
-        "milkmaid": [
-            "a woman who works in a dairy"
-        ],
-        "mantel": [
-            "shelf that projects from wall above fireplace"
-        ],
         "gown": [
             "a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions",
             "the members of a university as distinguished from the other residents of the town in which the university is located",
@@ -21,9 +9,26 @@
             "protective garment worn by surgeons during operations",
             "outerwear consisting of a long flowing garment used for official or ceremonial occasions"
         ],
-        "shall": "no translation found",
-        "course": [
-            "as might be expected"
+        "mantel": [
+            "shelf that projects from wall above fireplace"
+        ],
+        "clumsy": [
+            "lacking grace in movement or posture",
+            "not elegant or graceful in expression",
+            "difficult to handle or manage especially because of shape",
+            "showing lack of skill or aptitude"
+        ],
+        "clown": [
+            "a rude or vulgar fool",
+            "a person who amuses others by ridiculous behavior"
+        ],
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
+        ],
+        "traveler": [
+            "a person who changes location"
         ],
         "farther": [
             "to a considerable degree; very much",
@@ -34,15 +39,9 @@
             "to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense",
             "to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense"
         ],
-        "pail": [
-            "a roughly cylindrical vessel that is open at the top",
-            "the quantity contained in a pail"
-        ],
-        "clumsy": [
-            "lacking grace in movement or posture",
-            "not elegant or graceful in expression",
-            "difficult to handle or manage especially because of shape",
-            "showing lack of skill or aptitude"
+        "exclaim": [
+            "utter aloud; often with surprise, horror, or joy",
+            "state or announce"
         ],
         "curl": [
             "form a curl, curve, or kink",
@@ -51,31 +50,20 @@
             "twist or roll into coils or ringlets",
             "play the Scottish game of curling"
         ],
-        "clown": [
-            "a rude or vulgar fool",
-            "a person who amuses others by ridiculous behavior"
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
         ],
-        "exclaim": [
-            "utter aloud; often with surprise, horror, or joy",
-            "state or announce"
+        "platter": [
+            "a large shallow dish used for serving food",
+            "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove"
         ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
+        "milkmaid": [
+            "a woman who works in a dairy"
         ],
-        "clothe": [
-            "provide with clothes or put clothes on",
-            "furnish with power or authority; of kings or emperors",
-            "cover as if with clothing"
-        ]
-    },
-    "dictionary_words": {
-        "waist": [
-            "the narrowing of the body between the ribs and hips",
-            "the narrow part of the shoe connecting the heel and the wide part of the sole"
-        ],
-        "bodice": [
-            "part of a dress above the waist"
+        "shining": [
+            "marked by exceptional merit",
+            "made smooth and bright by or as if by rubbing; reflecting a sheen or glow",
+            "reflecting light"
         ],
         "color": [
             "a visual attribute of things that results from the light they emit or transmit or reflect",
@@ -87,53 +75,73 @@
             "the appearance of objects (or light sources",
             "or brightness"
         ],
+        "pail": [
+            "a roughly cylindrical vessel that is open at the top",
+            "the quantity contained in a pail"
+        ]
+    },
+    "dictionary_words": {
+        "brightly": [
+            "with brightness"
+        ],
+        "ermine": [
+            "the expensive white fur of the ermine",
+            "mustelid of northern hemisphere in its white winter coat"
+        ],
+        "shepherd": [
+            "a clergyman who watches over a group of people",
+            "a herder of sheep (on an open range"
+        ],
+        "shepherdess": [
+            "a woman shepherd"
+        ],
         "frock": [
             "a long, loose outer garment",
             "a habit worn by clerics",
             "a one-piece garment for a woman; has skirt and bodice"
         ],
+        "color": [
+            "add color to",
+            "affect as in thought or feeling",
+            "modify or bias",
+            "decorate with colors",
+            "give a deceptive explanation or excuse for",
+            "change color, often in an undesired manner"
+        ],
+        "buckle": [
+            "fastener that fastens together two ends of a belt or strap; often has loose prong",
+            "a shape distorted by twisting or folding"
+        ],
         "queer": [
             "offensive term for a homosexual man"
         ],
-        "shepherdess": [
-            "a woman shepherd"
+        "breech": [
+            "opening in the rear of the barrel of a gun where bullets can be loaded"
         ],
-        "brightly": [
-            "with brightness"
+        "princesse": "no translation found",
+        "waist": [
+            "the narrowing of the body between the ribs and hips",
+            "the narrow part of the shoe connecting the heel and the wide part of the sole"
         ],
-        "fence": [
-            "enclose with a fence",
-            "receive stolen goods",
-            "fight with fencing swords",
-            "surround with a wall in order to fortify",
-            "have an argument about something"
+        "jewel": [
+            "adorn or decorate with precious stones"
         ],
         "barn": [
             "an outlying farm building for storing grain or animal feed and housing farm animals",
             "(physics"
         ],
-        "princesse": "no translation found",
-        "shepherd": [
-            "a clergyman who watches over a group of people",
-            "a herder of sheep (on an open range"
+        "bodice": [
+            "part of a dress above the waist"
         ],
-        "purple": [
-            "a purple color or pigment",
-            "(in ancient Rome",
-            "(Roman Catholic Church"
-        ],
-        "platter": [
-            "a large shallow dish used for serving food",
-            "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove"
-        ],
-        "shining": [
-            "marked by exceptional merit",
-            "made smooth and bright by or as if by rubbing; reflecting a sheen or glow",
-            "reflecting light"
+        "stripe": [
+            "an adornment consisting of a strip of a contrasting color or material",
+            "a piece of braid, usually on the sleeve, indicating military rank or length of service",
+            "V-shaped sleeve badge indicating military rank and service",
+            "a kind or category",
+            "a narrow marking of a different color or texture from the background"
         ]
     },
     "previously_featured": {
-        "shall": "no translation found",
         "exclaim": [
             "utter aloud; often with surprise, horror, or joy",
             "state or announce"
@@ -158,12 +166,9 @@
         "scarecrow": [
             "an effigy in the shape of a man to frighten birds away from seeds"
         ],
-        "course": [
-            "as might be expected"
-        ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
+        "pail": [
+            "a roughly cylindrical vessel that is open at the top",
+            "the quantity contained in a pail"
         ],
         "color": [
             "a visual attribute of things that results from the light they emit or transmit or reflect",
@@ -183,16 +188,16 @@
             "a habit worn by clerics",
             "a one-piece garment for a woman; has skirt and bodice"
         ],
-        "near": [
-            "near in time or place or relationship",
-            "(of actions or states"
-        ],
         "mishap": [
             "an unpredictable outcome that is unfortunate",
             "an instance of misfortune"
         ],
-        "kind": [
-            "a category of things distinguished by some common characteristic or quality"
+        "nod": [
+            "express or signify by nodding",
+            "lower and raise the head, as to indicate assent or agreement or confirmation",
+            "let the head fall forward through drowsiness",
+            "sway gently back and forth, as in a nodding motion",
+            "be almost asleep"
         ],
         "foolish": [
             "devoid of good sense or judgment",
@@ -200,6 +205,9 @@
         ],
         "scamper": [
             "to move about or proceed hurriedly"
+        ],
+        "thankful": [
+            "feeling or showing gratitude"
         ]
     }
 }

@@ -2,29 +2,22 @@
     "chapter_number": 33,
     "chapter_title": "CHAPTER XXXIII",
     "featured_words": {
-        "candle": [
-            "stick of wax with a wick in the middle",
-            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
-        ],
-        "whiskey": [
-            "a liquor made from fermented mash of grain"
-        ],
-        "widow": [
-            "a woman whose husband is dead especially one who has not remarried"
-        ],
-        "orgy": [
-            "any act of immoderate indulgence",
-            "secret rite in the cults of ancient Greek or Roman deities involving singing and dancing and drinking and sexual activity",
-            "a wild gathering involving excessive drinking and promiscuity"
-        ],
-        "presently": [
-            "in the near future",
-            "at this time or period; now"
-        ],
         "twilight": [
             "the time of day immediately following sunset",
             "the diffused light from the sky when the sun is below the horizon but its rays are refracted by the atmosphere of the earth",
             "a condition of decline following successes"
+        ],
+        "reveal": [
+            "make visible",
+            "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+            "disclose directly or through prophets"
+        ],
+        "wagon": [
+            "any of various kinds of wheeled vehicles drawn by an animal or a tractor",
+            "van used by police to transport prisoners",
+            "a group of seven bright stars in the constellation Ursa Major",
+            "a child's four-wheeled toy cart sometimes used for coasting",
+            "a car that has a long body and rear door with space behind rear seat"
         ],
         "labor": [
             "a social class comprising those who do manual labor or work for wages",
@@ -35,38 +28,39 @@
             "the federal department responsible for promoting the working conditions of wage earners in the United States; created in 1913",
             "any piece of work that is undertaken or attempted"
         ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
+        "candle": [
+            "stick of wax with a wick in the middle",
+            "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
         ],
-        "skiff": [
-            "any of various small boats propelled by oars or by sails or by a motor"
+        "funeral": [
+            "a ceremony at which a dead person is buried or cremated"
+        ],
+        "orgy": [
+            "any act of immoderate indulgence",
+            "secret rite in the cults of ancient Greek or Roman deities involving singing and dancing and drinking and sexual activity",
+            "a wild gathering involving excessive drinking and promiscuity"
         ],
         "cavern": [
             "any large dark enclosed space",
             "a large cave or a large chamber in a cave"
         ],
-        "anybody": "no translation found",
-        "funeral": [
-            "a ceremony at which a dead person is buried or cremated"
-        ],
-        "wagon": [
-            "any of various kinds of wheeled vehicles drawn by an animal or a tractor",
-            "van used by police to transport prisoners",
-            "a group of seven bright stars in the constellation Ursa Major",
-            "a child's four-wheeled toy cart sometimes used for coasting",
-            "a car that has a long body and rear door with space behind rear seat"
-        ],
-        "everybody": "no translation found",
         "petition": [
             "a formal message requesting something that is submitted to an authority",
             "reverent petition to a deity"
-        ]
-    },
-    "dictionary_words": {
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
+        "whiskey": [
+            "a liquor made from fermented mash of grain"
+        ],
+        "presently": [
+            "in the near future",
+            "at this time or period; now"
+        ],
+        "widow": [
+            "a woman whose husband is dead especially one who has not remarried"
+        ],
         "hack": [
             "cut with a hacking tool",
             "be able to manage or manage successfully",
@@ -77,31 +71,15 @@
             "significantly cut up a manuscript",
             "cough spasmodically"
         ],
-        "kite": [
-            "a bank check that has been fraudulently altered to increase its face value",
-            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
-            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
-            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
-        ],
-        "reveal": [
-            "make visible",
-            "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
-            "disclose directly or through prophets"
-        ],
-        "clump": [
-            "a grouping of a number of similar things",
-            "a compact mass",
-            "a heavy dull sound (as made by impact of heavy objects"
-        ],
-        "sumach": [
-            "a shrub or tree of the genus Rhus (usually limited to the non-poisonous members of the genus"
-        ],
-        "rob": [
-            "take something away by force or without the consent of the owner",
-            "rip off; ask an unreasonable price"
-        ],
-        "tavern": [
-            "a building with a bar that is licensed to sell alcoholic drinks"
+        "scoop": [
+            "take out or up with or as if with a scoop",
+            "get the better of"
+        ]
+    },
+    "dictionary_words": {
+        "grease": [
+            "a thick fatty oil (especially one used to lubricate machinery",
+            "the state of being covered with unclean things"
         ],
         "blaze": [
             "shine brightly and intensively",
@@ -110,35 +88,56 @@
             "move rapidly and as if blazing",
             "indicate by marking trees with blazes"
         ],
+        "kite": [
+            "a bank check that has been fraudulently altered to increase its face value",
+            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+        ],
+        "skiff": [
+            "any of various small boats propelled by oars or by sails or by a motor"
+        ],
+        "ransom": [
+            "money demanded for the return of a captured person",
+            "payment for the release of someone",
+            "the act of freeing from captivity or punishment"
+        ],
+        "ferryboat": [
+            "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
+        ],
+        "sumach": [
+            "a shrub or tree of the genus Rhus (usually limited to the non-poisonous members of the genus"
+        ],
+        "rob": [
+            "take something away by force or without the consent of the owner",
+            "rip off; ask an unreasonable price"
+        ],
         "yonder": [
             "distant but within sight (`yon' is dialectal"
-        ],
-        "pardon": [
-            "the act of excusing a mistake or offense",
-            "a warrant granting release from punishment for an offense",
-            "the formal act of liberating someone"
-        ],
-        "scoop": [
-            "take out or up with or as if with a scoop",
-            "get the better of"
         ],
         "earnest": [
             "characterized by a firm and humorless belief in the validity of your opinions",
             "sincerely earnest",
             "not distracted by anything unrelated to the goal"
         ],
-        "cave": [
-            "hollow out as if making a cave or opening",
-            "explore natural caves"
+        "tavern": [
+            "a building with a bar that is licensed to sell alcoholic drinks"
         ],
-        "drip": [
-            "flowing in drops; the formation and falling of drops of liquid",
-            "the sound of a liquid falling drop by drop",
-            "(architecture",
-            "as over a window or doorway"
+        "clump": [
+            "a grouping of a number of similar things",
+            "a compact mass",
+            "a heavy dull sound (as made by impact of heavy objects"
         ],
-        "skiff": [
-            "any of various small boats propelled by oars or by sails or by a motor"
+        "unlock": [
+            "open the lock of",
+            "set free or release",
+            "become unlocked"
+        ],
+        "robber": [
+            "a thief who steals from someone by threatening violence"
+        ],
+        "sorrowful": [
+            "experiencing or marked by or expressing sorrow especially that associated with irreparable loss"
         ]
     },
     "previously_featured": {
@@ -153,7 +152,6 @@
         "skiff": [
             "any of various small boats propelled by oars or by sails or by a motor"
         ],
-        "anybody": "no translation found",
         "widow": [
             "a woman whose husband is dead especially one who has not remarried"
         ],
@@ -168,14 +166,6 @@
         ],
         "funeral": [
             "a ceremony at which a dead person is buried or cremated"
-        ],
-        "everybody": "no translation found",
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "tavern": [
             "a building with a bar that is licensed to sell alcoholic drinks"
@@ -192,12 +182,6 @@
         "robber": [
             "a thief who steals from someone by threatening violence"
         ],
-        "fool": [
-            "make a fool or dupe of",
-            "spend frivolously and unwisely",
-            "fool or hoax",
-            "indulge in horseplay"
-        ],
         "ferryboat": [
             "a boat that transports people or vehicles across a body of water and operates on a regular schedule"
         ],
@@ -211,16 +195,8 @@
         "longing": [
             "prolonged unfulfilled desire or need"
         ],
-        "outside": [
-            "outside a building",
-            "on the outside"
-        ],
         "ordinarily": [
             "under normal conditions"
-        ],
-        "half": [
-            "one of two equal parts of a divisible whole",
-            "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
         ],
         "bat": [
             "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
@@ -248,13 +224,6 @@
             "lacking in liveliness or charm or surprise",
             "causing dejection"
         ],
-        "tick": [
-            "a metallic tapping sound",
-            "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
-            "a mark indicating that something has been noted or completed etc.",
-            "a light mattress"
-        ],
-        "shall": "no translation found",
         "marvel": [
             "something that causes feelings of wonder"
         ],
@@ -327,6 +296,13 @@
             "a line of approach",
             "a wide street or thoroughfare"
         ],
+        "recess": [
+            "a state of abeyance or suspended business",
+            "a small concavity",
+            "an arm off of a larger body of water (often between rocky headlands",
+            "an enclosure that is set back or indented",
+            "a pause from doing something (as work"
+        ],
         "exclaim": [
             "utter aloud; often with surprise, horror, or joy",
             "state or announce"
@@ -373,8 +349,14 @@
         "warily": [
             "in a wary manner"
         ],
-        "Harpers": [
+        "harpers": [
             "someone who plays the harp"
+        ],
+        "stumble": [
+            "walk unsteadily",
+            "miss a step and fall or nearly fall",
+            "encounter by chance",
+            "make an error"
         ],
         "clothe": [
             "provide with clothes or put clothes on",

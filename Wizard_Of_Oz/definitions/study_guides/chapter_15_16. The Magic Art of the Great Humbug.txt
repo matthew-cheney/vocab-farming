@@ -2,53 +2,11 @@
     "chapter_number": 15,
     "chapter_title": "16. The Magic Art of the Great Humbug",
     "featured_words": {
-        "uneasily": [
-            "with anxiety or apprehension"
-        ],
         "fasten": [
             "cause to be firmly attached",
             "become fixed or fastened",
             "attach to",
             "make tight or tighter"
-        ],
-        "congratulate": [
-            "say something to someone that expresses praise",
-            "express congratulations",
-            "be proud of",
-            "pride or congratulate (oneself"
-        ],
-        "excuse": [
-            "accept an excuse for",
-            "grant exemption or release to",
-            "serve as a reason or cause or justification of",
-            "defend, explain, clear away, or make excuses for by reasoning",
-            "ask for permission to be released from an engagement",
-            "excuse, overlook, or make allowances for; be lenient with"
-        ],
-        "scarecrow": [
-            "an effigy in the shape of a man to frighten birds away from seeds"
-        ],
-        "cheerful": [
-            "being full of or promoting cheer; having or showing good spirits",
-            "pleasantly (even unrealistically"
-        ],
-        "shall": "no translation found",
-        "kind": [
-            "a category of things distinguished by some common characteristic or quality"
-        ],
-        "warmly": [
-            "in a hearty manner",
-            "in a warm manner"
-        ],
-        "bran": [
-            "broken husks of the seeds of cereal grains that are separated from the flour by sifting",
-            "food prepared from the husks of cereal grains"
-        ],
-        "rap": [
-            "strike sharply",
-            "make light, repeated taps on a surface",
-            "perform rap music",
-            "talk volubly"
         ],
         "unfasten": [
             "cause to become undone",
@@ -58,34 +16,63 @@
             "a feeling of satisfaction at having achieved your desires",
             "the act of consummating something (a desire or promise etc"
         ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
-        ]
-    },
-    "dictionary_words": {
-        "sawdust": [
-            "fine particles of wood made by sawing wood"
-        ],
-        "silk": [
-            "a fabric made from the fine threads produced by certain insect larvae",
-            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
-        ],
-        "kindness": [
-            "the quality of being warmhearted and considerate and humane and sympathetic",
-            "tendency to be kind and forgiving",
-            "a kind act"
-        ],
-        "curiously": [
-            "in a manner differing from the usual or expected",
-            "with curiosity"
+        "bran": [
+            "broken husks of the seeds of cereal grains that are separated from the flour by sifting",
+            "food prepared from the husks of cereal grains"
         ],
         "shear": [
             "(physics",
             "a large edge tool that cuts sheet metal by passing a blade through it"
         ],
-        "joyfully": [
-            "in a joyous and gleeful manner"
+        "cheerful": [
+            "being full of or promoting cheer; having or showing good spirits",
+            "pleasantly (even unrealistically"
+        ],
+        "curiously": [
+            "in a manner differing from the usual or expected",
+            "with curiosity"
+        ],
+        "uneasily": [
+            "with anxiety or apprehension"
+        ],
+        "warmly": [
+            "in a hearty manner",
+            "in a warm manner"
+        ],
+        "earnestly": [
+            "in a serious manner"
+        ],
+        "scarecrow": [
+            "an effigy in the shape of a man to frighten birds away from seeds"
+        ],
+        "congratulate": [
+            "say something to someone that expresses praise",
+            "express congratulations",
+            "be proud of",
+            "pride or congratulate (oneself"
+        ],
+        "bulge": [
+            "swell or protrude outwards",
+            "bulge out; form a bulge outward, or be so full as to appear to bulge",
+            "bulge outward",
+            "cause to bulge or swell outwards"
+        ],
+        "rap": [
+            "strike sharply",
+            "make light, repeated taps on a surface",
+            "perform rap music",
+            "talk volubly"
+        ]
+    },
+    "dictionary_words": {
+        "humbug": [
+            "pretentious or silly talk or writing",
+            "communication (written or spoken",
+            "something intended to deceive; deliberate trickery intended to gain an advantage"
+        ],
+        "sniff": [
+            "perceive by inhaling through the nose",
+            "inhale audibly through the nose"
         ],
         "swallow": [
             "pass through the esophagus as part of eating or drinking",
@@ -97,48 +84,35 @@
             "tolerate or accommodate oneself to",
             "believe or accept without questioning or challenge"
         ],
-        "humbug": [
-            "pretentious or silly talk or writing",
-            "communication (written or spoken",
-            "something intended to deceive; deliberate trickery intended to gain an advantage"
-        ],
-        "kind": [
-            "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
-            "agreeable, conducive to comfort",
-            "tolerant and forgiving under provocation"
-        ],
-        "sniff": [
-            "perceive by inhaling through the nose",
-            "inhale audibly through the nose"
-        ],
-        "solder": [
-            "join or fuse with solder"
+        "joyfully": [
+            "in a joyous and gleeful manner"
         ],
         "neatly": [
             "with neatness"
+        ],
+        "solder": [
+            "join or fuse with solder"
         ],
         "exclaim": [
             "utter aloud; often with surprise, horror, or joy",
             "state or announce"
         ],
-        "earnestly": [
-            "in a serious manner"
+        "sawdust": [
+            "fine particles of wood made by sawing wood"
         ],
-        "bulge": [
-            "swell or protrude outwards",
-            "bulge out; form a bulge outward, or be so full as to appear to bulge",
-            "bulge outward",
-            "cause to bulge or swell outwards"
+        "silk": [
+            "a fabric made from the fine threads produced by certain insect larvae",
+            "animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders"
+        ],
+        "kindness": [
+            "the quality of being warmhearted and considerate and humane and sympathetic",
+            "tendency to be kind and forgiving",
+            "a kind act"
         ]
     },
     "previously_featured": {
-        "shall": "no translation found",
         "scarecrow": [
             "an effigy in the shape of a man to frighten birds away from seeds"
-        ],
-        "bye": [
-            "an automatic advance to the next round in a tournament without playing an opponent",
-            "a farewell remark"
         ],
         "fasten": [
             "cause to be firmly attached",

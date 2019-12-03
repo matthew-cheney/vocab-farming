@@ -2,81 +2,77 @@
     "chapter_number": 32,
     "chapter_title": "CHAPTER XXXII",
     "featured_words": {
-        "kite": [
-            "a bank check that has been fraudulently altered to increase its face value",
-            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
-            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
-            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
-        ],
-        "petitioner": [
-            "one praying humbly for something",
-            "someone who petitions a court for redress of a grievance or recovery of a right"
-        ],
-        "mourn": [
-            "feel sadness",
-            "observe the customs of mourning after the death of a loved one"
-        ],
-        "speck": [
-            "a very small spot",
-            "(nontechnical usage",
-            "a slight but appreciable amount"
+        "twilight": [
+            "the time of day immediately following sunset",
+            "the diffused light from the sky when the sun is below the horizon but its rays are refracted by the atmosphere of the earth",
+            "a condition of decline following successes"
         ],
         "searcher": [
             "someone making a search or inquiry",
             "a customs official whose job is to search baggage or goods or vehicles for contraband or dutiable items",
             "large metallic blue-green beetle that preys on caterpillars; found in North America"
         ],
+        "kite": [
+            "a bank check that has been fraudulently altered to increase its face value",
+            "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+            "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+            "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+        ],
         "wearily": [
             "in a weary manner"
+        ],
+        "mourn": [
+            "feel sadness",
+            "observe the customs of mourning after the death of a loved one"
+        ],
+        "avocation": [
+            "an auxiliary activity"
+        ],
+        "wane": [
+            "grow smaller",
+            "become smaller",
+            "decrease in phase"
+        ],
+        "droop": [
+            "droop, sink, or settle from or as if from pressure or loss of tautness",
+            "hang loosely or laxly",
+            "become limp"
         ],
         "daylight": [
             "the time after sunrise and before sunset while it is light outside",
             "light during the daytime"
-        ],
-        "heartbreake": "no translation found",
-        "delirious": [
-            "experiencing delirium",
-            "marked by uncontrolled excitement or emotion"
-        ],
-        "twilight": [
-            "the time of day immediately following sunset",
-            "the diffused light from the sky when the sun is below the horizon but its rays are refracted by the atmosphere of the earth",
-            "a condition of decline following successes"
-        ],
-        "People": [
-            "(plural",
-            "men or women or children",
-            "the body of citizens of a state or country",
-            "members of a family line",
-            "the common people generally"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
-        ],
-        "avocation": [
-            "an auxiliary activity"
         ],
         "grope": [
             "feel about uncertainly or blindly",
             "search blindly or uncertainly",
             "fondle for sexual pleasure"
         ],
-        "wane": [
-            "grow smaller",
-            "become smaller",
-            "decrease in phase"
+        "delirious": [
+            "experiencing delirium",
+            "marked by uncontrolled excitement or emotion"
+        ],
+        "heartbreake": "no translation found",
+        "gray": [
+            "of an achromatic color of any lightness intermediate between the extremes of white and black",
+            "showing characteristics of age, especially having grey or white hair",
+            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
+            "intermediate in character or position"
+        ],
+        "speck": [
+            "a very small spot",
+            "(nontechnical usage",
+            "a slight but appreciable amount"
+        ],
+        "petitioner": [
+            "one praying humbly for something",
+            "someone who petitions a court for redress of a grievance or recovery of a right"
         ]
     },
     "dictionary_words": {
-        "homeward": [
-            "oriented toward home"
-        ],
-        "forlorn": [
-            "marked by or showing hopelessness"
+        "clothe": [
+            "provide with clothes or put clothes on",
+            "furnish with power or authority; of kings or emperors",
+            "cover as if with clothing"
         ],
         "horn": [
             "a noisemaker (as at parties or games",
@@ -91,74 +87,66 @@
             "a brass musical instrument consisting of a conical tube that is coiled into a spiral and played by means of valves",
             "a device on an automobile for making a warning noise"
         ],
-        "droop": [
-            "droop, sink, or settle from or as if from pressure or loss of tautness",
-            "hang loosely or laxly",
-            "become limp"
-        ],
-        "clothe": [
-            "provide with clothes or put clothes on",
-            "furnish with power or authority; of kings or emperors",
-            "cover as if with clothing"
-        ],
-        "burst": [
-            "come open suddenly and violently, as if from internal pressure",
-            "force out or release suddenly and often violently something pent up",
-            "burst outward, usually with noise",
-            "move suddenly, energetically, or violently",
-            "be in a state of movement or action",
-            "emerge suddenly",
-            "cause to burst",
-            "break open or apart suddenly and forcefully"
-        ],
-        "frantic": [
-            "excessively agitated; distraught with fear or other violent emotion",
-            "marked by uncontrolled excitement or emotion"
-        ],
-        "moan": [
-            "an utterance expressing pain or disapproval"
-        ],
-        "gray": [
-            "of an achromatic color of any lightness intermediate between the extremes of white and black",
-            "showing characteristics of age, especially having grey or white hair",
-            "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
-            "intermediate in character or position"
-        ],
-        "din": [
-            "a loud harsh or strident noise",
-            "the act of making a noisy disturbance"
-        ],
-        "mass": [
-            "join together into a mass or collect or form a mass"
+        "peal": [
+            "a deep prolonged sound (as of thunder or large bells"
         ],
         "swarm": [
             "be teeming, be abuzz",
             "move in large numbers"
         ],
-        "peal": [
-            "a deep prolonged sound (as of thunder or large bells"
+        "homeward": [
+            "oriented toward home"
+        ],
+        "din": [
+            "a loud harsh or strident noise",
+            "the act of making a noisy disturbance"
+        ],
+        "roar": [
+            "make a loud noise, as of wind, water, or vehicles",
+            "utter words loudly and forcefully",
+            "emit long loud cries",
+            "act or proceed in a riotous, turbulent, or disorderly way",
+            "make a loud noise, as of animal",
+            "laugh unrestrainedly and heartily"
+        ],
+        "illuminate": [
+            "make lighter or brighter",
+            "make free from confusion or ambiguity; make clear",
+            "add embellishments and paintings to (medieval manuscripts"
         ],
         "throng": [
             "press tightly together or cram"
+        ],
+        "procession": [
+            "(theology",
+            "the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation",
+            "the act of moving forward (as toward a goal"
+        ],
+        "forlorn": [
+            "marked by or showing hopelessness"
+        ],
+        "frantic": [
+            "excessively agitated; distraught with fear or other violent emotion",
+            "marked by uncontrolled excitement or emotion"
+        ],
+        "villager": [
+            "one who has lived in a village most of their life"
         ],
         "pan": [
             "cooking utensil consisting of a wide metal vessel",
             "(Greek mythology",
             "shallow container made of metal",
             "chimpanzees; more closely related to Australopithecus than to other pongids"
+        ],
+        "magnificently": [
+            "extremely well",
+            "in an impressively beautiful manner"
         ]
     },
     "previously_featured": {
         "daylight": [
             "the time after sunrise and before sunset while it is light outside",
             "light during the daytime"
-        ],
-        "far": [
-            "to a considerable degree; very much",
-            "at or to or from a great distance in space",
-            "at or to a certain point or degree",
-            "remote in time",
-            "to an advanced stage or point"
         ],
         "kite": [
             "a bank check that has been fraudulently altered to increase its face value",
@@ -180,6 +168,11 @@
             "showing characteristics of age, especially having grey or white hair",
             "used to signify the Confederate forces in the American Civil War (who wore grey uniforms",
             "intermediate in character or position"
+        ],
+        "procession": [
+            "(theology",
+            "the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation",
+            "the act of moving forward (as toward a goal"
         ],
         "villager": [
             "one who has lived in a village most of their life"
@@ -195,9 +188,6 @@
         "hunger": [
             "a physiological need for food; the consequence of food deprivation",
             "strong desire for something (not food or drink"
-        ],
-        "somebody": [
-            "a human being"
         ]
     }
 }
