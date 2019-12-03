@@ -1,5 +1,6 @@
 from glob import glob
 import json
+import os
 
 from PyDictionary import PyDictionary
 from google.cloud import translate_v2 as translate
@@ -20,6 +21,12 @@ class Translator:
             'i': 'Adjective',
             'r': 'Adverb'
         }
+
+        if not os.path.exists(f'Local_Dictionaries/{language_code}'):
+            os.mkdir(f'Local_Dictionaries/{language_code}')
+            with open(f'Local_Dictionaries/{language_code}/en_dictionary_01.json', mode='w') as f:
+                f.write('{}')
+
         self._load_local_dictionary()
 
     def _write_local_dictionary(self):
