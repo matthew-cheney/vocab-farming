@@ -12,7 +12,7 @@ class DictionaryCreator:
         # all_words_dictionary = {x[0]: translator.get_translation(x) for x in all_words}
 
         for word in tqdm(all_words):
-            all_words_dictionary[word[0]] = translator.get_translation(word)
+            all_words_dictionary[f'{word[0]} : {word[1]}'] = translator.get_translation(word)
 
         translator._write_local_dictionary()
 

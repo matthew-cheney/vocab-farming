@@ -88,12 +88,12 @@ class Translator:
         # do the query here
         # PyDictionary is placeholder for Google Translation API
         if self.language_code == 'definitions':
-            print(f'getting definition for {source_string}')
+            # print(f'getting definition for {source_string}')
             result = self.dictionary_holder.meaning(source_string)
             if isinstance(result, type(None)):
-                print(f'no translation for {source_string}\n\n')
+                # print(f'no translation for {source_string}\n\n')
                 return 'no translation found'
-            print('found')
+            # print('found')
             if source_pos in self.pydictionary_codes:
                 result_pos = self.pydictionary_codes[source_pos]
                 if result_pos in result.keys():
@@ -103,14 +103,14 @@ class Translator:
             search_string = source_string
             if source_pos == 'v':
                 search_string = 'to ' + search_string
-            print(f'searching for {source_string} : {source_pos}')
+            # print(f'searching for {source_string} : {source_pos}')
             result = self.api_dictionary.translate(search_string, target_language=self.language_code)
             # result = self.dictionary_holder.meaning(source_string)
-            print('found')
+            # print('found')
             if result is None:
                 return 'no translation found'
             if 'translatedText' not in result:
-                print('investigate this...')
+                # print('investigate this...')
                 return 'no translation found'
             return result['translatedText']
 

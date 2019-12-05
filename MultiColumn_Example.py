@@ -8,19 +8,23 @@ import os
 
 class PDF(FPDF):
 
-    def __init__(self):
+    def __init__(self, title):
         super().__init__(format='letter')
         self.col = 0
-        self.y0
+        self.y0 = 10
+        self.title = title
 
     def header(self):
-        global title
-
         self.set_font('Arial', 'B', 15)
-        w = len(title) + 6
+        w = len(self.title) + 6
         self.set_x((210 - w) / 2)
-        self.set_draw_color(0, 80, 180)
-        self.set_fill_color(230, 230, 230)
+        self.set_draw_color(255, 255, 255)
+        self.set_fill_color(255, 255, 255)
+        self.set_text_color(0, 0, 0)
+        self.set_line_width(1)
+        self.cell(w, 9, self.title, 1, 1, 'C', True)
+        self.set_line_width(10)
+        self.y0 = self.get_y()
 
     def footer(self):
         self.set_y(-10)
@@ -38,11 +42,12 @@ class PDF(FPDF):
         self.set_x(x)
 
     def accept_page_break(self):
+        print('in accept_page_break')
         if self.col < 2:
             # Go to next column
             self.set_col(self.col + 1)
             # Set ordinate to top
-            self.set_y(self.y)
+            self.set_y(self.y0)
             return False
         else:
             self.set_col(0)
@@ -97,10 +102,11 @@ def create_dictionary(pdf_path, json_path):
     pdf.alias_nb_pages()
     pdf.add_page()
     # pdf.set_font('Times', '', 18)
-    pdf.cell(0, 0, txt=f'Master Dictionary', align='C', ln=1)
+    # pdf.cell(0, 0, txt=f'Master Dictionary', align='C', ln=1)
     # pdf.set_font('Times', '', 12)
     for term in json_dict:
-        pdf.cell(0, 5, txt=f'{term}:',
+        term_parts = term.split(" : ")
+        pdf.cell(0, 5, txt=f'{term_parts[0]} ({term_parts[1]}):',
                  ln=1)
         pdf.cell(0, 5, txt=f'     {json_dict[term]}',
                  ln=1)
@@ -109,15 +115,14 @@ def create_dictionary(pdf_path, json_path):
 
 
 if __name__ == '__main__':
-    """filenames = glob('Wizard_Of_Oz/ru/study_guides/*.txt')
-    # for file in filenames:
-    #     create_pdf(f'pdfs/{os.path.basename(file)[:-3]}.pdf', file)
-    create_dictionary(f'pdfs/dictionary.pdf', 'Wizard_Of_Oz/ru/master_dictionary.txt')"""
-    pdf = PDF('Wizard of Oz')
+    filenames = glob('Projects/Wizard_Of_Oz/ru/study_guides/*.txt')
+    for file in filenames:
+        create_pdf(f'pdfs/{os.path.basename(file)[:-3]}.pdf', file)
+    # create_dictionary(f'pdfs/dictionary.pdf', 'Wizard_Of_Oz/ru/master_dictionary.txt')
+
+    """pdf = PDF('Wizard of Oz')
     pdf.set_title('Wizard of Oz')
     pdf.set_author('L. Frank Baum')
-    pdf.print_chapter(1, 'Chapter 1',
-                      'Wizard_Of_Oz/raw_chapters/01_full_text.txt')
-    pdf.print_chapter(2, 'Chapter 2',
-                      'Wizard_Of_Oz/raw_chapters/02_full_text.txt')
-    pdf.output('test_multi_column.pdf')
+    pdf.output('test_multi_column.pdf')"""
+
+    # create_dictionary(f'pdfs/dictionary.pdf', 'Projects/Wizard_Of_Oz/ru/master_dictionary.txt')

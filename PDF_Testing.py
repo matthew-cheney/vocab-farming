@@ -113,10 +113,10 @@ def create_dictionary(pdf_path, json_path):
 
 
 if __name__ == '__main__':
-    """filenames = glob('Wizard_Of_Oz/ru/study_guides/*.txt')
+    filenames = glob('Wizard_Of_Oz/ru/study_guides/*.txt')
     # for file in filenames:
     #     create_pdf(f'pdfs/{os.path.basename(file)[:-3]}.pdf', file)
-    create_dictionary(f'pdfs/dictionary.pdf', 'Wizard_Of_Oz/ru/master_dictionary.txt')"""
+    create_dictionary(f'pdfs/dictionary.pdf', 'Wizard_Of_Oz/ru/master_dictionary.txt')
     pdf = PDF('Wizard of Oz')
     pdf.set_title('Wizard of Oz')
     pdf.set_author('L. Frank Baum')
