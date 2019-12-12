@@ -146,6 +146,8 @@ class BookProcessor:
                     # Word not already in previous word list for this chapter
                     chapter.featured_in_previous_chapters[target_word_tuple] = list()
                 chapter.featured_in_previous_chapters[target_word_tuple].extend(copy.copy(used_words[target_word_tuple]))
+                target_index += 1
+                continue
 
             if (target_word_tuple in self.frequency_list and \
                     (self.frequency_list[target_word_tuple].rank < difficulty or \

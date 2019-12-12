@@ -16,7 +16,7 @@ class StudyGuideCreator:
         for chapter in chapters:
             json_dict = self._chapter_to_json_dict(chapter)
             json_string = self._dict_to_json(json_dict)
-            self._write_to_file(json_string, f'{directory}/chapter_{chapter.number}_{chapter.title}.txt')
+            self._write_to_file(json_string, f'{directory}/chapter_{str(chapter.number).zfill(2)}_{chapter.title}.txt')
 
     def _chapter_to_json_dict(self, chapter):
         json_dict = dict()

@@ -6,16 +6,9 @@ import os
 
 from BookProcessor import BookProcessor
 from Chapter import Chapter
+from PDFGenerator import PDFGenerator
 from StudyGuideCreator import StudyGuideCreator
 from DictionaryCreator import DictionaryCreator
-
-"""
-Kelly word list
-Academic word/vocabulary list
-   Dewey, maybe Davies
-   
-TFIDF
-"""
 
 
 def process_book(directory):
@@ -26,7 +19,7 @@ def process_book(directory):
     print(f'{len(chapters)} chapters')
     bookProcessor = BookProcessor()
     bookProcessor.load_book(chapters)
-    chapters, all_words = bookProcessor.process_book(level='C2', words_per_chapter=15)
+    chapters, all_words = bookProcessor.process_book(level='C2', words_per_chapter=20)
     return chapters, all_words
 
 def pickle_chapters(chapters, directory):
@@ -126,6 +119,10 @@ def create_file_structure(directory, language_code):
     if not os.path.exists(f'Projects/{directory}/{language_code}'):
         os.mkdir(f'Projects/{directory}/{language_code}')
 
+def generate_pdf(directory, language_code):
+    pdf_generator = PDFGenerator()
+    pdf_generator.generate_pdf(directory.replace("_", " "), directory, language_code)
+
 if __name__ == '__main__':
 
     if len(sys.argv) < 3:
@@ -146,10 +143,10 @@ if __name__ == '__main__':
         print(message)
         exit(2)
 
+    print("Creating file structure")
     create_file_structure(directory, language_code)
 
-
-
+    print("Processing book")
     chapters, all_words = process_book(directory)
     pickle_chapters(chapters, directory)
     print("Pickling dictionary")
@@ -161,4 +158,6 @@ if __name__ == '__main__':
     all_words_dictionary = create_master_dictionary(all_words, language_code)
     write_master_dictionary(all_words_dictionary, directory, language_code)
     print(f'{len(all_words_dictionary.keys())} items in dictionary')
+    print("Generating PDF study guide")
+    generate_pdf(directory, language_code)
     print("Complete")
