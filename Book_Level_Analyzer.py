@@ -4,12 +4,12 @@ from pprint import pprint
 
 import spacy
 
-from Word import Word
+from Models.Word import Word
 
 
 def main():
     nlp = spacy.load('en')
-    filenames = glob("Tom_Sawyer/chapters/*.txt")
+    filenames = glob("Projects/Tom_Sawyer/chapters/*.txt")
     all_words = list()
     for file in filenames:
         with open(file, 'r') as f:
