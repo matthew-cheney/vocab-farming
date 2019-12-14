@@ -70,6 +70,9 @@ def main(project_name):
             others.append(word)
 
     # Print results
+
+    print("\nScale: One (easy) ----> Six (hard)")
+
     print("\nIncluding duplicates:")
     print(f'ones: {len(ones)}\n'
           f'twos: {len(twos)}\n'
