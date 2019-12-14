@@ -157,7 +157,8 @@ if __name__ == '__main__':
 
     print(f'{len(all_words_dictionary_main.keys())} items in dictionary')
 
-    print("Generating PDF study guide")
-    generate_pdf(directory_main, language_code_main)
+    if not language_code_main == 'definitions':
+        print("Generating PDF study guide")
+        generate_pdf(directory_main, language_code_main)
 
     print("Complete")
