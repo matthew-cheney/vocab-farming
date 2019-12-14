@@ -31,7 +31,8 @@ The script will create a new directory title as the chosen language code within 
 2. <b>study_guides</b>: This directory contains a JSON file for each chapter. Each file contains new words to learn for that chapter, word to remember from previous chapters, as well as other potentially unfamiliar words.
 3. <b>directory_languageCode.pdf</b>: This is a pdf representation of the JSON files listed above, for more convenient printing. In our example, this file is called Wizard_Of_Oz_es.pdf.
 
-Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
+Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).</br>
+Definitions are primarily used for development, and may contain more bugs. More comprehensive support will be added in the future.</br>
 PDF creation only supports Russian and Spanish.
 
 ## Google Translate API
