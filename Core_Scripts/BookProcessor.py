@@ -28,7 +28,7 @@ class BookProcessor:
         """ Load word frequency list for ranking words by difficulty """
         frequency_list = dict()
         frequency_list_no_tags = dict()
-        with open("Kelly_English.csv", 'r') as f:
+        with open("Resources/Kelly_English.csv", 'r') as f:
             for line in f:
                 # Each line in f is formatted: <rank>,<word>,<pos>,<level>
                 line_split = line.split(',')

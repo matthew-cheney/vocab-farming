@@ -2,6 +2,7 @@ import re
 
 """
 This converter file can be copied and tailored to each project specifically.
+It requires the directory 'raw_chapters'
 """
 
 

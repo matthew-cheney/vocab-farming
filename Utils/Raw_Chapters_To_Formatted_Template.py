@@ -3,6 +3,7 @@ import json
 
 """
 This converter file can be copied and tailored to each project specifically.
+Assumes first line of each raw chapter is title.
 """
 
 

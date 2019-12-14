@@ -130,11 +130,6 @@ class PDFGenerator:
 
         json_dict = self._json_to_dict(json_path)
 
-        # pdf.add_font('DejaVu', '', 'DejaVuSansCondensed.ttf', True)
-        # pdf.set_font('DejaVu', '', 15)
-
-        # pdf.alias_nb_pages()
-
         pdf.add_page()
 
         # Add heading: Dictionary

@@ -1,14 +1,13 @@
-import json
 import pickle
 from glob import glob
 import sys
 import os
 
-from BookProcessor import BookProcessor
+from Core_Scripts.BookProcessor import BookProcessor
 from Models.Chapter import Chapter
-from PDFGenerator import PDFGenerator
-from StudyGuideCreator import StudyGuideCreator
-from DictionaryCreator import DictionaryCreator
+from Core_Scripts.PDFGenerator import PDFGenerator
+from Core_Scripts.StudyGuideCreator import StudyGuideCreator
+from Core_Scripts.DictionaryCreator import DictionaryCreator
 from Utils.JSON_Utils import *
 
 """ Main function located at bottom of script """
@@ -73,16 +72,6 @@ def load_book(directory):
     return chapters
 
 
-def write_chapter_words(chapters, directory):
-    """ Write each chapter words to file for persistence """
-
-    for chapter in chapters:
-        with open(
-                f'Projects/{directory}/{str(chapter.number).zfill(2)}_words_only.pkl',  # noqa: E501
-                'wb') as f:
-            pickle.dump(chapter, f)
-
-
 def create_master_dictionary(all_words, language_code):
     """ Create dictionary for end of study guide """
 
@@ -115,8 +104,6 @@ def check_file_structure(directory, language_code):
 def create_file_structure(directory, language_code):
     """ Create necessary file structure """
 
-    if not os.path.exists(f'Projects/{directory}/chapter_words'):
-        os.mkdir(f'Projects/{directory}/chapter_words')
     if not os.path.exists(f'Projects/{directory}/{language_code}'):
         os.mkdir(f'Projects/{directory}/{language_code}')
 
@@ -134,7 +121,7 @@ if __name__ == '__main__':
     # Check for correct command line args
     if len(sys.argv) < 3:
         print(f'USAGE: {sys.argv[0]} <directory> <language_code>')
-        exit(1)
+        exit(0)
 
     directory_main = sys.argv[1]
     language_code_main = sys.argv[2]
@@ -144,12 +131,12 @@ if __name__ == '__main__':
     # Check if language code is supported
     if language_code_main not in available_language_codes:
         print(f'{language_code_main} is not yet supported')
-        exit()
+        exit(0)
 
     message = check_file_structure(directory_main, language_code_main)
     if not message == 'success':
         print(message)
-        exit(2)
+        exit(0)
 
     print("Creating file structure")
     create_file_structure(directory_main, language_code_main)

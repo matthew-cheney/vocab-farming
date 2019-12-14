@@ -1,4 +1,4 @@
-from Translator import Translator
+from Core_Scripts.Translator import Translator
 from tqdm import tqdm
 
 

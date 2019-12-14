@@ -1,6 +1,6 @@
 from tqdm import tqdm
 
-from Translator import Translator
+from Core_Scripts.Translator import Translator
 from Utils.JSON_Utils import dict_to_json
 
 
