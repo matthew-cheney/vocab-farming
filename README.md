@@ -2,18 +2,18 @@
 #Previously known as Book Metadata Study Guides
 
 ## Purpose
-This tool aims to help those learning English at a mid to advanced level enlarge their vocabulary. It processes text, mainly from books, and returns study guides customized for each chapter. These study guides feature new words the learner might not know, as well as definitions for other potentially unfamiliar words.
+Vocab Farming aims to help those learning English at a mid to advanced level enlarge their vocabulary. It processes text, mainly from books, and returns study guides customized for each chapter. These study guides feature new words the learner might not know, as well as definitions for other potentially unfamiliar words.
 
 ## How to Use
-The tool is run from the driver file called <addr>ProcessBook.py</addr>
+Vocab Farming is run from the driver file called <addr>ProcessBook.py</addr>
 
-Before running the tool, the user must create the following file structure. Follow these steps. We will use Tom Sawyer as our example book and definitions as our language code.
+Before running the tool, the user must create the following file structure. We will use the Wizard of Oz as our example book and es (Spanish) as our language code.
 
-In the same directory as <addr>ProcessBook.py</addr>, create a directory called Tom_Sawyer
+In the directory Projects, create a directory called Wizard_Of_Oz
 
-In the directory Tom_Sawyer, create a directory called chapters
+In the directory Wizard_Of_Oz, create a directory called chapters
 
-Place each chapter to be processed in the directory chapters. Each chapter must be in JSON format, with 3 entries: chapter_number, chapter_title, and body. The file names do not matter, but must have .txt extension. Example:
+Place each chapter to be processed in the directory chapters. Each chapter must be in JSON format, with 3 entries: chapter_number, chapter_title, and body. The file names do not matter, but must have .txt extension. See below for tips on getting chapters into this format. Example:
 
 {
     "chapter_number": 2,
@@ -21,9 +21,15 @@ Place each chapter to be processed in the directory chapters. Each chapter must 
     "body": "\nWhen Dorothy was left alone she began to feel hungry...."
 }
 
-Once everything is set up, run the program with the following command:
+Once everything is set up, run the program with the following command (from the top directory):
 
-<addr>python3 ProcessBook.py \<directory\> \<language_code\></addr>
+<addr>python3 ProcessBook.py Wizard_Of_Oz es
+
+The script will create a new directory title as the chosen language code within the book's directory in Projects. Within that directory, the script will create 3 things:
+
+1. master_dictionary.txt: This JSON file contains all potentially unfamiliar words for the entire book, along with their approximate translations.
+2. study_guides/: This directory contains a JSON file for each chapter. Each file contains new words to learn for that chapter, word to remember from previous chapters, as well as other potentially unfamiliar words.
+3. directory_languageCode.pdf: This is a pdf representation of the JSON files listed above, for more convenient printing. In our example, this file is called Wizard_Of_Oz_es.pdf.
 
 Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
 PDF creation only supports Russian and Spanish.
