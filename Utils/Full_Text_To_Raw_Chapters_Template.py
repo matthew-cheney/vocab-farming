@@ -4,6 +4,7 @@ import re
 This converter file can be copied and tailored to each project specifically.
 """
 
+
 def main():
     """ Split full <book title> text to chapters """
 

@@ -1,5 +1,4 @@
 from glob import glob
-import json
 import os
 
 from PyDictionary import PyDictionary
@@ -31,7 +30,8 @@ class Translator:
         if not os.path.exists(f'Local_Dictionaries/{language_code}'):
             # Directory for local dictionary does not exist, create it now
             os.mkdir(f'Local_Dictionaries/{language_code}')
-            with open(f'Local_Dictionaries/{language_code}/en_dictionary_01.json', mode='w') as f:
+            with open(f'Local_Dictionaries/{language_code}/en_dictionary_01'
+                      f'.json', mode='w') as f:
                 f.write('{}')
 
         self._load_local_dictionary()  # Contains previously translated data
@@ -47,14 +47,15 @@ class Translator:
 
         d_filenames = glob(f"Local_Dictionaries/{self.language_code}/*.json")
         for name in d_filenames:
-            with open (name, mode='r') as f:
+            with open(name, mode='r') as f:
                 raw_text = f.read()
                 self.local_dictionary.update(json_to_dict(raw_text))
 
     def _write_dict(self, json_string):
         """ Write dictionary to file """
 
-        with open(f'Local_Dictionaries/{self.language_code}/en_dictionary_01.json', mode='w') as f:
+        with open(f'Local_Dictionaries/{self.language_code}/en_dictionary_01'
+                  f'.json', mode='w') as f:
             f.write(json_string)
 
     def get_translation(self, tuple_in):
@@ -64,12 +65,14 @@ class Translator:
         source_pos = tuple_in[1]
 
         # Check local dictionary for translation
-        translation = self._query_local_dictionary(self._tuple_to_string(tuple_in))
+        translation = \
+            self._query_local_dictionary(self._tuple_to_string(tuple_in))
 
         if translation is None:
             # Translation not in local dictionary, go to api
             translation = self._query_api(source_word, source_pos)
-            self._add_to_local_dictionary(self._tuple_to_string(tuple_in), translation)
+            self._add_to_local_dictionary(
+                self._tuple_to_string(tuple_in), translation)
 
         return translation
 
@@ -121,9 +124,8 @@ class Translator:
             if source_pos == 'v':
                 search_string = 'to ' + search_string
 
-            result = self.api_dictionary.translate(search_string,
-                                                   target_language=
-                                                   self.language_code)
+            result = self.api_dictionary.translate(
+                search_string, target_language=self.language_code)
 
             if result is None or 'translatedText' not in result:
                 # No translation found

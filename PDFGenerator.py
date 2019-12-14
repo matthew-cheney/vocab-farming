@@ -97,7 +97,8 @@ class PDFGenerator:
         for term in json_dict['previously_featured']:
             if word_counter >= self.MAX_WORDS_PER_COLUMN:
                 continue
-            term_to_print = f'{term} : {json_dict["previously_featured"][term]}'
+            term_to_print = \
+                f'{term} : {json_dict["previously_featured"][term]}'
             if len(term_to_print) > line_cutoff:
                 # Term is longer than allowed limit, split to two lines
                 pdf.cell(0, 10,
@@ -108,8 +109,7 @@ class PDFGenerator:
                          ln=1)
             else:
                 # Term is shorter than allowed limit
-                pdf.cell(0, 10, txt=f'{term} : {json_dict["previously_featured"][term]}',
-                         ln=1)
+                pdf.cell(0, 10, txt=term_to_print, ln=1)
             word_counter += 1
         if word_counter == 0:
             pdf.cell(0, 10, txt='No previously featured words',

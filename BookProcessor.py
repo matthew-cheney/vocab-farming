@@ -19,7 +19,8 @@ class BookProcessor:
             'C1': 5,
             'C2': 6
         }
-        self.frequency_list, self.frequency_list_no_pos = self._load_freq_list()
+        self.frequency_list, self.frequency_list_no_pos = \
+            self._load_freq_list()
         self.nlp = spacy.load('en')
         self.all_dictionary_words = set()
 
@@ -63,7 +64,7 @@ class BookProcessor:
     def _add_to_already_featured(self, chapter, already_featured):
         """ Add words from chapter to already_featured for later chapters """
         for each in chapter.featured_words:
-            if not each in already_featured:
+            if each not in already_featured:
                 already_featured[each] = list()
             already_featured[each].append(chapter.number)
 

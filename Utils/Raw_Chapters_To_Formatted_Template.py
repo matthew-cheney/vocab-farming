@@ -5,6 +5,7 @@ import json
 This converter file can be copied and tailored to each project specifically.
 """
 
+
 def main():
     """ Convert raw chapter text to JSON formatted for processing """
 

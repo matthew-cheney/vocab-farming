@@ -1,5 +1,3 @@
-import json
-import os
 from tqdm import tqdm
 
 from Translator import Translator
@@ -23,7 +21,7 @@ class StudyGuideCreator:
         for chapter in tqdm(chapters):
             json_dict = self._chapter_to_json_dict(chapter)
             json_string = dict_to_json(json_dict)
-            self._write_to_file(json_string, f'{directory}/chapter_{str(chapter.number).zfill(2)}_{chapter.title}.txt')
+            self._write_to_file(json_string, f'{directory}/chapter_{str(chapter.number).zfill(2)}_{chapter.title}.txt')  # noqa: E501
 
     def _chapter_to_json_dict(self, chapter):
         """ Convert chapter to python dict, ready to make into JSON """
