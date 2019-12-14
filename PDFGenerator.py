@@ -6,7 +6,7 @@ from Utils.JSON_Utils import json_to_dict
 
 class PDFGenerator:
 
-    MAX_WORDS_PER_COLUMN = 21
+    MAX_WORDS_PER_COLUMN = 20
 
     def generate_pdf(self, book_name, project_name, language_code):
         """ Generate PDF study guide for project_name in language_code """
@@ -55,14 +55,27 @@ class PDFGenerator:
         pdf.cell(0, 0, txt='New words to learn:', ln=1)
         pdf.set_y(pdf.get_y() + 5)  # Add space after heading
 
+        line_cutoff = 35  # Max characters that fit on a line
+
         # Print each word to column 1
         pdf.set_font('DejaVu', '', 15)
         word_counter = 0
         for term in json_dict['featured_words']:
             if word_counter >= self.MAX_WORDS_PER_COLUMN:
                 continue
-            pdf.cell(0, 10, txt=f'{term} : {json_dict["featured_words"][term]}',
-                     ln=1)
+            term_to_print = f'{term} : {json_dict["featured_words"][term]}'
+            if len(term_to_print) > line_cutoff:
+                # Term is longer than allowed limit, split to two lines
+                pdf.cell(0, 10,
+                         txt=f'{term_to_print[:line_cutoff]}-',
+                         ln=1)
+                pdf.cell(0, 10,
+                         txt=f'          -{term_to_print[line_cutoff:]}',
+                         ln=1)
+            else:
+                # Term is shorter than allowed limit
+                pdf.cell(0, 10, txt=term_to_print,
+                         ln=1)
             word_counter += 1
         if word_counter == 0:
             pdf.cell(0, 10, txt='No new words to feature!',
@@ -84,8 +97,19 @@ class PDFGenerator:
         for term in json_dict['previously_featured']:
             if word_counter >= self.MAX_WORDS_PER_COLUMN:
                 continue
-            pdf.cell(0, 10, txt=f'{term} : {json_dict["previously_featured"][term]}',
-                     ln=1)
+            term_to_print = f'{term} : {json_dict["previously_featured"][term]}'
+            if len(term_to_print) > line_cutoff:
+                # Term is longer than allowed limit, split to two lines
+                pdf.cell(0, 10,
+                         txt=f'{term_to_print[:line_cutoff]}-',
+                         ln=1)
+                pdf.cell(0, 10,
+                         txt=f'          -{term_to_print[line_cutoff:]}',
+                         ln=1)
+            else:
+                # Term is shorter than allowed limit
+                pdf.cell(0, 10, txt=f'{term} : {json_dict["previously_featured"][term]}',
+                         ln=1)
             word_counter += 1
         if word_counter == 0:
             pdf.cell(0, 10, txt='No previously featured words',
@@ -126,10 +150,17 @@ class PDFGenerator:
         pdf.set_y(30)
 
         # Print each term and translation
+
+        line_cutoff = 17
+
         for term in json_dict:
             term_parts = term.split(" : ")
+            term_to_print = f'{json_dict[term]}'
             pdf.cell(0, 5, txt=f'{term_parts[0]} ({term_parts[1]}):',
                      ln=1)
-            pdf.cell(0, 5, txt=f'     {json_dict[term]}',
-                     ln=1)
+            while len(term_to_print) > 0:
+                # Split translation to multiple lines as needed
+                pdf.cell(0, 5, txt=f'     {term_to_print[:line_cutoff]}',
+                         ln=1)
+                term_to_print = term_to_print[line_cutoff:]
             pdf.cell(0, 2, "", ln=1)
