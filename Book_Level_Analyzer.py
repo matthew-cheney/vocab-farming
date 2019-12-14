@@ -9,7 +9,7 @@ from Models.Word import Word
 
 def main():
     nlp = spacy.load('en')
-    filenames = glob("Projects/Tom_Sawyer/chapters/*.txt")
+    filenames = glob("Projects/Wizard_Of_Oz/chapters/*.txt")
     all_words = list()
     for file in filenames:
         with open(file, 'r') as f:
@@ -19,7 +19,6 @@ def main():
             doc = nlp(chapter_body)
             for token in doc:
                 if not token.is_punct:
-                    # all_words.append((token.lemma_.lower(), token.tag_[0].lower()))
                     all_words.append(token.lemma_.lower())
     freq_list = load_freq_list()
 
@@ -68,10 +67,12 @@ def main():
           f'sixes: {len(set(sixes))}\n'
           f'others: {len(set(others))}\n\n')
 
-    pprint(set(others))
+    # pprint(set(others))
+
 
 def json_to_dict(json_string):
     return json.loads(json_string)
+
 
 def load_freq_list():
     level_dictionary = {
