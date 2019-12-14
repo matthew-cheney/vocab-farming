@@ -1,4 +1,3 @@
-import pickle
 from glob import glob
 import sys
 import os
@@ -24,7 +23,7 @@ def process_book(directory):
     print(f'{len(chapters)} chapters')
     bookProcessor = BookProcessor()
 
-    # Load chapters into book processer
+    # Load chapters into book processor
     bookProcessor.load_book(chapters)
 
     # Process chapters, get chapters and all unique words in book
@@ -91,7 +90,7 @@ def write_master_dictionary(all_words_dictionary, directory, language_code):
         f.write(json_string)
 
 
-def check_file_structure(directory, language_code):
+def check_file_structure(directory):
     """ Ensure necessary file structure is in place """
 
     if not os.path.exists(f'Projects/{directory}'):
@@ -133,7 +132,7 @@ if __name__ == '__main__':
         print(f'{language_code_main} is not yet supported')
         exit(0)
 
-    message = check_file_structure(directory_main, language_code_main)
+    message = check_file_structure(directory_main)
     if not message == 'success':
         print(message)
         exit(0)
