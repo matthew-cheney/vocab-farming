@@ -35,3 +35,6 @@ How to: https://cloud.google.com/translate/docs/basic/setup-basic
 After you set up the API, you will have to set the GOOGLE_APPLICATION_CREDENTIALS environment variable every time you start a new terminal session:
 
 export GOOGLE_APPLICATION_CREDENTIALS=\<path_to_api_key\>
+
+## Preprocessing Chapters
+The Utils directory contains 2 scripts to help prepare texts for this project. They are called Full_Text_To_Raw_Chapters_Template.py and Raw_Chapters_To_Formatted_Template.py. However, these files are simply templates, and will likely need to be modified slightly to work with any specific book.
