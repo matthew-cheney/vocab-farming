@@ -27,9 +27,9 @@ Once everything is set up, run the program with the following command (from the 
 
 The script will create a new directory title as the chosen language code within the book's directory in Projects. Within that directory, the script will create 3 things:
 
-1. master_dictionary.txt: This JSON file contains all potentially unfamiliar words for the entire book, along with their approximate translations.
-2. study_guides/: This directory contains a JSON file for each chapter. Each file contains new words to learn for that chapter, word to remember from previous chapters, as well as other potentially unfamiliar words.
-3. directory_languageCode.pdf: This is a pdf representation of the JSON files listed above, for more convenient printing. In our example, this file is called Wizard_Of_Oz_es.pdf.
+1. <b>master_dictionary.txt</b>: This JSON file contains all potentially unfamiliar words for the entire book, along with their approximate translations.
+2. <b>study_guides</b>: This directory contains a JSON file for each chapter. Each file contains new words to learn for that chapter, word to remember from previous chapters, as well as other potentially unfamiliar words.
+3. <b>directory_languageCode.pdf</b>: This is a pdf representation of the JSON files listed above, for more convenient printing. In our example, this file is called Wizard_Of_Oz_es.pdf.
 
 Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
 PDF creation only supports Russian and Spanish.
