@@ -12,6 +12,7 @@ It calculates how many words it contains at each reading level, both
 including and excluding duplicates.
 """
 
+
 def main(project_name):
     nlp = spacy.load('en')
 
