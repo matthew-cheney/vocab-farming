@@ -32,4 +32,6 @@ In order to use language codes other than 'definitions', you must set up a proje
 
 How to: https://cloud.google.com/translate/docs/basic/setup-basic
 
-After you set up the API, you will have to set the GOOGLE_APPLICATION_CREDENTIALS environment variable every time you start a new terminal session.
+After you set up the API, you will have to set the GOOGLE_APPLICATION_CREDENTIALS environment variable every time you start a new terminal session:
+
+export GOOGLE_APPLICATION_CREDENTIALS=\<path_to_api_key\>
