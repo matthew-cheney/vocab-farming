@@ -4,11 +4,11 @@
 This tool aims to help those learning English at a mid to advanced level enlarge their vocabulary. It processes text, mainly from books, and returns study guides customized for each chapter. These study guides feature new words the learner might not know, as well as definitions for other potentially unfamiliar words.
 
 ## How to Use
-The tool is run from the driver file called <addr>Tester.py</addr>
+The tool is run from the driver file called <addr>ProcessBook.py</addr>
 
 Before running the tool, the user must create the following file structure. Follow these steps. We will use Tom Sawyer as our example book and definitions as our language code.
 
-In the same directory as Tester.py, create a directory called Tom_Sawyer
+In the same directory as <addr>ProcessBook.py</addr>, create a directory called Tom_Sawyer
 
 In the directory Tom_Sawyer, create a directory called chapters
 
@@ -22,9 +22,10 @@ Place each chapter to be processed in the directory chapters. Each chapter must 
 
 Once everything is set up, run the program with the following command:
 
-python3 Tester.py directory language_code
+<addr>python3 ProcessBook.py directory language_code</addr>
 
 Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
+PDF creation only supports Russian and Spanish.
 
 ## Google Translate API
 In order to use language codes other than 'definitions', you must set up a project with the Google Translate API. They currently offer a free tier of 500,000 characters per month.
