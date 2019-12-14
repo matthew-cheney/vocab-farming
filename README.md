@@ -22,7 +22,7 @@ Place each chapter to be processed in the directory chapters. Each chapter must 
 
 Once everything is set up, run the program with the following command:
 
-<addr>python3 ProcessBook.py directory language_code</addr>
+<addr>python3 ProcessBook.py <directory> <language_code></addr>
 
 Currently, the only supported language codes are definitions, ru (Russian), and es (Spanish).
 PDF creation only supports Russian and Spanish.
